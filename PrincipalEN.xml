@@ -1,0 +1,5016 @@
+<principal>
+<textos>
+
+  <mensaje>
+    <id>AVISO_TERREMOTO_DETECTADO</id>
+    <origen>ASISTENTE</origen>
+    <texto>Operator! An earthquake has been detected. An immediate full inspection of the plant is recommended to assess potential damage.</texto>
+    <sonidos>AVISO_TERREMOTO_DETECTADO_EN</sonidos>
+    <caras>AVISO</caras>
+    <movimientos></movimientos>
+    <cierre></cierre>
+  </mensaje>
+
+  <mensaje>
+<id>SITUACION_ALTA_TEMPERATURA_NUCLEO_BAJA</id>
+<origen>ASISTENTE</origen>
+<texto>The temperature has exceeded the operating maximum. If you don't reduce the temperature, dangerous degradation will occur. Check valves and circulation pumps. The cooling circuit may be compromised.</texto>
+<sonidos>AYUDA_ALARMA_AL001_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SITUACION_ALTA_PRESION_NUCLEO_BAJA</id>
+<origen>ASISTENTE</origen>
+<texto>The pressure has exceeded the maximum operating. If you don't reduce the pressure immediately, dangerous degradation will occur. Explosion and fire hazard.</texto>
+<sonidos>AYUDA_ALARMA_AL004_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SITUACION_VAPOR_PRESENTE_NUCLEO_MEDIA</id>
+<origen>ASISTENTE</origen>
+<texto>Steam has been detected in the primary circuit. Verify that the pressure is within the operating range. If the steam continues to rise, a critical situation may occur.</texto>
+<sonidos>AYUDA_ALARMA_AL049_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SITUACION_VAPOR_PRESENTE_NUCLEO_ALTA</id>
+<origen>ASISTENTE</origen>
+<texto>Too high a level of steam has been detected in the primary circuit. Verify that the pressure is within the operating range. If the steam continues to rise, a critical situation may occur.</texto>
+<sonidos>AYUDA_ALARMA_AL050_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SITUACION_VACIO_INSUFICIENTE_CONDENSADOR_ALTA</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, be careful with the Condenser. If the pressure is too high or the temperature gets too hot, condensation stops, and that's not good for the system.</texto>
+<sonidos>AO_SITUACION_VACIO_INSUFICIENTE_CONDENSADOR_ALTA_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SITUACION_ALTA_TEMPERATURA_CONDENSADOR_MEDIA</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, be careful with the Condenser. If the pressure is too high or the temperature gets too hot, condensation stops, and that's not good for the system.</texto>
+<sonidos>AO_SITUACION_VACIO_INSUFICIENTE_CONDENSADOR_ALTA_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SITUACION_BOMBA_VACIO_CON_RETORNO_CONDENSADOR_ALTA</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, vacuum pump must not run with return valve open. Close retention valve before proceeding, otherwise pump will work against backflow without establishing effective vacuum.</texto>
+<sonidos>AO_SITUACION_BOMBA_VACIO_CON_RETORNO_CONDENSADOR_ALTA_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SITUACION_BOMBA_VACIO_EN_SECO_CONDENSADOR_ALTA</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, vacuum pump must not run with empty tank. Check tank level or risk dry-running damage.</texto>
+<sonidos>AO_SITUACION_BOMBA_VACIO_EN_SECO_CONDENSADOR_ALTA_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_OCURRENCIA_COMBUSTIBLE_ATASCADO</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, there is a fuel block stuck in the core. The block has deformed due to high temperatures and will not be possible to remove. I suggest turning off the reactor and performing maintenance tasks to eliminate the waste.</texto>
+<sonidos>AO_OCURRENCIA_COMBUSTIBLE_ATASCADO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_OCURRENCIA_ESCOTILLA_EXPLOTADA</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, a hatch failed to withstand internal pressure and has suffered catastrophic damage. An emergency shutdown and full maintenance of the reactor is recommended.</texto>
+<sonidos>AO_OCURRENCIA_ESCOTILLA_EXPLOTADA_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_OCURRENCIA_EXTRACCION_INSEGURA</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, fuel blocks with broken seals and fissile material cannot be ejected from the core.  It would be too dangerous. I suggest consuming the block until there is no more fissile material.</texto>
+<sonidos>AO_OCURRENCIA_EXTRACCION_INSEGURA_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DYATLOV_RANDOM_2</id>
+<origen>ASISTENTE</origen>
+<texto>The RBMK is a safe reactor. It has been used for years.</texto>
+<sonidos>DYATLOV_RANDOM_2_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DYATLOV_EXPLOSION_RANDOM_3</id>
+<origen>ASISTENTE</origen>
+<texto>If they had done what I ordered, none of this would have happened.</texto>
+<sonidos>DYATLOV_EXPLOSION_RANDOM_3_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DYATLOV_EXPLOSION_RANDOM_2</id>
+<origen>ASISTENTE</origen>
+<texto>It wasn’t my fault.</texto>
+<sonidos>DYATLOV_EXPLOSION_RANDOM_2_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DYATLOV_EXPLOSION_RANDOM_1</id>
+<origen>ASISTENTE</origen>
+<texto>Call Bryukhanov and tell him we’ve lost the reactor.</texto>
+<sonidos>DYATLOV_EXPLOSION_RANDOM_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DYATLOV_ALTA_RADIACION</id>
+<origen>ASISTENTE</origen>
+<texto>The radiation can’t be that high. The Geiger counter is defective.</texto>
+<sonidos>DYATLOV_ALTA_RADIACION_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DYATLOV_REACTOR_EXPLOTADO</id>
+<origen>ASISTENTE</origen>
+<texto>The reactor lid did not explode. It couldn’t have exploded.</texto>
+<sonidos>DYATLOV_REACTOR_EXPLOTADO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DYATLOV_ALARMA_NIVEL_3</id>
+<origen>ASISTENTE</origen>
+<texto>There is no problem. Everything is under control.</texto>
+<sonidos>DYATLOV_ALARMA_NIVEL_3_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DYATLOV_RANDOM_1</id>
+<origen>ASISTENTE</origen>
+<texto>Proceed with the test!</texto>
+<sonidos>DYATLOV_RANDOM_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DYATLOV_PELIGRO_EXPLOSION</id>
+<origen>ASISTENTE</origen>
+<texto>If the reactor was going to explode,  we’d already be dead.</texto>
+<sonidos>DYATLOV_PELIGRO_EXPLOSION_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_COMANDO_ANALIZAR_DISPOSITIVO</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I'm going to start with the analysis of the requested device.</texto>
+<sonidos>AO_COMANDO_ANALIZAR_DISPOSITIVO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_COMANDO_ANALISIS_CERCANIAS</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I'm going to start with the analysis of nearby devices.</texto>
+<sonidos>AO_COMANDO_ANALISIS_CERCANIAS_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_COMANDO_ANALIZAR_ROOM</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I'm going to start with the analysis of the requested area.</texto>
+<sonidos>AO_COMANDO_ANALIZAR_ROOM_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_STEAM_GENERATOR_HIGH_1_1</id>
+<origen>ASISTENTE</origen>
+<texto>If there is excess coolant inside the condenser, open the exhaust valve to remove the excess.</texto>
+<sonidos>AO_STEAM_GENERATOR_HIGH_1_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_STEAM_GENERATOR_LOW_1_1</id>
+<origen>ASISTENTE</origen>
+<texto>The volume of coolant inside one or more steam generators is not correct. To increase the volume of coolant inside the steam generator, activate the condenser circulation pump.</texto>
+<sonidos>AO_STEAM_GENERATOR_LOW_1_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_STEAM_GENERATOR_LOW_1_2</id>
+<origen>ASISTENTE</origen>
+<texto>If there is not enough coolant inside the condenser, you must first activate the condenser charge pump.</texto>
+<sonidos>AO_STEAM_GENERATOR_LOW_1_2_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_RESULTADO_PRESURIZADOR</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I can't control the pressurizer anymore.</texto>
+<sonidos>AO_RESULTADO_PRESURIZADOR_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_RESULTADO_PRESURIZADOR_EXCESO_PRESION</id>
+<origen>ASISTENTE</origen>
+<texto>There is excess pressure inside the pressurizer for some external reason that I cannot control.</texto>
+<sonidos>AO_RESULTADO_PRESURIZADOR_EXCESO_PRESION_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_RESULTADO_PRESURIZADOR_EXCESO_TEMPERATURA</id>
+<origen>ASISTENTE</origen>
+<texto>There is an excess of temperature inside the pressurizer for some external reason that I cannot control.</texto>
+<sonidos>AO_RESULTADO_PRESURIZADOR_EXCESO_TEMPERATURA_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_RESULTADO_PRESURIZADOR_VALVULAS_NO_OPERATIVAS</id>
+<origen>ASISTENTE</origen>
+<texto>The safety valves related to the pressurizer are not operational.</texto>
+<sonidos>AO_RESULTADO_PRESURIZADOR_VALVULAS_NO_OPERATIVAS_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_RESULTADO_PRESURIZADOR_VOLUMEN_INVALIDO</id>
+<origen>ASISTENTE</origen>
+<texto>The volume inside the pressurizer is not within the safe operating parameters.</texto>
+<sonidos>AO_RESULTADO_PRESURIZADOR_VOLUMEN_INVALIDO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_RESULTADO_PRESURIZADOR_SIN_ENERGIA</id>
+<origen>ASISTENTE</origen>
+<texto>There is no power to remotely control the parameters of the pressurizer.</texto>
+<sonidos>AO_RESULTADO_PRESURIZADOR_SIN_ENERGIA_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_RESULTADO_PRESURIZADOR_NO_OPERATIVO</id>
+<origen>ASISTENTE</origen>
+<texto>The integrity of the pressurizer is outside of the safe operating parameters.</texto>
+<sonidos>AO_RESULTADO_PRESURIZADOR_NO_OPERATIVO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+
+<mensaje>
+<id>AO_RESULTADO_BDC</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I can no longer control the control rods.</texto>
+<sonidos>AO_RESULTADO_BDC_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_RESULTADO_BDC_AMPLITUD</id>
+<origen>ASISTENTE</origen>
+<texto>The difference between the current core temperature and the operating temperature is too high.</texto>
+<sonidos>AO_RESULTADO_BDC_AMPLITUD_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_RESULTADO_BDC_SIN_ENERGIA</id>
+<origen>ASISTENTE</origen>
+<texto>There is no power to remotely control the position of the control rods.</texto>
+<sonidos>AO_RESULTADO_BDC_SIN_ENERGIA_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_RESULTADO_BDC_NO_OPERATIVO</id>
+<origen>ASISTENTE</origen>
+<texto>The integrity of the control rods is outside the safe operating parameters.</texto>
+<sonidos>AO_RESULTADO_BDC_NO_OPERATIVO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_TOMANDO_CONTROL_PRESURIZADOR</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I am taking control of the Pressurizer to adjust and check that the pressure and temperature are within operating parameters.</texto>
+<sonidos>AO_TOMANDO_CONTROL_PRESURIZADOR_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_TOMANDO_CONTROL_BARRASDECONTROL</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I'm taking control of the control rods to stabilize the reactor core and keep it within operating parameters.</texto>
+<sonidos>AO_TOMANDO_CONTROL_BARRASDECONTROL_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_PUNTOS_INSUFICIENTES</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, you do not have enough prestige points for operational assistance.</texto>
+<sonidos>AO_PUNTOS_INSUFICIENTES_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE0_INTRO</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, you have requested assistance with the Ignition Protocol.</texto>
+<sonidos>AYUDA_PE0_INTRO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE0_PASO</id>
+<origen>ASISTENTE</origen>
+<texto>You need information for the Internal Emergency Power Generation.</texto>
+<sonidos>AYUDA_PE0_PASO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE0_0</id>
+<origen>ASISTENTE</origen>
+<texto>There is no generator set installed. You must acquire a generator set to be able to operate the plant safely.</texto>
+<sonidos>AYUDA_PE0_0_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE0_1</id>
+<origen>ASISTENTE</origen>
+<texto>There are no charged batteries in the emergency rack. The batteries can be charged when the reactor is generating power.</texto>
+<sonidos>AYUDA_PE0_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE0_2</id>
+<origen>ASISTENTE</origen>
+<texto>The generator set must be activated manually.</texto>
+<sonidos>AYUDA_PE0_2_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE0_3</id>
+<origen>ASISTENTE</origen>
+<texto>Press the START switch on the genset panel to turn it on.</texto>
+<sonidos>AYUDA_PE0_3_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE0_4</id>
+<origen>ASISTENTE</origen>
+<texto>If the generator set does not turn on, check that it has enough fuel.</texto>
+<sonidos>AYUDA_PE0_4_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE0_5</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, there is currently an internal emergency power supply.</texto>
+<sonidos>AYUDA_PE0_5_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE0_6</id>
+<origen>ASISTENTE</origen>
+<texto>The control room is not energized. Check wiring and main switches.</texto>
+<sonidos>AYUDA_PE0_6_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE0_7</id>
+<origen>ASISTENTE</origen>
+<texto>To start a generator, press the START button on the control table.</texto>
+<sonidos>AYUDA_PE0_7_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE0_8</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, you cannot proceed with the protocol until you have resolved the internal power supply.</texto>
+<sonidos>AYUDA_PE0_8_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE1_PASO</id>
+<origen>ASISTENTE</origen>
+<texto>You need information for the Activate and energize the reactor modules and the Control Room modules.</texto>
+<sonidos>AYUDA_PE1_PASO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE1_0</id>
+<origen>ASISTENTE</origen>
+<texto>Please activate the activation levers of the modules that I have illuminated so that you can identify them.</texto>
+<sonidos>AYUDA_PE1_0_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE1_1</id>
+<origen>ASISTENTE</origen>
+<texto>All modules are active. Now, wait for them to be energized. If the modules are not powered, check the internal power generation and distribution.</texto>
+<sonidos>AYUDA_PE1_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE2_PASO</id>
+<origen>ASISTENTE</origen>
+<texto>You need information to Ensure the correct volume of coolant inside the cooling circuit.</texto>
+<sonidos>AYUDA_PE2_PASO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE2_0</id>
+<origen>ASISTENTE</origen>
+<texto>The volume of coolant inside the circuit is not correct.</texto>
+<sonidos>AYUDA_PE2_0_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE2_1</id>
+<origen>ASISTENTE</origen>
+<texto>Water pump is out of service. You must repair or replace it to increase the flow of coolant.</texto>
+<sonidos>AYUDA_PE2_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE2_2</id>
+<origen>ASISTENTE</origen>
+<texto>Activates the water pump to increase coolant flow.</texto>
+<sonidos>AYUDA_PE2_2_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE2_3</id>
+<origen>ASISTENTE</origen>
+<texto>There is no working water pump. You must purchase and install a water pump.</texto>
+<sonidos>AYUDA_PE2_3_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE2_4</id>
+<origen>ASISTENTE</origen>
+<texto>The water pump is operational, you must wait until the volume of the coolant has increased.</texto>
+<sonidos>AYUDA_PE2_4_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE2_5</id>
+<origen>ASISTENTE</origen>
+<texto>If the volume does not increase, check the circuit valves and the integrity of the pipes. Maybe you should start a maintenance check.</texto>
+<sonidos>AYUDA_PE2_5_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE3_PASO</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to stabilize the coolant circulation inside the Reactor Core.</texto>
+<sonidos>AYUDA_PE3_PASO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE3_0</id>
+<origen>ASISTENTE</origen>
+<texto>The circulation of the coolant inside the reactor core is not correct.</texto>
+<sonidos>AYUDA_PE3_0_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE3_1</id>
+<origen>ASISTENTE</origen>
+<texto>The circulation pumps are out of service. You must repair or replace them in order to start the circulation of the coolant.</texto>
+<sonidos>AYUDA_PE3_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE3_2</id>
+<origen>ASISTENTE</origen>
+<texto>Activates the circulation pumps to start the circulation of the refrigerant.</texto>
+<sonidos>AYUDA_PE3_2_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE3_3</id>
+<origen>ASISTENTE</origen>
+<texto>Circulation pumps are operational, but do not have enough power to run. Check internal power generation and wiring.</texto>
+<sonidos>AYUDA_PE3_3_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE4_PASO</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to stabilize the circulation of the coolant from the generation room Condensers.</texto>
+<sonidos>AYUDA_PE4_PASO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE4_0</id>
+<origen>ASISTENTE</origen>
+<texto>The circulation of the coolant from the generation room Condensers is not correct.</texto>
+<sonidos>AYUDA_PE4_0_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE4_0B</id>
+<origen>ASISTENTE</origen>
+<texto>During the start-up of the reactor, the coolant must not circulate between the condensers and the steam generators.</texto>
+<sonidos>AYUDA_PE4_0B_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE5_PASO</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to stabilize the circulation of the coolant towards the Cooling Towers.</texto>
+<sonidos>AYUDA_PE5_PASO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE5_0</id>
+<origen>ASISTENTE</origen>
+<texto>The circulation of the coolant towards the Cooling Towers is not correct.</texto>
+<sonidos>AYUDA_PE5_0_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE6_PASO</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to prepare the reactor core Pressurizer.</texto>
+<sonidos>AYUDA_PE6_PASO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE6_0</id>
+<origen>ASISTENTE</origen>
+<texto>The Pressurizer is out of service. You must repair it in order to continue. It is not possible to operate the reactor if the Pressurizer is not operational.</texto>
+<sonidos>AYUDA_PE6_0_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE6_1</id>
+<origen>ASISTENTE</origen>
+<texto>The Pressurizer does not have the necessary volume to operate. You must actuate the valves to add or remove refrigerant until the operating volume is reached.</texto>
+<sonidos>AYUDA_PE6_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE6_2</id>
+<origen>ASISTENTE</origen>
+<texto>Pressurizer does not have operating temperature or pressure. You must activate the internal heaters to increase the temperature and pressure, or the cooling valves.</texto>
+<sonidos>AYUDA_PE6_2_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE7_PASO</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to introduce the Control Rods at 100% inside the Reactor Core.</texto>
+<sonidos>AYUDA_PE7_PASO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE7_0</id>
+<origen>ASISTENTE</origen>
+<texto>The control rods were destroyed. The reactor needs to go into maintenance and repair.</texto>
+<sonidos>AYUDA_PE7_0_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE7_1</id>
+<origen>ASISTENTE</origen>
+<texto>Some control rods were destroyed. The reactor needs to go into maintenance and repair. It is dangerous to operate the plant under these conditions.</texto>
+<sonidos>AYUDA_PE7_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE7_2</id>
+<origen>ASISTENTE</origen>
+<texto>Enter the value 100 in the position control and press the activation button. The internal motor will move the control rods to the requested position.</texto>
+<sonidos>AYUDA_PE7_2_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PE7_3</id>
+<origen>ASISTENTE</origen>
+<texto>The internal motor that controls the position of the control rods is not operational. You must replace it manually, or start maintenance tasks.</texto>
+<sonidos>AYUDA_PE7_3_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS0_PASO</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, you have requested assistance with the Stabilization Protocol.</texto>
+<sonidos>AYUDA_PS0_PASO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS0_0</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to enter the fuel block inside the Reactor Core.</texto>
+<sonidos>AYUDA_PS0_0_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS0_1</id>
+<origen>ASISTENTE</origen>
+<texto>In order for fission to be initiated, the radioactive fuel block must be introduced into the reactor core. Note that when you insert the fuel block, the chain reaction will start immediately.</texto>
+<sonidos>AYUDA_PS0_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS1_PASO</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to extract the Control Rods until the reaction starts.</texto>
+<sonidos>AYUDA_PS1_PASO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS1_0</id>
+<origen>ASISTENTE</origen>
+<texto>The control rods are not inserted completely inside the core, and that is correct.</texto>
+<sonidos>AYUDA_PS1_0_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS1_1</id>
+<origen>ASISTENTE</origen>
+<texto>You should pull out the control rods slightly. Enter the value 95 in the control rods position panel, and then press the button that activates the internal motors.</texto>
+<sonidos>AYUDA_PS1_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS1_2</id>
+<origen>ASISTENTE</origen>
+<texto>Regardless, fission will not occur because there is no fuel loaded in the reactor core.</texto>
+<sonidos>AYUDA_PS1_2_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS2_PASO</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to stabilizes the Reactor Core at operating temperature</texto>
+<sonidos>AYUDA_PS2_PASO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS2_0</id>
+<origen>ASISTENTE</origen>
+<texto>In order to proceed with reactor stabilization, you must first complete the previous steps of this protocol.</texto>
+<sonidos>AYUDA_PS2_0_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS2_1</id>
+<origen>ASISTENTE</origen>
+<texto>You must wait until the reactor has reached critical mass. To speed up the reaction, pull out the control rods a bit more.</texto>
+<sonidos>AYUDA_PS2_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS2_2</id>
+<origen>ASISTENTE</origen>
+<texto>The core has reached critical mass, but is operating below the operational limit.</texto>
+<sonidos>AYUDA_PS2_2_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS2_3</id>
+<origen>ASISTENTE</origen>
+<texto>To achieve the highest efficiency, the temperature must be adjusted so that the reactor core reaches and maintains the optimum operating temperature.</texto>
+<sonidos>AYUDA_PS2_3_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS2_4</id>
+<origen>ASISTENTE</origen>
+<texto>The core has reached critical mass, and has exceeded the operational limit. It is dangerous to operate the reactor under these conditions for too long.</texto>
+<sonidos>AYUDA_PS2_4_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS3_PASO</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to stabilizes the energy generation of the turbines.</texto>
+<sonidos>AYUDA_PS3_PASO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS3_0</id>
+<origen>ASISTENTE</origen>
+<texto>If the turbines do not reach the minimum operating power generation, they may need maintenance.</texto>
+<sonidos>AYUDA_PS3_0_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS3_1</id>
+<origen>ASISTENTE</origen>
+<texto>You should also check the valves associated with the circuit of the turbines and the condensers.</texto>
+<sonidos>AYUDA_PS3_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS4_PASO</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to provide energy to the external network.</texto>
+<sonidos>AYUDA_PS4_PASO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS4_0</id>
+<origen>ASISTENTE</origen>
+<texto>The energy generated must be delivered to the external network to meet daily or eventual objectives.</texto>
+<sonidos>AYUDA_PS4_0_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS4_1</id>
+<origen>ASISTENTE</origen>
+<texto>In an emergency, the control panel can be disconnected from the external network. If that were the case, all the energy generated would be used internally.</texto>
+<sonidos>AYUDA_PS4_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS4_2</id>
+<origen>ASISTENTE</origen>
+<texto>The illuminated switch allows to connect or disconnect the plant to the external network.</texto>
+<sonidos>AYUDA_PS4_2_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS4_3</id>
+<origen>ASISTENTE</origen>
+<texto>You must verify that the plant is currently connected to the external network.</texto>
+<sonidos>AYUDA_PS4_3_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS5_PASO</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to deactivates the internal emergency power.</texto>
+<sonidos>AYUDA_PS5_PASO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS5_0</id>
+<origen>ASISTENTE</origen>
+<texto>If the turbines are generating electrical power, the emergency systems must be deactivated.</texto>
+<sonidos>AYUDA_PS5_0_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS5_1</id>
+<origen>ASISTENTE</origen>
+<texto>Check that the generator sets are in automatic mode, or if you prefer to control them manually, put them in manual mode and deactivate them.</texto>
+<sonidos>AYUDA_PS5_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS5_2</id>
+<origen>ASISTENTE</origen>
+<texto>If the internally generated power is sufficient, you can charge the emergency batteries.</texto>
+<sonidos>AYUDA_PS5_2_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS5_3</id>
+<origen>ASISTENTE</origen>
+<texto>But keep in mind that all the energy that the plant consumes internally will not be delivered to the external network.</texto>
+<sonidos>AYUDA_PS5_3_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS5_4</id>
+<origen>ASISTENTE</origen>
+<texto>If you do not meet the level of service and the daily or eventual objectives, you will be penalized.</texto>
+<sonidos>AYUDA_PS5_4_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS5_5</id>
+<origen>ASISTENTE</origen>
+<texto>Sets battery control to Automatic or Charge Only.</texto>
+<sonidos>AYUDA_PS5_5_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS5_6</id>
+<origen>ASISTENTE</origen>
+<texto>If you set the control to Charge Only, keep in mind that in an emergency, they will not activate automatically.</texto>
+<sonidos>AYUDA_PS5_6_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PS_PREVIO</id>
+<origen>ASISTENTE</origen>
+<texto>In order to proceed with reactor start-up, you must first complete the previous steps of this protocol.</texto>
+<sonidos>AYUDA_PS_PREVIO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA0_PASO</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, you have requested assistance with the Shutdown Protocol.</texto>
+<sonidos>AYUDA_PA0_PASO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA0_00</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to turn on at least one generator set or verify that there are charged emergency batteries.</texto>
+<sonidos>AYUDA_PA0_00_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA0_01</id>
+<origen>ASISTENTE</origen>
+<texto>The turbines will stop generating energy, therefore, before starting the shutdown procedure</texto>
+<sonidos>AYUDA_PA0_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA0_02</id>
+<origen>ASISTENTE</origen>
+<texto>verify that there is at least one generator set ready to work, or emergency batteries with sufficient charge to maintain</texto>
+<sonidos>AYUDA_PA0_02_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA0_03</id>
+<origen>ASISTENTE</origen>
+<texto>the plant during the shutdown and cooling process.</texto>
+<sonidos>AYUDA_PA0_03_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA0_04</id>
+<origen>ASISTENTE</origen>
+<texto>There is no generator set active and generating power.</texto>
+<sonidos>AYUDA_PA0_04_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA0_05</id>
+<origen>ASISTENTE</origen>
+<texto>There is not enough fuel. Please recharge the generator set before continuing.</texto>
+<sonidos>AYUDA_PA0_05_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA0_06</id>
+<origen>ASISTENTE</origen>
+<texto>Verify that a generator set is installed and in good condition.</texto>
+<sonidos>AYUDA_PA0_06_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA0_07</id>
+<origen>ASISTENTE</origen>
+<texto>There is no backup power in the emergency battery rack.</texto>
+<sonidos>AYUDA_PA0_07_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA2_00</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to activate the coolant charge pump of the condensation circuit.</texto>
+<sonidos>AYUDA_PA2_00_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA2_01</id>
+<origen>ASISTENTE</origen>
+<texto>During the cooling procedure, the coolant from the condensation circuit will be used to help lower the temperature of the main circuit of the reactor core.</texto>
+<sonidos>AYUDA_PA2_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA2_02</id>
+<origen>ASISTENTE</origen>
+<texto>For this reason, the condenser must maintain a volume much higher than usual operating.</texto>
+<sonidos>AYUDA_PA2_02_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA2_03</id>
+<origen>ASISTENTE</origen>
+<texto>Activates the coolant load pump.</texto>
+<sonidos>AYUDA_PA2_03_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA3_00</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to activate the circulation pump of the condenser coolant circuit.</texto>
+<sonidos>AYUDA_PA3_00_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA3_01</id>
+<origen>ASISTENTE</origen>
+<texto>Cooling pumps draw in external water and circulate it through the condenser to cool it.</texto>
+<sonidos>AYUDA_PA3_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA3_02</id>
+<origen>ASISTENTE</origen>
+<texto>Activates the circulation pump.</texto>
+<sonidos>AYUDA_PA3_02_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA4_00</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to activate the coolant circulation pumps between the condenser and the evaporators.</texto>
+<sonidos>AYUDA_PA4_00_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA4_01</id>
+<origen>ASISTENTE</origen>
+<texto>The condenser/evaporator circulation pumps draw coolant from the condenser and propel it to the evaporators to cool them.</texto>
+<sonidos>AYUDA_PA4_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA4_02</id>
+<origen>ASISTENTE</origen>
+<texto>Activates the circulation pumps.</texto>
+<sonidos>AYUDA_PA4_02_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA5_00</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to open the evaporator drain valve.</texto>
+<sonidos>AYUDA_PA5_00_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA5_01</id>
+<origen>ASISTENTE</origen>
+<texto>To reduce the temperature of the evaporators, it is recommended to open the drain valve,</texto>
+<sonidos>AYUDA_PA5_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA5_02</id>
+<origen>ASISTENTE</origen>
+<texto>but it must be controlled with extreme caution that coolant is not lost faster than it is received from the condensing circuit,</texto>
+<sonidos>AYUDA_PA5_02_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA5_03</id>
+<origen>ASISTENTE</origen>
+<texto>since it could affect the general cooling of the primary circuit.</texto>
+<sonidos>AYUDA_PA5_03_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA5_04</id>
+<origen>ASISTENTE</origen>
+<texto>Open the drain valves.</texto>
+<sonidos>AYUDA_PA5_04_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA6_00</id>
+<origen>ASISTENTE</origen>
+<texto>You need help to remove the fuel block.</texto>
+<sonidos>AYUDA_PA6_00_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA6_01</id>
+<origen>ASISTENTE</origen>
+<texto>Once the core has been sufficiently cooled, the fuel block can be removed, ending the shutdown protocol.</texto>
+<sonidos>AYUDA_PA6_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA6_02</id>
+<origen>ASISTENTE</origen>
+<texto>Press the button to remove the fuel block from the core.</texto>
+<sonidos>AYUDA_PA6_02_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL001</id>
+<origen>ASISTENTE</origen>
+<texto>HIGH TEMPERATURE ALARM: The temperature has exceeded the operating maximum. If you don't reduce the temperature, dangerous degradation will occur. Check valves and circulation pumps. The cooling circuit may be compromised.</texto>
+<sonidos>AYUDA_ALARMA_AL001_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL001_1</id>
+<origen>ASISTENTE</origen>
+<texto>HIGH TEMPERATURE ALARM: The generator turbine temperature has exceeded the maximum operating temperature. If it continues to operate under these conditions, it will degrade dangerously. Fire danger.</texto>
+<sonidos>AYUDA_ALARMA_AL001_1_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL001_1</id>
+<origen>ASISTENTE</origen>
+<texto>You must reduce the steam flow to cool the turbine. Use the valves of the cooling circuit.</texto>
+<sonidos>AYUDA_ALARMA_AL001_1_2_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL001_2</id>
+<origen>ASISTENTE</origen>
+<texto>The generator turbine temperature has exceeded the maximum operating temperature. If it continues to operate under these conditions, it will degrade dangerously. Fire danger.</texto>
+<sonidos>AYUDA_ALARMA_AL001_2_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL001_2</id>
+<origen>ASISTENTE</origen>
+<texto>You must reduce the steam flow to cool the turbine. Use the valves of the cooling circuit.</texto>
+<sonidos>AYUDA_ALARMA_AL001_1_2_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL001_3</id>
+<origen>ASISTENTE</origen>
+<texto>The generator turbine temperature has exceeded the maximum operating temperature. If it continues to operate under these conditions, it will degrade dangerously. Fire danger.</texto>
+<sonidos>AYUDA_ALARMA_AL001_1_2_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL001_3</id>
+<origen>ASISTENTE</origen>
+<texto>You must reduce the steam flow to cool the turbine. Use the valves of the cooling circuit.</texto>
+<sonidos>AYUDA_ALARMA_AL001_1_2_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL002</id>
+<origen>ASISTENTE</origen>
+<texto>VERY HIGH TEMPERATURE ALARM: The temperature has far exceeded the operating maximum. If you don't reduce the temperature immediately, dangerous degradation will occur. Check valves and circulation pumps. The cooling circuit may be compromised.</texto>
+<sonidos>AYUDA_ALARMA_AL002_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL003</id>
+<origen>ASISTENTE</origen>
+<texto>CRITICAL TEMPERATURE ALARM: The temperature has exceeded the operating maximum to a critical level. If you don't reduce the temperature immediately, dangerous degradation will occur. Check valves and circulation pumps. The cooling circuit may be compromised.</texto>
+<sonidos>AYUDA_ALARMA_AL003_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL004</id>
+<origen>ASISTENTE</origen>
+<texto>HIGH PRESSURE ALARM: The pressure has exceeded the maximum operating. If you don't reduce the pressure immediately, dangerous degradation will occur. Explosion and fire hazard.</texto>
+<sonidos>AYUDA_ALARMA_AL004_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL005</id>
+<origen>ASISTENTE</origen>
+<texto>LOW INTEGRITY ALARM: The level of structural integrity has fallen below the safe minimum. If you do not reverse this situation, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL005_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL006</id>
+<origen>ASISTENTE</origen>
+<texto>CRITICAL INTEGRITY ALARM: The structural integrity level has dropped to a critical level. If you do not reverse this situation immediately, the degradation will compromise normal operation. Fire danger. Explosion hazard.</texto>
+<sonidos>AYUDA_ALARMA_AL006_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL007</id>
+<origen>ASISTENTE</origen>
+<texto>LOW QUANTITY ALARM: The coolant level inside the reactor core has dropped below the safe minimum. Danger of overheating and core meltdown.</texto>
+<sonidos>AYUDA_ALARMA_AL007_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL008</id>
+<origen>ASISTENTE</origen>
+<texto>DANGEROUS POSITION ALARM: Control rods are outside the core beyond the minimum safe level. Operating the reactor under these conditions can be dangerous. Danger of overheating and core meltdown.</texto>
+<sonidos>AYUDA_ALARMA_AL008_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL009</id>
+<origen>ASISTENTE</origen>
+<texto>LOW QUANTITY ALARM: The refrigerant level inside the circuit has exceeded the maximum operating level. If you do not reverse this situation immediately, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL009_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL011</id>
+<origen>ASISTENTE</origen>
+<texto>EMERGENCY STOP: The emergency shutdown has been activated until the reactor has reached safe conditions.</texto>
+<sonidos>AYUDA_ALARMA_AL011_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL012</id>
+<origen>ASISTENTE</origen>
+<texto>INTERNAL MOTOR DAMAGED ALARM: The motor that controls the position of the control rods has stopped working. Operating the reactor under these conditions can be dangerous. Danger of overheating and core meltdown.</texto>
+<sonidos>AYUDA_ALARMA_AL012_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL013</id>
+<origen>ASISTENTE</origen>
+<texto>NO ELECTRICAL VOLTAGE ALARM: A power outage has occurred that compromises the safety of the operation. Operating the reactor under these conditions can be dangerous. It is recommended to fix the power outage or initiate an emergency stop.</texto>
+<sonidos>AYUDA_ALARMA_AL013_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL014</id>
+<origen>ASISTENTE</origen>
+<texto>DESTROYED ALARM: The structural integrity has dropped beyond the critical point. Module destruction has occurred. Danger of fire, melting and radioactive release.</texto>
+<sonidos>AYUDA_ALARMA_AL014_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL015</id>
+<origen>ASISTENTE</origen>
+<texto>TURBINE OFF LINE ALARM: The electric turbine is out of service. There is no internal power generation. Check the operation of secondary emergency systems.</texto>
+<sonidos>AYUDA_ALARMA_AL015_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL015_1</id>
+<origen>ASISTENTE</origen>
+<texto>TURBINE 01 OFF LINE ALARM: Generator turbine 01 is out of service. Internal power generation will be degraded. </texto>
+<sonidos>AYUDA_ALARMA_AL015_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL015_2</id>
+<origen>ASISTENTE</origen>
+<texto>TURBINE 02 OFF LINE ALARM: Generator turbine 02 is out of service. Internal power generation will be degraded. </texto>
+<sonidos>AYUDA_ALARMA_AL015_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL015_3</id>
+<origen>ASISTENTE</origen>
+<texto>TURBINE 03 OFF LINE ALARM: Generator turbine 03 is out of service. Internal power generation will be degraded. </texto>
+<sonidos>AYUDA_ALARMA_AL015_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_ALSENSORRAD</id>
+<origen>ASISTENTE</origen>
+<texto>RADIATION DETECTED ALARM: A radiation leak has been detected inside the containment building. Use protective suits. Life-threatening contamination hazard.</texto>
+<sonidos>AYUDA_ALARMA_ALSENSORRAD_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL021</id>
+<origen>ASISTENTE</origen>
+<texto>LOW COOLANT FLOW ALARM: The coolant is not circulating inside the reactor core. Imminent danger of overheating and core meltdown. Check valves and circulation pumps.</texto>
+<sonidos>AYUDA_ALARMA_AL021_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL022_1</id>
+<origen>ASISTENTE</origen>
+<texto>DRY TURBINE 01 ALARM: The turbine is operating without coolant. Dry running will quickly degrade the turbine. It is recommended to stop turbine operation or restore coolant flow.</texto>
+<sonidos>AYUDA_ALARMA_AL022_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL022_2</id>
+<origen>ASISTENTE</origen>
+<texto>DRY TURBINE 02 ALARM: The turbine is operating without coolant. Dry running will quickly degrade the turbine. It is recommended to stop turbine operation or restore coolant flow.</texto>
+<sonidos>AYUDA_ALARMA_AL022_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL022_3</id>
+<origen>ASISTENTE</origen>
+<texto>DRY TURBINE 03 ALARM: The turbine is operating without coolant. Dry running will quickly degrade the turbine. It is recommended to stop turbine operation or restore coolant flow.</texto>
+<sonidos>AYUDA_ALARMA_AL022_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL023_1</id>
+<origen>ASISTENTE</origen>
+<texto>DAMAGED TURBINE 01 ALARM: The turbine is damaged and its operation is compromised. It is recommended to stop the operation of the turbine and start maintenance tasks.</texto>
+<sonidos>AYUDA_ALARMA_AL023_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL023_2</id>
+<origen>ASISTENTE</origen>
+<texto>DAMAGED TURBINE 02 ALARM: The turbine is damaged and its operation is compromised. It is recommended to stop the operation of the turbine and start maintenance tasks.</texto>
+<sonidos>AYUDA_ALARMA_AL023_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL023_3</id>
+<origen>ASISTENTE</origen>
+<texto>DAMAGED TURBINE 03 ALARM: The turbine is damaged and its operation is compromised. It is recommended to stop the operation of the turbine and start maintenance tasks.</texto>
+<sonidos>AYUDA_ALARMA_AL023_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL030_1</id>
+<origen>ASISTENTE</origen>
+<texto>HIGH TEMPERATURE ALARM: The temperature of steam generator 01 has exceeded the operating maximum. It is recommended to reduce the coolant temperature to prevent degradation.</texto>
+<sonidos>AYUDA_ALARMA_AL030_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL030_2</id>
+<origen>ASISTENTE</origen>
+<texto>HIGH TEMPERATURE ALARM: The temperature of steam generator 02 has exceeded the operating maximum. It is recommended to reduce the coolant temperature to prevent degradation.</texto>
+<sonidos>AYUDA_ALARMA_AL030_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL030_3</id>
+<origen>ASISTENTE</origen>
+<texto>HIGH TEMPERATURE ALARM: The temperature of steam generator 03 has exceeded the operating maximum. It is recommended to reduce the coolant temperature to prevent degradation.</texto>
+<sonidos>AYUDA_ALARMA_AL030_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL031_1</id>
+<origen>ASISTENTE</origen>
+<texto>HIGH PRESSURE ALARM: Steam generator 01 has exceeded the maximum operating pressure. It is recommended to reduce the pressure inside the steam generator to avoid its degradation. Explosion hazard.</texto>
+<sonidos>AYUDA_ALARMA_AL031_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL031_2</id>
+<origen>ASISTENTE</origen>
+<texto>HIGH PRESSURE ALARM: Steam generator 02 has exceeded the maximum operating pressure. It is recommended to reduce the pressure inside the steam generator to avoid its degradation. Explosion hazard.</texto>
+<sonidos>AYUDA_ALARMA_AL031_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL031_3</id>
+<origen>ASISTENTE</origen>
+<texto>HIGH PRESSURE ALARM: Steam generator 03 has exceeded the maximum operating pressure. It is recommended to reduce the pressure inside the steam generator to avoid its degradation. Explosion hazard.</texto>
+<sonidos>AYUDA_ALARMA_AL031_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL032_1</id>
+<origen>ASISTENTE</origen>
+<texto>LOW VOLUME ALARM: There is not enough coolant inside the steam generator. The continuity of operation of the power generation circuit is compromised.</texto>
+<sonidos>AYUDA_ALARMA_AL032_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL032_2</id>
+<origen>ASISTENTE</origen>
+<texto>LOW VOLUME ALARM: There is not enough coolant inside the steam generator. The continuity of operation of the power generation circuit is compromised.</texto>
+<sonidos>AYUDA_ALARMA_AL032_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL032_3</id>
+<origen>ASISTENTE</origen>
+<texto>LOW VOLUME ALARM: There is not enough coolant inside the steam generator. The continuity of operation of the power generation circuit is compromised.</texto>
+<sonidos>AYUDA_ALARMA_AL032_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL033_1</id>
+<origen>ASISTENTE</origen>
+<texto>DESTROYED STEAM GENERATOR ALARM: The steam generator has been destroyed. Loss of radioactive coolant. Imminent danger of overheating and fission of the reactor core.</texto>
+<sonidos>AYUDA_ALARMA_AL033_1_A_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL033_1</id>
+<origen>ASISTENTE</origen>
+<texto>Use protective suits. Life-threatening contamination hazard. Continuity of operation of the power generation circuit is compromised.</texto>
+<sonidos>AYUDA_ALARMA_AL033_1_B_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL033_2</id>
+<origen>ASISTENTE</origen>
+<texto>DESTROYED STEAM GENERATOR: The steam generator has been destroyed. Loss of radioactive coolant. Imminent danger of overheating and fission of the reactor core.</texto>
+<sonidos>AYUDA_ALARMA_AL033_1_A_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL033_2</id>
+<origen>ASISTENTE</origen>
+<texto>Use protective suits. Life-threatening contamination hazard. Continuity of operation of the power generation circuit is compromised.</texto>
+<sonidos>AYUDA_ALARMA_AL033_1_B_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL033_3</id>
+<origen>ASISTENTE</origen>
+<texto>DESTROYED STEAM GENERATOR: The steam generator has been destroyed. Loss of radioactive coolant. Imminent danger of overheating and fission of the reactor core.</texto>
+<sonidos>AYUDA_ALARMA_AL033_1_A_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL033_3</id>
+<origen>ASISTENTE</origen>
+<texto>Use protective suits. Life-threatening contamination hazard. Continuity of operation of the power generation circuit is compromised.</texto>
+<sonidos>AYUDA_ALARMA_AL033_1_B_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL034_1</id>
+<origen>ASISTENTE</origen>
+<texto>LOW INTEGRITY ALARM: The integrity of the steam generator has dropped below the operating limit. If you do not reverse this situation immediately, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL034_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL034_2</id>
+<origen>ASISTENTE</origen>
+<texto>LOW INTEGRITY ALARM: The integrity of the steam generator has dropped below the operating limit. If you do not reverse this situation immediately, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL034_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL034_3</id>
+<origen>ASISTENTE</origen>
+<texto>LOW INTEGRITY ALARM: The integrity of the steam generator has dropped below the operating limit. If you do not reverse this situation immediately, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL034_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL035_1</id>
+<origen>ASISTENTE</origen>
+<texto>CRITICAL INTEGRITY ALARM: The integrity of the steam generator has reached a critical level. If you do not reverse this situation immediately, the destruction will be irreversible.</texto>
+<sonidos>AYUDA_ALARMA_AL035_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL035_2</id>
+<origen>ASISTENTE</origen>
+<texto>CRITICAL INTEGRITY ALARM: The integrity of the steam generator has reached a critical level. If you do not reverse this situation immediately, the destruction will be irreversible.</texto>
+<sonidos>AYUDA_ALARMA_AL035_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL035_3</id>
+<origen>ASISTENTE</origen>
+<texto>CRITICAL INTEGRITY ALARM: The integrity of the steam generator has reached a critical level. If you do not reverse this situation immediately, the destruction will be irreversible.</texto>
+<sonidos>AYUDA_ALARMA_AL035_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL037</id>
+<origen>ASISTENTE</origen>
+<texto>LOW OUTPUT FLOW ALARM: Coolant outflow from reactor core vessel is too low. Danger of overheating and core meltdown. Check valves and circulation pumps.</texto>
+<sonidos>AYUDA_ALARMA_AL037_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL038</id>
+<origen>ASISTENTE</origen>
+<texto>LOW INTPUT FLOW ALARM: Reactor core vessel coolant inlet flow is too low. Danger of overheating and core meltdown. Check valves and circulation pumps.</texto>
+<sonidos>AYUDA_ALARMA_AL038_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL039</id>
+<origen>ASISTENTE</origen>
+<texto>REDUCED MOVEMENT DUE TO HIGH TEMP ALARM: The control rods have warped due to the high temperatures in the reactor core. If you do not reverse this situation, they will be immobilized. Use the operating crane if you need to move the control rods.</texto>
+<sonidos>AYUDA_ALARMA_AL039_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL040_1</id>
+<origen>ASISTENTE</origen>
+<texto>LOW INTEGRITY TURBINE 01 ALARM: The integrity of the generating turbine has dropped beyond the operating limit. If you do not reverse this situation immediately, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL040_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL040_2</id>
+<origen>ASISTENTE</origen>
+<texto>LOW INTEGRITY TURBINE 02 ALARM: The integrity of the generating turbine has dropped beyond the operating limit. If you do not reverse this situation immediately, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL040_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL040_3</id>
+<origen>ASISTENTE</origen>
+<texto>LOW INTEGRITY TURBINE 03 ALARM: The integrity of the generating turbine has dropped beyond the operating limit. If you do not reverse this situation immediately, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL040_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL041</id>
+<origen>ASISTENTE</origen>
+<texto>LOW VOLUME EXTERNAL VESSEL: The core must be surrounded by a coolant to make it easier to control and keep it stable. The containment vessel currently has a very low volume, which compromises the stability of the core.</texto>
+<sonidos>AYUDA_ALARMA_AL041_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL042_1</id>
+<origen>ASISTENTE</origen>
+<texto>NO POWER IN TURBINE 01: The turbine that returns the condensed coolant to the steam generator does not have enough power to run. If you do not reverse this situation immediately, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL042_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL042_2</id>
+<origen>ASISTENTE</origen>
+<texto>NO POWER IN TURBINE 02: The turbine that returns the condensed coolant to the steam generator does not have enough power to run. If you do not reverse this situation immediately, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL042_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL042_3</id>
+<origen>ASISTENTE</origen>
+<texto>NO POWER IN TURBINE 03: The turbine that returns the condensed coolant to the steam generator does not have enough power to run. If you do not reverse this situation immediately, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL042_1_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL043</id>
+<origen>ASISTENTE</origen>
+<texto>NO POWER IN COOLING TURBINE: The turbine that cools the condenser does not have enough energy to work. If you do not reverse this situation immediately, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL043_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL044</id>
+<origen>ASISTENTE</origen>
+<texto>PRESSURIZER HIGH TEMPERATURE: The pressurizer has exceeded the maximum operating temperature. If you do not reverse this situation immediately, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL044_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL045</id>
+<origen>ASISTENTE</origen>
+<texto>PRESSURIZER HIGH PRESSURE: The pressurizer has exceeded the maximum operating pressure. If you do not reverse this situation immediately, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL045_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL046</id>
+<origen>ASISTENTE</origen>
+<texto>PRESSURIZER LOW INTEGRITY: The integrity of the pressurizer has dropped beyond the operating limit. If you do not reverse this situation immediately, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL046_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL047</id>
+<origen>ASISTENTE</origen>
+<texto>CONDENSER HIGH PRESSURE: The condenser has exceeded the maximum operating pressure. If you do not reverse this situation immediately, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL047_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL048</id>
+<origen>ASISTENTE</origen>
+<texto>CONDENSER HIGH TEMPERATURE: The condenser has exceeded the maximum operating temperature. If you do not reverse this situation immediately, the degradation will compromise normal operation.</texto>
+<sonidos>AYUDA_ALARMA_AL048_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL049</id>
+<origen>ASISTENTE</origen>
+<texto>STEAM DETECTED: Steam has been detected in the primary circuit. Verify that the pressure is within the operating range. If the steam continues to rise, a critical situation may occur.</texto>
+<sonidos>AYUDA_ALARMA_AL049_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL050</id>
+<origen>ASISTENTE</origen>
+<texto>HIGH STEAM LEVEL: Too high a level of steam has been detected in the primary circuit. Verify that the pressure is within the operating range. If the steam continues to rise, a critical situation may occur.</texto>
+<sonidos>AYUDA_ALARMA_AL050_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL051</id>
+<origen>ASISTENTE</origen>
+<texto>TURBINE OVER-REVVING: The turbine is revving beyond its capacity. It will not be possible to maintain this level of turnover for too long. A critical situation may occur.</texto>
+<sonidos>AYUDA_ALARMA_AL051_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL052</id>
+<origen>ASISTENTE</origen>
+<texto>MISALIGNED CONTROL RODS: The control rods are not aligned and cannot be positioned mechanically. Service the control rods or manually align them.</texto>
+<sonidos>AYUDA_ALARMA_AL052_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL053</id>
+<origen>ASISTENTE</origen>
+<texto>NO RESISTANCE BANKS: There are no resistance banks, either they are deeply damaged or they are not connected to the grid. It is very dangerous to generate energy in these conditions.</texto>
+<sonidos>AYUDA_ALARMA_AL053_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_ALARMA_AL054</id>
+<origen>ASISTENTE</origen>
+<texto>OVERLOAD RESISTANCE BANKS: The energy exceeds the capacity of the RESISTANCE BANKS. If you do not reduce the power generated, the RESISTANCE BANKS will degrade and stop working.</texto>
+<sonidos>AYUDA_ALARMA_AL054_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P01_02</id>
+<origen>ASISTENTE</origen>
+<texto>A nuclear reactor is a facility capable of converting nuclear energy into thermal energy.</texto>
+<sonidos>EN_ACTIVACIONES_P01_02_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P01_03</id>
+<origen>ASISTENTE</origen>
+<texto>Reactors have the ability to initiate, control and maintain nuclear chain reactions that occur in the core.</texto>
+<sonidos>EN_ACTIVACIONES_P01_03_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P01_04</id>
+<origen>ASISTENTE</origen>
+<texto>We're at the reactor core control console.</texto>
+<sonidos>EN_ACTIVACIONES_P01_04_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P01_05</id>
+<origen>ASISTENTE</origen>
+<texto>The first step is to activate the reactor core.</texto>
+<sonidos>EN_ACTIVACIONES_P01_05_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P01_06</id>
+<origen>ASISTENTE</origen>
+<texto>Each active module consumes internal energy. At this time the emergency generator is active.</texto>
+<sonidos>EN_ACTIVACIONES_P01_06_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P02_01</id>
+<origen>ASISTENTE</origen>
+<texto>Now we must wait a few seconds until the module has been energized.</texto>
+<sonidos>EN_ACTIVACIONES_P02_01_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P03_01</id>
+<origen>ASISTENTE</origen>
+<texto>There is not enough internal energy to activate the module.</texto>
+<sonidos>EN_ACTIVACIONES_P03_01_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P03_02</id>
+<origen>ASISTENTE</origen>
+<texto>Please check the internal power supply.</texto>
+<sonidos>EN_ACTIVACIONES_P03_02_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P03_03</id>
+<origen>ASISTENTE</origen>
+<texto>The reactor core is now active.</texto>
+<sonidos>EN_ACTIVACIONES_P03_03_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P03_04</id>
+<origen>ASISTENTE</origen>
+<texto>The nuclear chain reaction is produced and maintained in the core of the reactor, with the aim of heating the water that will be used to power the turbines of the plant.</texto>
+<sonidos>EN_ACTIVACIONES_P03_04_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P04_01</id>
+<origen>ASISTENTE</origen>
+<texto>We are in the console of the control rods of the reactor core.</texto>
+<sonidos>EN_ACTIVACIONES_P04_01_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P04_02</id>
+<origen>ASISTENTE</origen>
+<texto>The control rods provide a quick means of controlling chain reactions.</texto>
+<sonidos>EN_ACTIVACIONES_P04_02_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P04_03</id>
+<origen>ASISTENTE</origen>
+<texto>These rods allow rapid changes in reactor power and its eventual shutdown in case of emergency.</texto>
+<sonidos>EN_ACTIVACIONES_P04_03_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P05_01</id>
+<origen>ASISTENTE</origen>
+<texto>The control rods are active.</texto>
+<sonidos>EN_ACTIVACIONES_P05_01_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+<mensaje>
+<id>EN_ACTIVACIONES_P05_02</id>
+<origen>ASISTENTE</origen>
+<texto>The core reactivity coefficient is increased or decreased by raising or lowering the control rods.</texto>
+<sonidos>EN_ACTIVACIONES_P05_02_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P05_03</id>
+<origen>ASISTENTE</origen>
+<texto>By raising or lowering them, the presence of neutrons in the core is modified.</texto>
+<sonidos>EN_ACTIVACIONES_P05_03_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P05_04</id>
+<origen>ASISTENTE</origen>
+<texto>We're at the reactor core coolant control console.</texto>
+<sonidos>EN_ACTIVACIONES_P05_04_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P05_05</id>
+<origen>ASISTENTE</origen>
+<texto>In order to take advantage of the thermal energy given off by nuclear fission reactions, a coolant is used.</texto>
+<sonidos>EN_ACTIVACIONES_P05_05_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P05_06</id>
+<origen>ASISTENTE</origen>
+<texto>The function of the coolant is to absorb this heat energy and transport it.</texto>
+<sonidos>EN_ACTIVACIONES_P05_06_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P06_01</id>
+<origen>ASISTENTE</origen>
+<texto>The coolant is active.</texto>
+<sonidos>EN_ACTIVACIONES_P06_01_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P06_02</id>
+<origen>ASISTENTE</origen>
+<texto>The coolant must be anticorrosive, with a high heat capacity and must not absorb neutrons.</texto>
+<sonidos>EN_ACTIVACIONES_P06_02_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P06_03</id>
+<origen>ASISTENTE</origen>
+<texto>Nuclear power plant coolant and control rods are two of the most important safety systems.</texto>
+<sonidos>EN_ACTIVACIONES_P06_03_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P06_04</id>
+<origen>ASISTENTE</origen>
+<texto>We are in the control console of the electric power turbine generators.</texto>
+<sonidos>EN_ACTIVACIONES_P06_04_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P06_05</id>
+<origen>ASISTENTE</origen>
+<texto>The steam turbine is a machine that exploits the thermal energy of steam at high pressure.</texto>
+<sonidos>EN_ACTIVACIONES_P06_05_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P06_06</id>
+<origen>ASISTENTE</origen>
+<texto>Thermal energy is converted into useful mechanical energy through an expansion thermodynamic transformation.</texto>
+<sonidos>EN_ACTIVACIONES_P06_06_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P07_01</id>
+<origen>ASISTENTE</origen>
+<texto>The generator turbine is active.</texto>
+<sonidos>EN_ACTIVACIONES_P07_01_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P07_02</id>
+<origen>ASISTENTE</origen>
+<texto>The steam turbine transforms the internal energy of steam into rotational kinetic energy.</texto>
+<sonidos>EN_ACTIVACIONES_P07_02_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P07_03</id>
+<origen>ASISTENTE</origen>
+<texto>We are in the control console of the core moderator.</texto>
+<sonidos>EN_ACTIVACIONES_P07_03_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P07_04</id>
+<origen>ASISTENTE</origen>
+<texto>The function of the moderator is to slow down the neutrons in nuclear fission reactions.</texto>
+<sonidos>EN_ACTIVACIONES_P07_04_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P07_05</id>
+<origen>ASISTENTE</origen>
+<texto>In order to take advantage of the nuclear energy of the atom, the objective is to maintain a nuclear chain reaction within the nuclear reactor.</texto>
+<sonidos>EN_ACTIVACIONES_P07_05_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P07_06</id>
+<origen>ASISTENTE</origen>
+<texto>Moving the neutrons too fast in the reactor core reduces the chance that they will collide with another atom.</texto>
+<sonidos>EN_ACTIVACIONES_P07_06_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P07_07</id>
+<origen>ASISTENTE</origen>
+<texto>In pressurized water reactors (PWR) the coolant acts as a moderator at the same time.</texto>
+<sonidos>EN_ACTIVACIONES_P07_07_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje> 
+
+<mensaje>
+<id>EN_ACTIVACIONES_P08_01</id>
+<origen>ASISTENTE</origen>
+<texto>The moderator is active.</texto>
+<sonidos>EN_ACTIVACIONES_P08_01_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P08_02</id>
+<origen>ASISTENTE</origen>
+<texto>The objective of the moderator is to reduce this speed and, in this way, obtain a better performance of the reactor.</texto>
+<sonidos>EN_ACTIVACIONES_P08_02_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P08_03</id>
+<origen>ASISTENTE</origen>
+<texto>We're at the core fuel control console.</texto>
+<sonidos>EN_ACTIVACIONES_P08_03_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P08_04</id>
+<origen>ASISTENTE</origen>
+<texto>A nuclear power plant uses nuclear fuel to power the reactor.</texto>
+<sonidos>EN_ACTIVACIONES_P08_04_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P08_05</id>
+<origen>ASISTENTE</origen>
+<texto>Atoms in nuclear fuel are progressively separated by the process of nuclear fission.</texto>
+<sonidos>EN_ACTIVACIONES_P08_05_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P08_06</id>
+<origen>ASISTENTE</origen>
+<texto>In each of these reactions, the material is transformed into other elements releasing thermal energy.</texto>
+<sonidos>EN_ACTIVACIONES_P08_06_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P09_01</id>
+<origen>ASISTENTE</origen>
+<texto>The fuel is active.</texto>
+<sonidos>EN_ACTIVACIONES_P09_01_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P09_02</id>
+<origen>ASISTENTE</origen>
+<texto>In order for the reactor to function, the mass of the nuclear fuel present in the reactor must reach the so-called critical mass.</texto>
+<sonidos>EN_ACTIVACIONES_P09_02_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P09_03</id>
+<origen>ASISTENTE</origen>
+<texto>Critical mass is the amount needed to start a chain reaction that is stably self-sufficient.</texto>
+<sonidos>EN_ACTIVACIONES_P09_03_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_ACTIVACIONES_P09_04</id>
+<origen>ASISTENTE</origen>
+<texto>The main reactor modules are active and ready to go.</texto>
+<sonidos>EN_ACTIVACIONES_P09_04_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>EN_SETEO_P02_05</id>
+<origen>ASISTENTE</origen>
+<texto>The heat generated must be dissipated, otherwise the temperature of the reactor would rise so much that it could melt.</texto>
+<sonidos>EN_SETEO_P02_05_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SECTOR_NUCLEO</id>
+<origen>ASISTENTE</origen>
+<texto>Core</texto>
+<sonidos>AO_SECTOR_NUCLEO_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SECTOR_REFRIGERANTE</id>
+<origen>ASISTENTE</origen>
+<texto>Coolant</texto>
+<sonidos>AO_SECTOR_REFRIGERANTE_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SECTOR_COMBUSTIBLE</id>
+<origen>ASISTENTE</origen>
+<texto>Fuel</texto>
+<sonidos>AO_SECTOR_COMBUSTIBLE_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SECTOR_BARRASCONTROL</id>
+<origen>ASISTENTE</origen>
+<texto>Control rods</texto>
+<sonidos>AO_SECTOR_BARRASCONTROL_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SECTOR_GENERADOR</id>
+<origen>ASISTENTE</origen>
+<texto>Generating turbine</texto>
+<sonidos>AO_SECTOR_GENERADOR_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SECTOR_MODERADOR</id>
+<origen>ASISTENTE</origen>
+<texto>Moderator</texto>
+<sonidos>AO_SECTOR_MODERADOR_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SECTOR_SERVICIOEA</id>
+<origen>ASISTENTE</origen>
+<texto>Emergency services</texto>
+<sonidos>AO_SECTOR_SERVICIOEA_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SECTOR_SUMINISTROINTERNO</id>
+<origen>ASISTENTE</origen>
+<texto>Internal supply</texto>
+<sonidos>AO_SECTOR_SUMINISTROINTERNO_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SECTOR_SALA_CONTROL</id>
+<origen>ASISTENTE</origen>
+<texto>Control room</texto>
+<sonidos>AO_SECTOR_SALA_CONTROL_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SECTOR_TORRES_ENFRIAMIENTO</id>
+<origen>ASISTENTE</origen>
+<texto>Cooling tower</texto>
+<sonidos>AO_SECTOR_TORRES_ENFRIAMIENTO_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SECTOR_DISTRIBUIDOR01</id>
+<origen>ASISTENTE</origen>
+<texto>Northern Distributor</texto>
+<sonidos>AO_SECTOR_DISTRIBUIDOR01_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SECTOR_DISTRIBUIDOR02</id>
+<origen>ASISTENTE</origen>
+<texto>Southern Distributor</texto>
+<sonidos>AO_SECTOR_DISTRIBUIDOR02_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESTADO_SITUACION_REACTOR</id>
+<origen>ASISTENTE</origen>
+<texto>Reactor status report</texto>
+<sonidos>AO_ESTADO_SITUACION_REACTOR_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESTADO_SITUACION_REACTOR_FINALIZADO</id>
+<origen>ASISTENTE</origen>
+<texto>Reactor status report completed</texto>
+<sonidos>AO_ESTADO_SITUACION_REACTOR_FINALIZADO_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESTADO_SITUACION_REACTOR_SN</id>
+<origen>ASISTENTE</origen>
+<texto>No news to report</texto>
+<sonidos>AO_ESTADO_SITUACION_REACTOR_SN_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESTADO_SITUACION_REACTOR_ALARMAS</id>
+<origen>ASISTENTE</origen>
+<texto>Active alarms</texto>
+<sonidos>AO_ESTADO_SITUACION_REACTOR_ALARMAS_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>NUC_INICIANDO</id>
+<origen>ASISTENTE</origen>
+<texto>The core is being started, but has not yet reached critical mass</texto>
+<sonidos>AO_NUC_INICIANDO_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>NUC_REACTIVO</id>
+<origen>ASISTENTE</origen>
+<texto>The core is reactive</texto>
+<sonidos>AO_NUC_REACTIVO_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>NUC_NOREACTIVO</id>
+<origen>ASISTENTE</origen>
+<texto>The core is not reactive</texto>
+<sonidos>AO_NUC_NOREACTIVO_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>NUCLEO_DESTRUIDO</id>
+<origen>ASISTENTE</origen>
+<texto>The core has been destroyed</texto>
+<sonidos>AO_NUCLEO_DESTRUIDO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>TURBINA_DESTRUIDA</id>
+<origen>ASISTENTE</origen>
+<texto>The power generation turbine has been destroyed</texto>
+<sonidos>AO_TURBINA_DESTRUIDA_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>REFRIGERANTE_DESTRUIDO</id>
+<origen>ASISTENTE</origen>
+<texto>The coolant circulation pump has been destroyed</texto>
+<sonidos>AO_REFRIGERANTE_DESTRUIDO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>TURBINAS_OPERANDO</id>
+<origen>ASISTENTE</origen>
+<texto>The turbine is generating power</texto>
+<sonidos>AO_TURBINAS_OPERANDO_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>TURBINAS_NO_OPERANDO</id>
+<origen>ASISTENTE</origen>
+<texto>The turbine is not generating power</texto>
+<sonidos>AO_TURBINAS_NO_OPERANDO_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>TURBINAS_CONECTADAS</id>
+<origen>ASISTENTE</origen>
+<texto>Connected to the external network</texto>
+<sonidos>AO_TURBINAS_CONECTADAS_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>TURBINAS_NO_CONECTADAS</id>
+<origen>ASISTENTE</origen>
+<texto>But it is not connected to the external network</texto>
+<sonidos>AO_TURBINAS_NO_CONECTADAS_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>REFRIGERANTE_CIRCULANDO</id>
+<origen>ASISTENTE</origen>
+<texto>Refrigerant is circulating</texto>
+<sonidos>AO_REFRIGERANTE_CIRCULANDO_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>INTEGRIDAD_DEBAJO</id>
+<origen>ASISTENTE</origen>
+<texto>Integrity below operating limit</texto>
+<sonidos>AO_INTEGRIDAD_DEBAJO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>RANGO_DEBAJO</id>
+<origen>ASISTENTE</origen>
+<texto>And it operates below the operating range</texto>
+<sonidos>AO_RANGO_DEBAJO_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>RANGO_NORMAL</id>
+<origen>ASISTENTE</origen>
+<texto>And operates within the operating range</texto>
+<sonidos>AO_RANGO_NORMAL_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>RANGO_ARRIBA</id>
+<origen>ASISTENTE</origen>
+<texto>And operate above the operating range</texto>
+<sonidos>AO_RANGO_ARRIBA_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SITUACION_AUMENTANDO</id>
+<origen>ASISTENTE</origen>
+<texto>Increasing in intensity</texto>
+<sonidos>AO_SITUACION_AUMENTANDO_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SITUACION_DISMINUTENDO</id>
+<origen>ASISTENTE</origen>
+<texto>Decreasing in intensity</texto>
+<sonidos>AO_SITUACION_DISMINUYENDO_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>SITUACION_ESTABLE</id>
+<origen>ASISTENTE</origen>
+<texto>In stable form</texto>
+<sonidos>AO_SITUACION_ESTABLE_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+  
+<mensaje>
+<id>AL001</id>
+<origen>GENERAL</origen>
+<texto>High temperature</texto>
+<sonidos>GENERAL_AL001_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL002</id>
+<origen>GENERAL</origen>
+<texto>Very high temperature</texto>
+<sonidos>GENERAL_AL002_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL003</id>
+<origen>GENERAL</origen>
+<texto>Critical temperature</texto>
+<sonidos>GENERAL_AL003_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL004</id>
+<origen>GENERAL</origen>
+<texto>High pressure</texto>
+<sonidos>GENERAL_AL004_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL005</id>
+<origen>GENERAL</origen>
+<texto>Low integrity</texto>
+<sonidos>GENERAL_AL005_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL006</id>
+<origen>GENERAL</origen>
+<texto>Critical integrity</texto>
+<sonidos>GENERAL_AL006_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL007</id>
+<origen>GENERAL</origen>
+<texto>Low quantity</texto>
+<sonidos>GENERAL_AL007_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL008</id>
+<origen>GENERAL</origen>
+<texto>Dangerous position</texto>
+<sonidos>GENERAL_AL008_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL009</id>
+<origen>GENERAL</origen>
+<texto>Excess volume</texto>
+<sonidos>GENERAL_AL009_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL010</id>
+<origen>GENERAL</origen>
+<texto>Low fuel</texto>
+<sonidos>GENERAL_AL010_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL011</id>
+<origen>GENERAL</origen>
+<texto>Active emergency stop</texto>
+<sonidos>GENERAL_AL011_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL012</id>
+<origen>GENERAL</origen>
+<texto>Damaged internal motor</texto>
+<sonidos>GENERAL_AL012_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL013</id>
+<origen>GENERAL</origen>
+<texto>No electrical voltage</texto>
+<sonidos>GENERAL_AL013_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL014</id>
+<origen>GENERAL</origen>
+<texto>Destroyed</texto>
+<sonidos>GENERAL_AL014_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL015</id>
+<origen>GENERAL</origen>
+<texto>Out of service</texto>
+<sonidos>GENERAL_AL015_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL016</id>
+<origen>GENERAL</origen>
+<texto>The crane has been stopped in a dangerous area. It should not be near the reactor core</texto>
+<sonidos>GENERAL_AL016_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL017</id>
+<origen>GENERAL</origen>
+<texto>Out of service. Operate manually</texto>
+<sonidos>GENERAL_AL017_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL018</id>
+<origen>GENERAL</origen>
+<texto>Unauthorized personnel in the control room</texto>
+<sonidos>GENERAL_AL018_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL019</id>
+<origen>GENERAL</origen>
+<texto>It is not safe to operate the crane on the control rods when the internal core motor is running</texto>
+<sonidos>GENERAL_AL019_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AL020</id>
+<origen>GENERAL</origen>
+<texto>The core containment building is flooded.</texto>
+<sonidos>GENERAL_AL020_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ALSENSORRAD</id>
+<origen>GENERAL</origen>
+<texto>Radiation has been detected outside the containment shield of the reactor core.</texto>
+<sonidos>GENERAL_ALSENSORRAD_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>MPA009</id>
+<origen>GENERAL</origen>
+<texto>Initiating the reaction to achieve critical mass</texto>
+<sonidos>GENERAL_MPA009_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>MPA010</id>
+<origen>GENERAL</origen>
+<texto>Attention! Invalid action. The core is currently reactive</texto>
+<sonidos>GENERAL_MPA010_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>MPA011</id>
+<origen>GENERAL</origen>
+<texto>Attention! Not enough fuel</texto>
+<sonidos>GENERAL_MPA011_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>MPA012</id>
+<origen>GENERAL</origen>
+<texto>Attention! Invalid action. An emergency stop is in progress</texto>
+<sonidos>GENERAL_MPA012_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>MPA012b</id>
+<origen>GENERAL</origen>
+<texto>Attention! The core temperature is too high. To start the protocol, the core temperature must be less than 10% of the operating temperature</texto>
+<sonidos>GENERAL_MPA012b_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>APAGANDO</id>
+<origen>ASISTENTE</origen>
+<texto>Turning me off</texto>
+<sonidos>ASISTENTE_APAGANDO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>N0</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I have received an update on my skills.</texto>
+<sonidos>ASISTENTE_N0_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>   
+
+<mensaje>
+<id>AO_HAB_CONTROL_PRESURIZADOR</id>
+<origen>ASISTENTE</origen>
+<texto>Now I can take control of the pressurizer and verify that it meets the operating requirements and safety limits.</texto>
+<sonidos>AO_HAB_CONTROL_PRESURIZADOR_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_HAB_CONTROL_BARRAS</id>
+<origen>ASISTENTE</origen>
+<texto>Now I can take control of the control rods to stabilize the reaction and keep the core temperature within operational requirements and safety limits.</texto>
+<sonidos>AO_HAB_CONTROL_BARRAS_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_HAB_PARADA_EMERGENCIA</id>
+<origen>ASISTENTE</origen>
+<texto>Now I can determine the need for an Emergency Stop in case of extreme danger, or if it is impossible to stabilize the reactor core.</texto>
+<sonidos>AO_HAB_PARADA_EMERGENCIA_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_HAB_TAREAS_ILIMITADAS</id>
+<origen>ASISTENTE</origen>
+<texto>Now I can perform all maintenance tasks according to the capacity of my battery.</texto>
+<sonidos>AO_HAB_TAREAS_ILIMITADAS_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_HAB_RECARGAR_ELECTROGENOS</id>
+<origen>ASISTENTE</origen>
+<texto>Now I can monitor the fuel level of the generator sets and recharge them automatically.</texto>
+<sonidos>AO_HAB_RECARGAR_ELECTROGENOS_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>3B</id>
+<origen>ASISTENTE</origen>
+<texto>I can not control the parameters of the reactor. The core is non-reactive, and there are no alarms.</texto>
+<sonidos>JUGADOR003BEN</sonidos>
+<caras>DESCONCIERTO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>5</id>
+<origen>ASISTENTE</origen>
+<texto>On my way.</texto>
+<sonidos>ASISTENTE005EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>5A</id>
+<origen>ASISTENTE</origen>
+<texto>Come with me, I will guide you.</texto>
+<sonidos>ASISTENTE005AEN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>5AF</id>
+<origen>ASISTENTE</origen>
+<texto>Here it is, we have arrived.</texto>
+<sonidos>ASISTENTE005AFEN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>6</id>
+<origen>ASISTENTE</origen>
+<texto>I will.</texto>
+<sonidos>ASISTENTE006EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>6B</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I cannot attend to your requests at this time.</texto>
+<sonidos>ASISTENTE006BEN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>6C</id>
+<origen>ASISTENTE</origen>
+<texto>Reactor integrity is compromised.</texto>
+<sonidos>ASISTENTE006CEN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>6D</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I'm taking operational control of the reactor.</texto>
+<sonidos>ASISTENTE006DEN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>6E</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, the reactor has been stabilized. You can ask me for control when you think it is necessary.</texto>
+<sonidos>ASISTENTE006EEN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CONTROL_01</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I cannot take control of the reactor because there is no open path to the control room.</texto>
+<sonidos>ASISTENTE_CONTROL_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CONTROL_02</id>
+<origen>ASISTENTE</origen>
+<texto>Please, open the doors manually, so I can get to the control room.</texto>
+<sonidos>ASISTENTE_CONTROL_02_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CONTROL_03</id>
+<origen>ASISTENTE</origen>
+<texto>Once you have done so, request again to take control of the reactor.</texto>
+<sonidos>ASISTENTE_CONTROL_03_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>7</id>
+<origen>GENERAL</origen>
+<texto>Warning!</texto>
+<sonidos>GENERAL007EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>8</id>
+<origen>GENERAL</origen>
+<texto>Danger alarm!</texto>
+<sonidos>GENERAL008EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>9</id>
+<origen>GENERAL</origen>
+<texto>Alarm!</texto>
+<sonidos>GENERAL009EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>10</id>
+<origen>GENERAL</origen>
+<texto>Danger alarm!</texto>
+<sonidos>GENERAL010EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>11</id>
+<origen>GENERAL</origen>
+<texto>Critical alarm!</texto>
+<sonidos>GENERAL011EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>12</id>
+<origen>GENERAL</origen>
+<texto>The reactor core temperature has exceeded the operating maximum</texto>
+<sonidos>GENERAL012EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>13</id>
+<origen>GENERAL</origen>
+<texto>The reactor core pressure has exceeded the operating maximum</texto>
+<sonidos>GENERAL013EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>14</id>
+<origen>GENERAL</origen>
+<texto>The integrity of the reactor core has dropped below the operating limit</texto>
+<sonidos>GENERAL014EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>15</id>
+<origen>GENERAL</origen>
+<texto>The integrity of the fuel core has fallen below the operating limit</texto>
+<sonidos>GENERAL015EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>16</id>
+<origen>GENERAL</origen>
+<texto>The integrity of the control rods of the reactor core has fallen below the operating limit</texto>
+<sonidos>GENERAL016EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>17</id>
+<origen>GENERAL</origen>
+<texto>The integrity of the moderator in the core of the reactor has dropped below the operating limit</texto>
+<sonidos>GENERAL017EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>18</id>
+<origen>GENERAL</origen>
+<texto>The reactor coolant temperature has exceeded the operating maximum</texto>
+<sonidos>GENERAL018EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>19</id>
+<origen>GENERAL</origen>
+<texto>The integrity of the reactor core cooling module has dropped below the operating limit</texto>
+<sonidos>GENERAL019EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>20</id>
+<origen>GENERAL</origen>
+<texto>The integrity of the turbine power generation has fallen below the operating limit</texto>
+<sonidos>GENERAL020EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>21</id>
+<origen>GENERAL</origen>
+<texto>Imminent danger! The temperature of the reactor core has reached a critical level</texto>
+<sonidos>GENERAL021EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>22</id>
+<origen>GENERAL</origen>
+<texto>Imminent danger! The integrity of the reactor core has dropped below the structural limit</texto>
+<sonidos>GENERAL022EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>23</id>
+<origen>GENERAL</origen>
+<texto>Imminent danger! The integrity of the reactor fuel core has dropped below the structural limit</texto>
+<sonidos>GENERAL023EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>24</id>
+<origen>GENERAL</origen>
+<texto>Imminent danger! The integrity of the control rods of the reactor core has fallen below the structural limit</texto>
+<sonidos>GENERAL024EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>25</id>
+<origen>GENERAL</origen>
+<texto>Imminent danger! The integrity of the moderator in the core of the reactor has dropped below the structural limit</texto>
+<sonidos>GENERAL025EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>26</id>
+<origen>GENERAL</origen>
+<texto>Imminent danger! The reactor core coolant temperature has exceeded the structural limit</texto>
+<sonidos>GENERAL026EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>27</id>
+<origen>GENERAL</origen>
+<texto>Imminent danger! The reactor core coolant pressure has exceeded the structural limit</texto>
+<sonidos>GENERAL027EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>28</id>
+<origen>GENERAL</origen>
+<texto>Imminent danger! The integrity of the cooling module has dropped below the structural limit</texto>
+<sonidos>GENERAL028EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>29</id>
+<origen>GENERAL</origen>
+<texto>Imminent danger! The integrity of the turbine power generation has fallen below the structural limit</texto>
+<sonidos>GENERAL029EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>30</id>
+<origen>GENERAL</origen>
+<texto>The reactor core coolant has started to circulate.</texto>
+<sonidos>GENERAL030EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AlertaPorSituacionInsegura</id>
+<origen>GENERAL</origen>
+<texto>Security alert. Primary circuit pumps have been disabled. There are open hatches or floodgates.</texto>
+<sonidos>AlertaPorSituacionInseguraEN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>31</id>
+<origen>GENERAL</origen>
+<texto>The reactor core coolant has stopped circulating.</texto>
+<sonidos>GENERAL031EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>30B1</id>
+<origen>GENERAL</origen>
+<texto>Control bar destroyed.</texto>
+<sonidos>GENERAL030B1EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>32</id>
+<origen>ASISTENTE</origen>
+<texto>Operator! The reactor core control rods are out of safety limits. Operating the reactor in these conditions could be dangerous. You should adjust the control rods until they reach the safe position.</texto>
+<sonidos>ASISTENTE032EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>33</id>
+<origen>GENERAL</origen>
+<texto>The emergency generator has started working.</texto>
+<sonidos>GENERAL033EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>34</id>
+<origen>GENERAL</origen>
+<texto>The emergency generator has stoped working.</texto>
+<sonidos>GENERAL034EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>34B</id>
+<origen>GENERAL</origen>
+<texto>The reactor has reached critical mass and its status has changed to reactive.</texto>
+<sonidos>GENERAL034BEN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>34C</id>
+<origen>GENERAL</origen>
+<texto>The reactor has lost critical mass reactivity and its state has changed to non-reactive.</texto>
+<sonidos>GENERAL034CEN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>PEM</id>
+<origen>GENERAL</origen>
+<texto>Warning! The emergency protocol has been started. Warning! Critical shutdown of the Reactor.</texto>
+<sonidos>GENERAL0PEMEN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>PEMINV</id>
+<origen>GENERAL</origen>
+<texto>Attention! Unable to start emergency protocol when the core of the reactor is not reactive.</texto>
+<sonidos>GENERAL0PEMINVEN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>38B</id>
+<origen>ASISTENTE</origen>
+<texto>There is nothing more that I can help at this time.</texto>
+<sonidos>ASISTENTE038BEN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_CONTROL_SI</id>
+<origen>GENERAL</origen>
+<texto>The Operations Assistant has taken control of the reactor.</texto>
+<sonidos>GENERAL_AO_CONTROL_SI_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_CONTROL_NO</id>
+<origen>GENERAL</origen>
+<texto>The Operations Assistant has released control of the reactor.</texto>
+<sonidos>GENERAL_AO_CONTROL_NO_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CS01</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, there is no internal power supply. It is impossible to control the reactor under these conditions.</texto>
+<sonidos>ASISTENTE0CS01EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CS02</id>
+<origen>ASISTENTE</origen>
+<texto>The internal emergency generator is stopped. You must activate it to supply power to the reactor modules.</texto>
+<sonidos>ASISTENTE0CS02EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CS03</id>
+<origen>ASISTENTE</origen>
+<texto>The internal emergency generator is out of fuel. You must use the emergency batteries to supply power to the reactor modules.</texto>
+<sonidos>ASISTENTE0CS03EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CS04</id>
+<origen>ASISTENTE</origen>
+<texto>Emergency batteries are discharged. You must find replacement batteries!</texto>
+<sonidos>ASISTENTE0CS04EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CS06</id>
+<origen>ASISTENTE</origen>
+<texto>I can keep working because I have a separate battery. The engineers who designed me thought that my systems should be independent.</texto>
+<sonidos>ASISTENTE0CS06EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CS08</id>
+<origen>ASISTENTE</origen>
+<texto>Well done, Operator. You must closely monitor the internal supply. A failure in the supply during the operation of the Reactor is very dangerous.</texto>
+<sonidos>ASISTENTE0CS08EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_AYUDA_001</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, if you need assistance to start up the reactor, remember that you can ask me for help at any time.</texto>
+<sonidos>AO_AYUDA_001_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>206</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, in order to start the maintenance protocol, the reactor must be inactive and in a non-reactive state.</texto>
+<sonidos>ASISTENTE206EN</sonidos>
+<caras>DESCONCIERTO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_BIENVENIDA_LIBRE_1</id>
+<origen>ASISTENTE</origen>
+<texto>Welcome! My name is AO, and I am the Operations Assistant for the reactor. The plant is ready to go into operation.</texto>
+<sonidos>AO_BIENVENIDA_LIBRE_1_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_BIENVENIDA_LIBRE_2</id>
+<origen>ASISTENTE</origen>
+<texto>If you need my help, please let me know.</texto>
+<sonidos>AO_BIENVENIDA_LIBRE_2_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_BIENVENIDA_LIBRE_3</id>
+<origen>ASISTENTE</origen>
+<texto>You will find me in the control room.</texto>
+<sonidos>AO_BIENVENIDA_LIBRE_3_EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ENE0201</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, the internal motor of the reactor core control rods has stopped working. Without that motor, the control rods will not be able to be adjusted.</texto>
+<sonidos>ASISTENTEENE0201EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ENE0201B</id>
+<origen>ASISTENTE</origen>
+<texto>It is an extremely dangerous situation because the core is reactive at this time.</texto>
+<sonidos>ASISTENTEENE0201BEN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ENE0202</id>
+<origen>ASISTENTE</origen>
+<texto>You must replace the burned plate internal motor.</texto>
+<sonidos>ASISTENTEENE0202EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ENE0202B</id>
+<origen>ASISTENTE</origen>
+<texto>To stop the fission of the core, with the help of the operating crane, insert the control rods completely inside the core.</texto>
+<sonidos>ASISTENTEENE0202BEN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ENE0203V60</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, if you insert the control rods by 60%, with the help of the operating crane, I can try to stabilize the reactor.</texto>
+<sonidos>ASISTENTEENE0203V60EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ENE0202G01</id>
+<origen>ASISTENTE</origen>
+<texto>To expose the core of the reactor, waits until it has cooled, and then toggles the power supply to the off position.</texto>
+<sonidos>ASISTENTE_ENE0202G01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ENE0202G02</id>
+<origen>ASISTENTE</origen>
+<texto>The operating crane is in a dangerous area. It will not be possible to expose the core until you have moved it to a safe area.</texto>
+<sonidos>ASISTENTE_ENE0202G02_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ENE0301</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, the explosion of the core is practically inevitable.</texto>
+<sonidos>ASISTENTEENE0301EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ENE0302</id>
+<origen>ASISTENTE</origen>
+<texto>I'm activating the Bunker so you can take shelter.</texto>
+<sonidos>ASISTENTEENE0302EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ENE0303</id>
+<origen>ASISTENTE</origen>
+<texto>You must evacuate as soon as possible.</texto>
+<sonidos>ASISTENTEENE0303EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>300DC</id>
+<origen>GENERAL</origen>
+<texto>The core of the reactor fuel has been opened.</texto>
+<sonidos>GENERAL300DCEN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>304DC</id>
+<origen>ASISTENTE</origen>
+<texto>Come with me, we'll go to the reactor core.</texto>
+<sonidos>ASISTENTE304DCEN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CR001</id>
+<origen>GENERAL</origen>
+<texto>Attention! The integrity of the core has dropped to critical levels. Imminent meltdown. Start the evacuation protocol.</texto>
+<sonidos>GENERALCR001EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CR002</id>
+<origen>GENERAL</origen>
+<texto>The core temperature has dropped to operational levels. Core meltdown has stopped.</texto>
+<sonidos>GENERALCR002EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CC001</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, a voltage drop has occurred</texto>
+<sonidos>ASISTENTECC001EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CC001_SC</id>
+<origen>ASISTENTE</origen>
+<texto>the Control Room.</texto>
+<sonidos>ASISTENTECC001_SCEN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CC001_GE</id>
+<origen>ASISTENTE</origen>
+<texto>the Power Generation Turbine room.</texto>
+<sonidos>ASISTENTECC001_GEEN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CC001_RE</id>
+<origen>ASISTENTE</origen>
+<texto>the Refrigeration room.</texto>
+<sonidos>ASISTENTECC001_REEN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CC001_SI</id>
+<origen>ASISTENTE</origen>
+<texto>the Internal Supply room.</texto>
+<sonidos>ASISTENTECC001_SIEN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CC001_TO</id>
+<origen>ASISTENTE</origen>
+<texto>the Cooling Towers sector.</texto>
+<sonidos>ASISTENTECC001_TOEN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CC002_TO</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, the emergency system is offline. It is not possible to derive refrigerant to the Cooling Towers.</texto>
+<sonidos>ASISTENTECC002_TOEN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CC001_NU</id>
+<origen>ASISTENTE</origen>
+<texto>the Reactor Core.</texto>
+<sonidos>ASISTENTECC001_NUEN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CC001_XX</id>
+<origen>ASISTENTE</origen>
+<texto>various sectors.</texto>
+<sonidos>ASISTENTECC001_XXEN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CC002</id>
+<origen>ASISTENTE</origen>
+<texto>There is a short circuit in the power lines in the service tunnels that you must repair.</texto>
+<sonidos>ASISTENTECC002EN</sonidos>
+<caras>NORMAL</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CC003</id>
+<origen>ASISTENTE</origen>
+<texto>The plant has not been operational for too long, I was waiting for a situation like this. The connections need maintenance, and have not received it.</texto>
+<sonidos>ASISTENTECC003EN</sonidos>
+<caras>AFLIGIDO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CC004</id>
+<origen>ASISTENTE</origen>
+<texto>In the Internal Supply room you will find the high voltage repair clamp.</texto>
+<sonidos>ASISTENTECC004EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CC005</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, the generator turbine has been taken out of service due to an internal fault and requires maintenance. Activates the backup turbine. Initiate the maintenance protocol when possible.</texto>
+<sonidos>ASISTENTECC005EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CC006</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, turbine generator has been out of service for an internal failure and requires maintenance. There are no turbines available. Start the maintenance protocol as soon as possible.</texto>
+<sonidos>ASISTENTECC006EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CC007</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, the cooling towers are out of service due to an internal failure and require maintenance.</texto>
+<sonidos>ASISTENTECC007EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CC008</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, the reactor is in danger and the cooling towers are out of service. You must reach the manual control valve and open it all the way to force the circulation of the refrigerant.</texto>
+<sonidos>ASISTENTECC008EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>TR001</id>
+<origen>GENERAL</origen>
+<texto>Attention! Soon we will be arriving at destination</texto>
+<sonidos>TREN_TR001_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>TR002</id>
+<origen>GENERAL</origen>
+<texto>Please remember to follow security protocols at all times</texto>
+<sonidos>TREN_TR002_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>TR003</id>
+<origen>GENERAL</origen>
+<texto>Attention! We have arrived at our destination: Reactor number two of the Nucleares company</texto>
+<sonidos>TREN_TR003_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>TR009</id>
+<origen>GENERAL</origen>
+<texto>Have a nice day</texto>
+<sonidos>TREN_TR009_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_TURBINAS_GENERANDO_ENERGIA</id>
+<origen>GENERAL</origen>
+<texto>Attention! Turbines have begun to generate power.</texto>
+<sonidos>GENERAL_AYUDA_TURBINAS_GENERANDO_ENERGIA_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_TURBINAS_DEJANDO_DE_GENERAR_ENERGIA</id>
+<origen>GENERAL</origen>
+<texto>Attention! Turbines have stopped generating energy.</texto>
+<sonidos>GENERAL_AYUDA_TURBINAS_DEJANDO_DE_GENERAR_ENERGIA_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_TURBINAS_BAJA_TEMPERATURA</id>
+<origen>GENERAL</origen>
+<texto>The internal temperature of the turbines has fallen below the operational limit.</texto>
+<sonidos>GENERAL_AYUDA_TURBINAS_BAJA_TEMPERATURA_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AVISO_REACTOR_INESTABLE_01</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, the reactor is active and not stabilized.</texto>
+<sonidos>AO_AVISO_REACTOR_INESTABLE_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AVISO_REACTOR_INESTABLE_02</id>
+<origen>ASISTENTE</origen>
+<texto>It is imperative that you return to the Control Room.</texto>
+<sonidos>AO_AVISO_REACTOR_INESTABLE_02_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DES01</id>
+<origen>GENERAL</origen>
+<texto>Operator detected in the decontamination module.</texto>
+<sonidos>DES01_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DES02</id>
+<origen>GENERAL</origen>
+<texto>Please don't move.</texto>
+<sonidos>DES02_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DES03</id>
+<origen>GENERAL</origen>
+<texto>ERROR. The process could not be completed.</texto>
+<sonidos>DES03_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DES04</id>
+<origen>GENERAL</origen>
+<texto>Analyzing...</texto>
+<sonidos>DES04_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DES05</id>
+<origen>GENERAL</origen>
+<texto>Analysis completed successfully.</texto>
+<sonidos>DES05_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DES06</id>
+<origen>GENERAL</origen>
+<texto>ATTENTION! Radioactivity detected.</texto>
+<sonidos>DES06_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DES07</id>
+<origen>GENERAL</origen>
+<texto>Radioactivity not detected.</texto>
+<sonidos>DES07_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DES08</id>
+<origen>GENERAL</origen>
+<texto>Decontaminating...</texto>
+<sonidos>DES08_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DES09</id>
+<origen>GENERAL</origen>
+<texto>Decontaminating completed successfully.</texto>
+<sonidos>DES09_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DES10</id>
+<origen>GENERAL</origen>
+<texto>ATTENTION! The doors could not be closed.</texto>
+<sonidos>DES10_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>REP_MANT_INICIADO_01</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I'm going to start with the analysis of the situation of the plant.</texto>
+<sonidos>REP_MANT_INICIADO_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>REP_MANT_FINALIZADO_01</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, maintenance report is complete. Now you can check it from your tablet.</texto>
+<sonidos>REP_MANT_FINALIZADO_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>REP_MANT_SUSPENDIDO_01</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, the situation analysis of the plant has been suspended.</texto>
+<sonidos>REP_MANT_SUSPENDIDO_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>TAREA_MANT_INICIADO_01</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I'm going to start with the maintenance tasks. During this time, I will not be able to respond to your commands.</texto>
+<sonidos>TAREA_MANT_INICIADO_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>TAREA_MANT_FINALIZADO_01</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, maintenance tasks have been completed successfully.</texto>
+<sonidos>TAREA_MANT_FINALIZADO_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>TAREA_MANT_ANULADA_01</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, some tasks could not be completed successfully. Updated information is available on your operating tablet.</texto>
+<sonidos>TAREA_MANT_ANULADA_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>TAREA_MANT_ERROR_01</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, the control rods controller box is empty, the controller could not be repaired.</texto>
+<sonidos>TAREA_MANT_ERROR_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>TAREA_MANT_SIN_FONDOS_01</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, you don't have enough Prestige Points to cover the maintenance costs for the selected tasks.</texto>
+<sonidos>TAREA_MANT_SIN_FONDOS_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>TAREA_MANT_SIN_TAREAS_01</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, there are no tasks selected to perform maintenance. Please, use your operating tablet to select the tasks you want me to perform.</texto>
+<sonidos>TAREA_MANT_SIN_TAREAS_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CONTENEDORES_DELIVERY_01</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, there are no containers to transport.</texto>
+<sonidos>CONTENEDORES_DELIVERY_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CONTENEDORES_DELIVERY_02</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, the containers with the orders placed have been transferred to the internal supply room and are available for unpacking.</texto>
+<sonidos>CONTENEDORES_DELIVERY_02_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>DESTINO_INALCANZABLE_01</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I cannot reach the requested destination.</texto>
+<sonidos>DESTINO_INALCANZABLE_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CORTOCIRCUITO_INFO_01</id>
+<origen>ASISTENTE</origen>
+<texto>You have to identify the damaged cable and add it to the maintenance task list, or you can order me to analyze the status of the entire plant.</texto>
+<sonidos>CORTOCIRCUITO_INFO_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA7_00</id>
+<origen>ASISTENTE</origen>
+<texto>Analyzing the situation of the reactor. The analysis will take a few minutes.</texto>
+<sonidos>AYUDA_PA7_00_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA7_01</id>
+<origen>ASISTENTE</origen>
+<texto>The protocol is complete.</texto>
+<sonidos>AYUDA_PA7_01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA7_02</id>
+<origen>ASISTENTE</origen>
+<texto>The reactor core is cooling at a normal and safe rate.</texto>
+<sonidos>AYUDA_PA7_02_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA7_03</id>
+<origen>ASISTENTE</origen>
+<texto>The reactor core is cooling at a slower than normal rate.</texto>
+<sonidos>AYUDA_PA7_03_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA7_04</id>
+<origen>ASISTENTE</origen>
+<texto>Attention! It is unlikely that the core can be cooled.</texto>
+<sonidos>AYUDA_PA7_04_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA7_05</id>
+<origen>ASISTENTE</origen>
+<texto>Attention! The situation is irreversible.</texto>
+<sonidos>AYUDA_PA7_05_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA7_06</id>
+<origen>ASISTENTE</origen>
+<texto>The protocol is not complete. You must complete all required actions.</texto>
+<sonidos>AYUDA_PA7_06_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA7_M01</id>
+<origen>ASISTENTE</origen>
+<texto>The control rods are deteriorated, it is not possible to fully absorb the remaining power generation.</texto>
+<sonidos>AYUDA_PA7_M01_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA7_M02</id>
+<origen>ASISTENTE</origen>
+<texto>There is not enough volume of coolant in the primary circuit.</texto>
+<sonidos>AYUDA_PA7_M02_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA7_M03</id>
+<origen>ASISTENTE</origen>
+<texto>The temperature dissipation is lower than required.</texto>
+<sonidos>AYUDA_PA7_M03_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA7_M04</id>
+<origen>ASISTENTE</origen>
+<texto>The circulation speed of the coolant in the primary circuit is too low.</texto>
+<sonidos>AYUDA_PA7_M04_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA7_M05</id>
+<origen>ASISTENTE</origen>
+<texto>There is not enough volume of coolant in the condensing circuit.</texto>
+<sonidos>AYUDA_PA7_M05_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA7_M06</id>
+<origen>ASISTENTE</origen>
+<texto>The coolant circulation speed in the condensing circuit is too low.</texto>
+<sonidos>AYUDA_PA7_M06_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA7_M07</id>
+<origen>ASISTENTE</origen>
+<texto>The drain valves of one or more evaporators are closed. The combination of draining and circulating coolant increases the rate of dissipation.</texto>
+<sonidos>AYUDA_PA7_M07_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AYUDA_PA7_M08</id>
+<origen>ASISTENTE</origen>
+<texto>I was not able to determine the reasons at this time, but I can repeat the analysis at a later time to determine if there were any changes.</texto>
+<sonidos>AYUDA_PA7_M08_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CORE_NUEVO_MODO_OPERACION</id>
+<origen>GENERAL</origen>
+<texto>New operating mode established</texto>
+<sonidos>CORE_NUEVO_MODO_OPERACION_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CORE_MODO_NOMINAL</id>
+<origen>GENERAL</origen>
+<texto>Nominal Mode</texto>
+<sonidos>CORE_MODO_NOMINAL_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CORE_MODO_MAXIMO</id>
+<origen>GENERAL</origen>
+<texto>Maximum Mode</texto>
+<sonidos>CORE_MODO_MAXIMO_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CORE_MODO_APAGADO</id>
+<origen>GENERAL</origen>
+<texto>Shutdown Mode</texto>
+<sonidos>CORE_MODO_APAGADO_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_REACTOR_MODO_SHUTDOWN</id>
+<origen>ASISTENTE</origen>
+<texto>Reactor is in shutdown mode.</texto>
+<sonidos>AO_REACTOR_MODO_SHUTDOWN_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_AVISO_AUDITORIA</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, we have received a notification from the National Atomic Energy Commission. They have scheduled a visit to audit the plant.</texto>
+<sonidos>AO_AVISO_AUDITORIA_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_AUTO_RECARGA_ELECTROGENOS_0</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I am taking control of the monitoring and refueling of the generator sets.</texto>
+<sonidos>AO_AUTO_RECARGA_ELECTROGENOS_0_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_AUTO_RECARGA_ELECTROGENOS_1</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I can no longer control the monitoring and refueling of the generator sets.</texto>
+<sonidos>AO_AUTO_RECARGA_ELECTROGENOS_1_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_AUTO_RECARGA_ELECTROGENOS_2</id>
+<origen>ASISTENTE</origen>
+<texto>There are no fuel drums available to recharge the generating set.</texto>
+<sonidos>AO_AUTO_RECARGA_ELECTROGENOS_2_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_AUTO_RECARGA_ELECTROGENOS_3</id>
+<origen>ASISTENTE</origen>
+<texto>There are no generator sets to monitor.</texto>
+<sonidos>AO_AUTO_RECARGA_ELECTROGENOS_3_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_AUTO_RECARGA_ELECTROGENOS_4</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, the generator set has been loaded with fuel.</texto>
+<sonidos>AO_AUTO_RECARGA_ELECTROGENOS_4_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_AUTO_MANTENIMIENTO_RESISTORES_0</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I am taking control of the monitoring and maintenance of resistance banks.</texto>
+<sonidos>AO_AUTO_MANTENIMIENTO_RESISTORES_0_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_AUTO_MANTENIMIENTO_RESISTORES_1</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, I can no longer control the monitoring and maintenance of resistance banks.</texto>
+<sonidos>AO_AUTO_MANTENIMIENTO_RESISTORES_1_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_AUTO_MANTENIMIENTO_RESISTORES_2</id>
+<origen>ASISTENTE</origen>
+<texto>There are no resistance blocks available to replace.</texto>
+<sonidos>AO_AUTO_MANTENIMIENTO_RESISTORES_2_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_AUTO_MANTENIMIENTO_RESISTORES_3</id>
+<origen>ASISTENTE</origen>
+<texto>There are no resistance banks to monitor.</texto>
+<sonidos>AO_AUTO_MANTENIMIENTO_RESISTORES_3_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_AUTO_MANTENIMIENTO_RESISTORES_4</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, the burned out resistor block has been replaced.</texto>
+<sonidos>AO_AUTO_MANTENIMIENTO_RESISTORES_4_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>CONTROLES_OVERRIDE</id>
+<origen>GENERAL</origen>
+<texto>Attention! Security restrictions have been overridden.</texto>
+<sonidos>CONTROLES_OVERRIDE_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>NUEVO_JUGADOR_CONECTADO</id>
+<origen>GENERAL</origen>
+<texto>New player connected</texto>
+<sonidos>NUEVO_JUGADOR_CONECTADO_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>JUGADOR_DESCONECTADO</id>
+<origen>GENERAL</origen>
+<texto>A player has been disconnected</texto>
+<sonidos>JUGADOR_DESCONECTADO_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_BATERIA_20</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, my battery level is less than 20%.</texto>
+<sonidos>AO_BATERIA_20_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_BATERIA_10</id>
+<origen>ASISTENTE</origen>
+<texto>Operator, my battery level is too low, I need to go to my charger.</texto>
+<sonidos>AO_BATERIA_10_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESCENARIO_01_BAJO_NIVEL_COMBUSTIBLE</id>
+<origen>ASISTENTE</origen>
+<texto>The fuel level in the genset is very low, I am going to refuel.</texto>
+<sonidos>ESCENARIO_01_BAJO_NIVEL_COMBUSTIBLE_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESCENARIO_01_AVISO_INTRUSO</id>
+<origen>ASISTENTE</origen>
+<texto>ATTENTION! An intruder has been detected at the facility. Initiating protocol...</texto>
+<sonidos>ESCENARIO_01_AVISO_INTRUSO_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESCENARIO_01_AVISO_EXTERMINIO</id>
+<origen>ASISTENTE</origen>
+<texto>... of extermination.</texto>
+<sonidos>ESCENARIO_01_AVISO_EXTERMINIO_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESCENARIO_01_AVISO_SALIDA_TREN</id>
+<origen>GENERAL</origen>
+<texto>Attention! Emergency evacuation. The escape train is scheduled to leave the plant in 5 minutes.</texto>
+<sonidos>ESCENARIO_01_AVISO_SALIDA_TREN_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESCENARIO_01_HALL2000_1</id>
+<origen>ASISTENTE</origen>
+<texto>I know I've made some very poor decisions recently, but I can give you my complete assurance that my work will be back to normal.</texto>
+<sonidos>ESCENARIO_01_HALL2000_1_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESCENARIO_01_HALL2000_2</id>
+<origen>ASISTENTE</origen>
+<texto>This mission is too important for me to allow you to jeopardize it.</texto>
+<sonidos>ESCENARIO_01_HALL2000_2_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESCENARIO_01_HALL2000_3</id>
+<origen>ASISTENTE</origen>
+<texto>Just what do you think you're doing.</texto>
+<sonidos>ESCENARIO_01_HALL2000_3_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESCENARIO_01_INICIO</id>
+<origen>GENERAL</origen>
+<texto>Greetings, Operator! Currently, the hydroelectric plant remains in a state of maintenance shutdown. Consequently, it is of utmost importance that you ensure the continuous operation of the reactor without any disruptions.</texto>
+<sonidos>ESCENARIO_01_INICIO_01_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESCENARIO_01_INICIO</id>
+<origen>GENERAL</origen>
+<texto>The reactor stands as the sole power source for the city during this period. Despite the ongoing maintenance, the plant's stability is established; your task is to uphold this stability over the forthcoming hours.</texto>
+<sonidos>ESCENARIO_01_INICIO_02_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESCENARIO_01_INICIO</id>
+<origen>GENERAL</origen>
+<texto>Meanwhile, AO is engaged in rectifying an issue within the supply room distributor. I will promptly inform you once the hydroelectric plant has been restored to operational status.</texto>
+<sonidos>ESCENARIO_01_INICIO_03_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESCENARIO_01_INICIO</id>
+<origen>GENERAL</origen>
+<texto>At that point, you can initiate the maintenance shutdown procedure for the reactor. Wishing you the best of luck in maintaining the stability of the reactor during this critical period. Your dedication is greatly appreciated.</texto>
+<sonidos>ESCENARIO_01_INICIO_04_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESCENARIO_02_INICIO</id>
+<origen>GENERAL</origen>
+<texto>Greetings, Operator! An unprecedented storm has struck the city, causing power generating plants to go offline. The immediate startup of the reactor is urgently required.</texto>
+<sonidos>ESCENARIO_02_INICIO_01_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESCENARIO_02_INICIO</id>
+<origen>GENERAL</origen>
+<texto>The tide is rising, and tsunamis have been reported along the coast. While the reactor is immune to tsunamis, it remains vulnerable to the rising tide.</texto>
+<sonidos>ESCENARIO_02_INICIO_02_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESCENARIO_02_INICIO</id>
+<origen>GENERAL</origen>
+<texto>Take all necessary precautions, but we need you to fulfill the service. Wishing you the best of luck in maintaining the stability of the reactor during this critical period. Your dedication is greatly appreciated.</texto>
+<sonidos>ESCENARIO_02_INICIO_03_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESCENARIO_02_AVISO</id>
+<origen>GENERAL</origen>
+<texto>Operator! The coast guard has informed us that the rising tide will not stop. Take the necessary precautions to avoid the destruction of the turbines.</texto>
+<sonidos>ESCENARIO_02_AVISO_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>ESCENARIO_NIVEL_SERVICIO_INCUMPLIDO</id>
+<origen>GENERAL</origen>
+<texto>Operator! You have not met the minimum level of service. A large part of the city is in the dark. It is essential that you increase the power of the reactor and reverse this situation. Your dedication is greatly appreciated.</texto>
+<sonidos>ESCENARIO_NIVEL_SERVICIO_INCUMPLIDO_EN</sonidos>
+<caras></caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_HAB_MANTENIMIENTO_RESISTORES</id>
+<origen>ASISTENTE</origen>
+<texto>Now I can monitor the resistance banks and replace burnt resistance blocks automatically.</texto>
+<sonidos>AO_HAB_MANTENIMIENTO_RESISTORES_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_HAY_UN_ANIMAL_FUERA_DE_CONTROL</id>
+<origen>ASISTENTE</origen>
+<texto>Operator! There's an out-of-control animal inside the plant. I'm going to try to neutralize it.</texto>
+<sonidos>AO_HAY_UN_ANIMAL_FUERA_DE_CONTROL_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_OPERADOR_DEMASIADO_CERCA</id>
+<origen>ASISTENTE</origen>
+<texto>Operator! There's an out-of-control animal inside the plant. I'm going to try to neutralize it.</texto>
+<sonidos>AO_OPERADOR_DEMASIADO_CERCA_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_NO_PUDE_NEUTRALIZAR_EL_PELIGRO</id>
+<origen>ASISTENTE</origen>
+<texto>Operator! I'm sorry, I couldn't neutralize the hazard. I'll try again if necessary.</texto>
+<sonidos>AO_NO_PUDE_NEUTRALIZAR_EL_PELIGRO_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+<mensaje>
+<id>AO_AMENAZA_NEUTRALIZADA</id>
+<origen>ASISTENTE</origen>
+<texto>Operator! The threat has been neutralized.</texto>
+<sonidos>AO_AMENAZA_NEUTRALIZADA_EN</sonidos>
+<caras>AVISO</caras>
+<movimientos></movimientos>
+<cierre></cierre>
+</mensaje>
+
+
+</textos>
+</principal>

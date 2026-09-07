@@ -3,3 +3,4 @@ work/model.json
 work/flow.json
 work/flow.ru.json
 work/*.pdf
+__pycache__/

@@ -1,0 +1,614 @@
+[
+ {
+  "id": 2022,
+  "type": "heading",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|PROCEDURE: STABILIZATION}"
+ },
+ {
+  "id": 2023,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|In the dynamic environment of nuclear reactor simulation, the Stabilization Protocol is a crucial series of steps designed to achieve and maintain a stable and controlled operational state. Each step is strategically crafted to address specific components and variables, ensuring optimal performance and safety.}"
+ },
+ {
+  "id": 2024,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|1. Steam Generators Monitoring:}{1|After reaching critical mass, the}"
+ },
+ {
+  "id": 2025,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|priority is to assess and regulate temperature and pressure within the steam generators. Ensuring the generators operate within the designated temperature range is pivotal for efficient steam production and subsequent electricity generation. Adjust control rods as needed and primary circuit pump speed to attain operational temperature in the steam generators.}"
+ },
+ {
+  "id": 2027,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Steam Generators Monitoring Procedure:}{1|After achieving critical mass, the Steam Generators Monitoring step plays a crucial role in maintaining optimal conditions for efficient steam production and electricity generation. The procedure involves meticulous assessment and adjustment of key parameters within the steam generators.}"
+ },
+ {
+  "id": 2029,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Assessment of Steam Generator Conditions:}{1|Evaluate the temperature and pressure within the steam generators. Purpose: Ensure the generators are operating within the specified temperature range for efficient steam production.}"
+ },
+ {
+  "id": 2031,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Control Rod Adjustment:}{1|Fine-tune the positioning of control rods. Purpose: Regulate the nuclear reaction within the core, controlling the heat generated and influencing the temperature in the steam generators.}"
+ },
+ {
+  "id": 2033,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Primary Circuit Pump Speed Adjustment:}{1|Modify the speed of the primary circuit pump. Purpose: Control the flow of coolant within the primary circuit, influencing the transfer of heat to the steam generators.}"
+ },
+ {
+  "id": 2035,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Temperature Regulation in Steam Generators:}{1|Adjust control rods and primary circuit pump speed to attain the operational temperature in the steam generators. Purpose: Achieve and maintain the required temperature for optimal steam production, a critical factor in subsequent electricity generation.}"
+ },
+ {
+  "id": 2037,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Execution Guidelines:}"
+ },
+ {
+  "id": 2039,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Use monitoring instruments and displays to assess temperature and pressure levels within the steam generators.}"
+ },
+ {
+  "id": 2041,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Gradually adjust the control rods to influence the nuclear reaction, aiming for the desired temperature.}"
+ },
+ {
+  "id": 2043,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Fine-tune the speed of the primary circuit pump to control the circulation of coolant and manage heat transfer to the steam generators.}"
+ },
+ {
+  "id": 2045,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Continuously monitor the temperature in the steam generators, making incremental adjustments as needed to reach the operational range.}"
+ },
+ {
+  "id": 2047,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|This step ensures that the steam generators operate under conditions that maximize steam production efficiency. Proper adjustment of control rods and pump speed contributes to temperature regulation and, consequently, optimal electricity generation.}"
+ },
+ {
+  "id": 2049,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|2. Evaporators and Turbines Optimization:}{1|Following steam generator}"
+ },
+ {
+  "id": 2050,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|stability, attention shifts to evaporators and turbines. Achieving and maintaining optimal temperature and pressure in evaporators is crucial for turbine efficiency and overall system performance. Fine-tune control rods and primary circuit pump speed to regulate pressure within the turbines.}"
+ },
+ {
+  "id": 2052,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Evaporators and Turbines Optimization Procedure:}"
+ },
+ {
+  "id": 2054,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|After ensuring the stability of steam generators, the focus shifts to optimizing the performance of evaporators and turbines. This step involves achieving and maintaining ideal temperature and pressure in evaporators, a critical factor for turbine efficiency and overall system performance.}"
+ },
+ {
+  "id": 2056,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Assessment of Evaporator Conditions:}{1|Evaluate the temperature and pressure within the evaporators. Purpose: Ensure optimal conditions for efficient heat exchange and steam generation.}"
+ },
+ {
+  "id": 2058,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Control Rod Adjustment for Evaporators:}{1|Fine-tune the positioning of control rods Purpose: Regulate the nuclear reaction within the core to control the heat supplied to the evaporators.}"
+ },
+ {
+  "id": 2060,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Primary Circuit Pump Speed Adjustment for Evaporators:}{1|Modify the speed of the primary circuit pump. Purpose: Control the flow of coolant within the primary circuit to manage heat transfer to the evaporators.}"
+ },
+ {
+  "id": 2062,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Pressure Regulation within the Turbines:}{1|Adjust control rods and primary circuit pump speed to regulate pressure within the turbines. Purpose: Achieve and maintain the required pressure for optimal turbine efficiency.}"
+ },
+ {
+  "id": 2064,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Execution Guidelines:}"
+ },
+ {
+  "id": 2066,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Utilize monitoring instruments and displays to assess temperature and pressure levels within the evaporators.}"
+ },
+ {
+  "id": 2068,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Gradually adjust the control rods to influence the nuclear reaction, controlling the heat supplied to the evaporators.}"
+ },
+ {
+  "id": 2070,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Fine-tune the speed of the primary circuit pump to manage the flow of coolant and optimize heat transfer to the evaporators.}"
+ },
+ {
+  "id": 2072,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Continuously monitor pressure levels within the turbines, making adjustments to achieve and maintain optimal conditions.}"
+ },
+ {
+  "id": 2074,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|This step ensures that evaporators operate under conditions that facilitate efficient heat exchange and steam generation. Proper adjustment of control rods and pump speed contributes to the regulation of pressure within the turbines, optimizing their performance.}"
+ },
+ {
+  "id": 2076,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|3. Condenser and Secondary Circuit Control:}{1|Ensuring the proper}"
+ },
+ {
+  "id": 2077,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|functioning of the condenser becomes the focus, addressing potential challenges related to coolant temperature. Preventing excessive cooling of the coolant returning to the evaporator is essential for maintaining momentum and system efficiency. Activate the condenser vacuum pump, regulate the cooling pump, and adjust secondary circuit pumps as needed.}"
+ },
+ {
+  "id": 2079,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Condenser and Secondary Circuit Control Procedure:}"
+ },
+ {
+  "id": 2081,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|The third step involves focusing on the proper functioning of the condenser, addressing challenges related to coolant temperature. It is crucial to prevent excessive cooling of the coolant returning to the evaporator to maintain momentum and system efficiency. The procedure includes activating the condenser vacuum pump, regulating the cooling pump, and adjusting secondary circuit pumps as needed.}"
+ },
+ {
+  "id": 2083,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Condenser Functionality Assessment:}{1|Evaluate the current state and functionality of the condenser. Purpose: Identify any potential issues or challenges related to coolant temperature and overall condenser performance.}"
+ },
+ {
+  "id": 2085,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Coolant Temperature Monitoring:}{1|Monitor the temperature of the coolant returning to the evaporator. Purpose: Prevent excessive cooling that could impact system momentum and efficiency.}"
+ },
+ {
+  "id": 2087,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Activation of the Condenser Vacuum Pump:}{1|Activate the condenser vacuum pump. Purpose: Create the necessary vacuum conditions within the condenser for optimal heat exchange.}"
+ },
+ {
+  "id": 2089,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Regulation of the Cooling Pump:}{1|Adjust the speed or operation of the cooling pump. Purpose: Control the flow of coolant within the condenser to prevent overcooling.}"
+ },
+ {
+  "id": 2091,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Adjustment of Secondary Circuit Pumps:}{1|Fine-tune the speed or operation of secondary circuit pumps. Purpose: Ensure proper circulation of coolant within the secondary circuit, maintaining the desired temperature.}"
+ },
+ {
+  "id": 2093,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Execution Guidelines:}"
+ },
+ {
+  "id": 2095,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Use monitoring instruments and displays to assess the condenser's current state and coolant temperature.}"
+ },
+ {
+  "id": 2097,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Continuously monitor the temperature of the coolant returning to the evaporator to prevent excessive cooling.}"
+ },
+ {
+  "id": 2099,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Activate the condenser vacuum pump to establish the required vacuum conditions.}"
+ },
+ {
+  "id": 2101,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Regulate the cooling pump to control the flow of coolant within the condenser.}"
+ },
+ {
+  "id": 2103,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Adjust secondary circuit pumps as needed to maintain optimal coolant circulation.}"
+ },
+ {
+  "id": 2104,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|This step ensures the effective functioning of the condenser, addressing challenges related to coolant temperature. Proper adjustment of pumps contributes to maintaining momentum and optimizing overall system efficiency.}"
+ },
+ {
+  "id": 2106,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|4. Turbine Power Generation Stability:}{1|The final stage involves}"
+ },
+ {
+  "id": 2107,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|stabilizing the electricity generation from the turbines. A stabilized turbine ensures consistent and reliable power output. Monitor and adjust parameters as necessary until the turbine's electricity generation stabilizes.}"
+ },
+ {
+  "id": 2109,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Turbine Power Generation Stability Procedure:}"
+ },
+ {
+  "id": 2111,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|In the fourth step, the focus shifts to stabilizing electricity generation from the turbines. A stable turbine is essential for consistent and reliable power output. This procedure involves monitoring and adjusting parameters until the turbine's electricity generation stabilizes.}"
+ },
+ {
+  "id": 2113,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Turbine Functionality Assessment:}{1|Assess the current functionality and performance of the turbines. Purpose: Identify any fluctuations or irregularities in electricity generation.}"
+ },
+ {
+  "id": 2115,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Electricity Generation Monitoring:}{1|Continuously monitor the electricity generation levels from the turbines. Purpose: Track variations in power output and identify any instability.}"
+ },
+ {
+  "id": 2117,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Parameter Adjustment for Stability:}{1|Adjust relevant parameters to achieve stable electricity generation. Purpose: Fine-tune settings to minimize fluctuations and ensure a consistent power output: Control Rod Adjustment, Primary Circuit Pump Speed Adjustment, Activation of the Condenser Vacuum Pump, Regulation of the Cooling Pump, Adjustment of Secondary Circuit Pumps}"
+ },
+ {
+  "id": 2118,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Continuous Monitoring and Adjustment:}{1|Implement real-time monitoring and make necessary adjustments. Purpose: Respond to any dynamic changes in system conditions to maintain stable electricity generation.}"
+ },
+ {
+  "id": 2120,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Execution Guidelines:}"
+ },
+ {
+  "id": 2122,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Utilize monitoring instruments and displays to assess the current state and performance of the turbines.}"
+ },
+ {
+  "id": 2124,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Continuously track electricity generation levels to detect any fluctuations or instability.}"
+ },
+ {
+  "id": 2126,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Adjust relevant parameters, such as control rods and pump speeds, to achieve stable electricity generation.}"
+ },
+ {
+  "id": 2128,
+  "type": "bullet",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|Implement real-time monitoring to respond promptly to any changes that may affect turbine stability.}"
+ },
+ {
+  "id": 2130,
+  "type": "body",
+  "section": "PROCEDURE: STABILIZATION",
+  "s": "{0|This step aims to ensure the stability of electricity generation from the turbines, contributing to a reliable power output. Continuous monitoring and adjustment are crucial to adapt to dynamic conditions and maintain consistent performance.}"
+ },
+ {
+  "id": 2133,
+  "type": "heading",
+  "section": "PROCEDURE: SHUTDOWN",
+  "s": "{0|PROCEDURE: SHUTDOWN}"
+ },
+ {
+  "id": 2134,
+  "type": "body",
+  "section": "PROCEDURE: SHUTDOWN",
+  "s": "{0|The Shutdown Protocol is a crucial set of steps in the simulation game, designed to deactivate the nuclear reactor safely and effectively. Each step serves a specific purpose, emphasizing both controlled and emergency shutdown scenarios.}"
+ },
+ {
+  "id": 2135,
+  "type": "bullet",
+  "section": "PROCEDURE: SHUTDOWN",
+  "s": "{0|Set Reactor Mode to Shutdown:}{1|This initial step establishes the reactor's operational mode as Shutdown. Ensures a deliberate transition to a state where controlled deactivation can take place.}"
+ },
+ {
+  "id": 2137,
+  "type": "bullet",
+  "section": "PROCEDURE: SHUTDOWN",
+  "s": "{0|Insert Control Rods to 100%:}{1|Fully insert the control rods into the core. Reduces the reactivity of the core, initiating the process of deactivating the fission reactions.}"
+ },
+ {
+  "id": 2139,
+  "type": "bullet",
+  "section": "PROCEDURE: SHUTDOWN",
+  "s": "{0|IN CASE OF EMERGENCY}{1|: If the insertion of control rods encounters difficulties or becomes impractical, an alternative method is available for reactor operators. The operational use of the operative crane can be employed to exert the force needed for the insertion of control rods. This dynamic approach adds an extra layer of strategic decision-making, offering players a nuanced gameplay experience where adaptability and resourcefulness are key in navigating unexpected challenges during the shutdown process.}"
+ },
+ {
+  "id": 2141,
+  "type": "bullet",
+  "section": "PROCEDURE: SHUTDOWN",
+  "s": "{0|Set Maximum Cooling Turbine Speed (Condenser):}{1|Adjust the cooling turbine speed in the condenser to its maximum. Enhances cooling efficiency during the shutdown process, preventing overheating.}"
+ },
+ {
+  "id": 2143,
+  "type": "bullet",
+  "section": "PROCEDURE: SHUTDOWN",
+  "s": "{0|Set Maximum Primary Circuit Circulation Turbine Speed:}{1|Adjust the turbine speed in the primary circuit circulation to its maximum. Promotes efficient circulation, aiding in the gradual reduction of reactor activity.}"
+ },
+ {
+  "id": 2145,
+  "type": "bullet",
+  "section": "PROCEDURE: SHUTDOWN",
+  "s": "{0|Activate Primary Circuit Loading Pump:}{1|Initiate the pump responsible for loading the primary circuit. Supports controlled shutdown by managing coolant flow within the primary circuit.}"
+ },
+ {
+  "id": 2147,
+  "type": "bullet",
+  "section": "PROCEDURE: SHUTDOWN",
+  "s": "{0|Open Primary Circuit Draining Valve:}{1|Open the draining valve for the primary circuit. Facilitates controlled coolant drainage during shutdown; caution required in emergencies.}"
+ },
+ {
+  "id": 2149,
+  "type": "bullet",
+  "section": "PROCEDURE: SHUTDOWN",
+  "s": "{0|IN CASE OF EMERGENCY}{1|: Last two steps are applicable for controlled shutdowns; careful assessment of coolant levels is essential before draining in emergencies.}"
+ },
+ {
+  "id": 2151,
+  "type": "bullet",
+  "section": "PROCEDURE: SHUTDOWN",
+  "s": "{0|Extract Fuel Block after Residual Temperature:}{1|Remove the fuel block from the core once the residual temperature is below 50°C. Safely removes the heat source, preventing unnecessary heating during the shutdown process. The external core pool must be empty.}"
+ },
+ {
+  "id": 2153,
+  "type": "bullet",
+  "section": "PROCEDURE: SHUTDOWN",
+  "s": "{0|IN CASE OF EMERGENCY:}{1|In the event of an uncontrolled shutdown scenario, it is strongly recommended to open the core and turbine ventilation valves. This precautionary measure aims to manage pressure and temperature levels effectively, mitigating potential complications that may arise during the shutdown process. Implementing this strategic step can contribute to maintaining optimal conditions and ensuring a safer reactor shutdown.}"
+ },
+ {
+  "id": 2155,
+  "type": "body",
+  "section": "PROCEDURE: SHUTDOWN",
+  "s": "{0|Executing the Shutdown Protocol ensures a systematic and secure deactivation of the simulated nuclear reactor, considering both controlled and emergency scenarios for enhanced gameplay experience.}"
+ },
+ {
+  "id": 2157,
+  "type": "heading",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID}"
+ },
+ {
+  "id": 2158,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|The synchronization procedure is}"
+ },
+ {
+  "id": 2160,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|a crucial set of steps designed to ensure a seamless and secure connection between the turbine and the electrical grid. Its primary purpose is to align the turbine's operational parameters, such as frequency and voltage, with the grid's specifications.}"
+ },
+ {
+  "id": 2161,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|This alignment is essential for the safe and efficient transfer of electrical power from the turbine to the grid.}"
+ },
+ {
+  "id": 2162,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|Grid Stability:}{1|Synchronization prevents disruptions and ensures}"
+ },
+ {
+  "id": 2163,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|the stability of the electrical grid. Aligning the turbine with the grid's frequency and voltage parameters avoids fluctuations and maintains a consistent power supply.}"
+ },
+ {
+  "id": 2164,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|Equipment Safety:}{1|Following the synchronization procedure helps in preventing overloads and mechanical stress on the turbine. It ensures that the turbine operates within safe limits, enhancing the longevity of equipment.}"
+ },
+ {
+  "id": 2165,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|Efficient Power Transfer:}{1|Synchronization optimizes the efficiency of power transfer from the turbine to the grid. It allows for a smooth integration of the turbine's output with the existing electrical infrastructure, minimizing the risk of grid instabilities.}"
+ },
+ {
+  "id": 2166,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|Prevention of Voltage Fluctuations:}{1|Proper synchronization helps in preventing voltage fluctuations, which could lead to equipment malfunctions and power quality issues. This is crucial for maintaining a reliable and high-quality electrical supply.}"
+ },
+ {
+  "id": 2167,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|Optimal Power Generation:}{1|Synchronization ensures that the turbine operates at its optimal conditions, maximizing power generation efficiency. This is essential for meeting the energy demands of the electrical grid and supporting a reliable power supply to consumers.}"
+ },
+ {
+  "id": 2168,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|Grid Connection:}{1|The synchronization procedure facilitates the controlled connection of the turbine to the electrical grid. This controlled connection prevents sudden power surges or imbalances, contributing to the overall reliability of the electrical system.}"
+ },
+ {
+  "id": 2170,
+  "type": "heading",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|Synchronizing}"
+ },
+ {
+  "id": 2171,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|When synchronizing with the Synchroscope in Nucleares, the procedure involves precise adjustments to ensure synchronization with the target RPM (Revolutions Per Minute), set at 3060 in this game.}"
+ },
+ {
+  "id": 2172,
+  "type": "bullet",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|Fine-tuning with the Admin Valve: As the RPM approaches 3060, finely adjusts the admin valve while monitoring the synchroscope. At 3059 RPM, the synchroscope needle will indicate a deviation by turning left, and at 3061 RPM, it will turn right. The magnitude of the needle's movement corresponds to the difference between the actual RPM and the target RPM.}"
+ },
+ {
+  "id": 2174,
+  "type": "bullet",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|Timing is Key: The skill lies in precisely hitting 3060 RPM when the needle is aligned at the top position. This ensures synchronization with the grid at the optimal moment.}"
+ },
+ {
+  "id": 2176,
+  "type": "bullet",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|Catching the Needle: If the needle moves slowly through the top position, indicating a slight deviation, you can stabilize it by closing the main breaker. This action effectively locks the RPM to 3060, establishing synchronization with the grid.}"
+ },
+ {
+  "id": 2177,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|When the main breaker is closed at the top position, the needle on the synchroscope indeed stops moving, indicating a near-perfect synchronization. However, it's important to note that while the needle stops, the turbine will quickly adjust to match the 3060 RPM target. This rapid adjustment, known as a \"jump\" to 3060 RPM, is generally acceptable and signifies a successful synchronization. However, if the RPM overshoots the target, such as reaching 3080 RPM before closing the breaker, and then abruptly syncing, it puts unnecessary strain on the turbine components. This abrupt change can lead to increased wear and tear, potentially shortening the lifespan of the equipment. This aspect underscores the importance of proper care and maintenance of machinery, particularly in nuclear facilities where precision and equipment longevity are paramount.}"
+ },
+ {
+  "id": 2179,
+  "type": "heading",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|Warning}"
+ },
+ {
+  "id": 2180,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|Closing the breaker at any position other than the top can have severe consequences. It can cause damage to the transformer or generator and trigger a turbine trip. If the main breaker is closed with a significant difference between the turbine's current RPM and the target RPM of 3060, the turbine may fail to perform the rapid adjustment, or \"jump,\" necessary for synchronization. This situation can lead to catastrophic consequences for the machine.}"
+ },
+ {
+  "id": 2181,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|When the RPM difference is substantial, the turbine cannot efficiently synchronize with the grid. As a result, it struggles to match the required RPM, causing stress on the turbine components and the grid itself. This scenario poses significant risks to the integrity of the turbine and other connected equipment.}"
+ },
+ {
+  "id": 2183,
+  "type": "heading",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|Preparation}"
+ },
+ {
+  "id": 2184,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|Ensure that the turbine has reached the operational RPM and is stable. Synchronization involves aligning the turbine's rotational speed with the frequency of the electrical grid.}"
+ },
+ {
+  "id": 2186,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|1. Starting the synchronization process when the turbine is stable}"
+ },
+ {
+  "id": 2187,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|helps prevent mechanical stress, reduces the risk of equipment damage, and ensures the longevity of turbine components.}"
+ },
+ {
+  "id": 2189,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|2. Verify that the BUS (connection to the electrical grid) and GEN}"
+ },
+ {
+  "id": 2190,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|(generator turbine operational) lights are on.}"
+ },
+ {
+  "id": 2192,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|a. The BUS light indicates that the turbine is physically}"
+ },
+ {
+  "id": 2193,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|connected to the electrical grid. Verifying its illumination ensures that the necessary link between the turbine and the grid is established.}"
+ },
+ {
+  "id": 2195,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|b. The GEN light signals that the generator turbine is in}"
+ },
+ {
+  "id": 2196,
+  "type": "body",
+  "section": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "s": "{0|operational mode. It confirms that the turbine is ready to generate electrical power. Synchronization should only proceed when the turbine is operational to avoid potential issues during the process.}"
+ }
+]

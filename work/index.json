@@ -1,0 +1,506 @@
+[
+ {
+  "term": "Advantages of using boric acid",
+  "page": 42
+ },
+ {
+  "term": "Advantages of using Boric Acid vs Control Rods",
+  "page": 42
+ },
+ {
+  "term": "Advantages of using control rods alone",
+  "page": 43
+ },
+ {
+  "term": "Air Removal Valves",
+  "page": 24
+ },
+ {
+  "term": "AUDIT AND COMPLIANCE PROCEDURE",
+  "page": 129
+ },
+ {
+  "term": "Auditor Anomalies",
+  "page": 50
+ },
+ {
+  "term": "CHEMICAL TREATMENTS",
+  "page": 39
+ },
+ {
+  "term": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "page": 28
+ },
+ {
+  "term": "CIRCULATION PUMPS IN THE SECONDARY LOOP",
+  "page": 30
+ },
+ {
+  "term": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "page": 47
+ },
+ {
+  "term": "Condensate Extraction Valves",
+  "page": 23
+ },
+ {
+  "term": "Condensate Flow Rate",
+  "page": 27
+ },
+ {
+  "term": "Condensate Return Valve",
+  "page": 26
+ },
+ {
+  "term": "CONDENSER",
+  "page": 23
+ },
+ {
+  "term": "Condenser Suction Valve",
+  "page": 26
+ },
+ {
+  "term": "Condenser Vacuum System",
+  "page": 27
+ },
+ {
+  "term": "Control Panel | Chemical Treatments",
+  "page": 45
+ },
+ {
+  "term": "CONTROL PANEL: CONTROL RODS",
+  "page": 66
+ },
+ {
+  "term": "CONTROL PANEL: CONTROL RODS | SWITCHES",
+  "page": 68
+ },
+ {
+  "term": "CONTROL PANEL: COOLANT SYSTEM",
+  "page": 70
+ },
+ {
+  "term": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "page": 74
+ },
+ {
+  "term": "CONTROL PANEL: CORE",
+  "page": 62
+ },
+ {
+  "term": "CONTROL PANEL: ENERGY GENERATION",
+  "page": 79
+ },
+ {
+  "term": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "page": 90
+ },
+ {
+  "term": "CONTROL PANEL: INTERNAL SUPPLY",
+  "page": 97
+ },
+ {
+  "term": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "page": 101
+ },
+ {
+  "term": "CONTROL PANEL: PRESSURIZER",
+  "page": 104
+ },
+ {
+  "term": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "page": 109
+ },
+ {
+  "term": "CONTROL PANEL: REACTOR FUEL",
+  "page": 120
+ },
+ {
+  "term": "CONTROL PANEL: REACTOR FUEL | SWITCHES",
+  "page": 123
+ },
+ {
+  "term": "CONTROL PANEL: STEAM GENERATOR",
+  "page": 112
+ },
+ {
+  "term": "CONTROL PANEL: STEAM GENERATOR -SWITCHES",
+  "page": 117
+ },
+ {
+  "term": "CONTROL PANEL: VALVES",
+  "page": 125
+ },
+ {
+  "term": "CONTROL RODS",
+  "page": 20
+ },
+ {
+  "term": "Control Rods and Fuel Monitoring",
+  "page": 10
+ },
+ {
+  "term": "COOLANT / MODERATOR",
+  "page": 7
+ },
+ {
+  "term": "COOLING LOOP (LOOP 3)",
+  "page": 14
+ },
+ {
+  "term": "Cooling Water Inlet/Outlet Valves",
+  "page": 24
+ },
+ {
+  "term": "CORE FUSION SEQUENCE",
+  "page": 158
+ },
+ {
+  "term": "Corrosion",
+  "page": 46
+ },
+ {
+  "term": "Deterioration Risk",
+  "page": 48
+ },
+ {
+  "term": "DETERMINING THE FUEL LEVEL",
+  "page": 10
+ },
+ {
+  "term": "DIFFERENCE BETWEEN FREIGHT PUMP AND CIRCULATION PUMP",
+  "page": 32
+ },
+ {
+  "term": "Disadvantages of using boric acid",
+  "page": 43
+ },
+ {
+  "term": "Disadvantages of using control rods alone",
+  "page": 43
+ },
+ {
+  "term": "Disconnecting for Normal Operation",
+  "page": 58
+ },
+ {
+  "term": "Dissolved Gamma Iodine Activity",
+  "page": 44
+ },
+ {
+  "term": "Effects of boric acid",
+  "page": 42
+ },
+ {
+  "term": "Emergency Load Control",
+  "page": 58
+ },
+ {
+  "term": "Emergency Shutdown",
+  "page": 47
+ },
+ {
+  "term": "Energy Generation",
+  "page": 9
+ },
+ {
+  "term": "Energy transformation",
+  "page": 54
+ },
+ {
+  "term": "ENRICHED URANIUM DIOXIDE FUEL",
+  "page": 8
+ },
+ {
+  "term": "ESCAPE VIA TRAIN",
+  "page": 161
+ },
+ {
+  "term": "Excess energy generated",
+  "page": 53
+ },
+ {
+  "term": "Excess Pressure Scenario",
+  "page": 17
+ },
+ {
+  "term": "Extraction Flow",
+  "page": 27
+ },
+ {
+  "term": "Feedwater Control Valve",
+  "page": 22
+ },
+ {
+  "term": "FEEDWATER LOOP",
+  "page": 13
+ },
+ {
+  "term": "Fission Product Xenon Activity",
+  "page": 44
+ },
+ {
+  "term": "FREIGHT PUMP IN PRIMARY LOOP",
+  "page": 30
+ },
+ {
+  "term": "FREIGHT PUMP IN SECONDAY LOOP",
+  "page": 31
+ },
+ {
+  "term": "Frequency Synchronization",
+  "page": 37
+ },
+ {
+  "term": "GENERATION AND DISTRIBUTION OF ELECTRICAL ENERGY",
+  "page": 52
+ },
+ {
+  "term": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "page": 36
+ },
+ {
+  "term": "HALTING FUSION",
+  "page": 159
+ },
+ {
+  "term": "High-Pressure Turbines",
+  "page": 34
+ },
+ {
+  "term": "HIGH-PRESSURE TURBINES AND LOW-PRESSURE TURBINES",
+  "page": 34
+ },
+ {
+  "term": "Importance of Resistance Banks",
+  "page": 56
+ },
+ {
+  "term": "Integration with the Electrical Grid",
+  "page": 54
+ },
+ {
+  "term": "Iodine Concentration Monitor",
+  "page": 45
+ },
+ {
+  "term": "License Recovery",
+  "page": 50
+ },
+ {
+  "term": "Low-Pressure Turbines",
+  "page": 34
+ },
+ {
+  "term": "MAINTENANCE AND REPAIRS",
+  "page": 132
+ },
+ {
+  "term": "MAINTENANCE OF CIRCULATION PUMPS",
+  "page": 33
+ },
+ {
+  "term": "Maximum Mode",
+  "page": 127
+ },
+ {
+  "term": "MEASURING THE CORE TEMPERATURE",
+  "page": 11
+ },
+ {
+  "term": "MEASURING THE TEMPERATURE OF A CONTAINER",
+  "page": 12
+ },
+ {
+  "term": "Minimum Service Level",
+  "page": 50
+ },
+ {
+  "term": "Moderation and Control",
+  "page": 8
+ },
+ {
+  "term": "Nominal Mode",
+  "page": 127
+ },
+ {
+  "term": "Non-Compliance Consequences",
+  "page": 130
+ },
+ {
+  "term": "Nuclear Reactor Startup and Equilibrium Process",
+  "page": 40
+ },
+ {
+  "term": "OPERATING LICENSES",
+  "page": 50
+ },
+ {
+  "term": "OPERATIONAL ASSISTANT",
+  "page": 153
+ },
+ {
+  "term": "Operational Motive Steam Inlet Valve",
+  "page": 26
+ },
+ {
+  "term": "PRESSURIZED WATER REACTOR (PWR)",
+  "page": 5
+ },
+ {
+  "term": "PRESSURIZER",
+  "page": 15
+ },
+ {
+  "term": "Pressurizer Behavior",
+  "page": 16
+ },
+ {
+  "term": "Pressurizer Control Panel Diagram",
+  "page": 107
+ },
+ {
+  "term": "Pressurizer Pressure Relief Valve (PRV)",
+  "page": 15
+ },
+ {
+  "term": "Pressurizer Spray Valve",
+  "page": 16
+ },
+ {
+  "term": "PRIMARY LOOP (LOOP 1)",
+  "page": 14
+ },
+ {
+  "term": "PRIMARY, SECONDARY COOLING AND FEEDWATER LOOP",
+  "page": 13
+ },
+ {
+  "term": "PROCEDURE: FUEL LOADING",
+  "page": 149
+ },
+ {
+  "term": "PROCEDURE: FUEL UNLOADING",
+  "page": 151
+ },
+ {
+  "term": "PROCEDURE: SHUTDOWN",
+  "page": 142
+ },
+ {
+  "term": "PROCEDURE: STABILIZATION",
+  "page": 136
+ },
+ {
+  "term": "PROCEDURE: STARTUP",
+  "page": 134
+ },
+ {
+  "term": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "page": 144
+ },
+ {
+  "term": "REACTOR OPERATION MODES",
+  "page": 127
+ },
+ {
+  "term": "Relationship between volume and pressure",
+  "page": 16
+ },
+ {
+  "term": "Resistance Banks",
+  "page": 56
+ },
+ {
+  "term": "Retention Tank Vent Valve",
+  "page": 26
+ },
+ {
+  "term": "Rewards for Compliance",
+  "page": 130
+ },
+ {
+  "term": "Safety Relief Valve",
+  "page": 22
+ },
+ {
+  "term": "SECONDARY LOOP (LOOP 2)",
+  "page": 14
+ },
+ {
+  "term": "Shutdown Mode",
+  "page": 127
+ },
+ {
+  "term": "Shutdown Permission",
+  "page": 47
+ },
+ {
+  "term": "Startup Motive Steam Inlet Valve",
+  "page": 26
+ },
+ {
+  "term": "Startup Permission",
+  "page": 47
+ },
+ {
+  "term": "STEAM GENERATOR",
+  "page": 22
+ },
+ {
+  "term": "STEAM IN THE PRIMARY CIRCUIT",
+  "page": 18
+ },
+ {
+  "term": "Steam Outlet Valve",
+  "page": 22
+ },
+ {
+  "term": "Suction Intake Valve",
+  "page": 25
+ },
+ {
+  "term": "SYNCHRONIZATION OF TURBINE-GENERATED ENERGY",
+  "page": 59
+ },
+ {
+  "term": "Synchronization with the Grid",
+  "page": 37
+ },
+ {
+  "term": "SYNCHRONOSCOPE IMPLEMENTATION",
+  "page": 60
+ },
+ {
+  "term": "Synchronous Generator",
+  "page": 37
+ },
+ {
+  "term": "TABLET OPERATIONS",
+  "page": 156
+ },
+ {
+  "term": "Tolerance Threshold",
+  "page": 48
+ },
+ {
+  "term": "Vacuum Circuit Valves",
+  "page": 25
+ },
+ {
+  "term": "Variations in power during reactor operation",
+  "page": 41
+ },
+ {
+  "term": "Voltage Adjustment",
+  "page": 54
+ },
+ {
+  "term": "Warning Alerts",
+  "page": 49
+ },
+ {
+  "term": "Xenon Concentration Monitor",
+  "page": 44
+ }
+]

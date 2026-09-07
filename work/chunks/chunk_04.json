@@ -1,0 +1,656 @@
+[
+ {
+  "id": 606,
+  "type": "heading",
+  "section": "FREIGHT PUMP IN SECONDAY LOOP",
+  "s": "{0|FREIGHT PUMP IN SECONDAY LOOP}"
+ },
+ {
+  "id": 608,
+  "type": "body",
+  "section": "FREIGHT PUMP IN SECONDAY LOOP",
+  "s": "{0|The secondary circuit charge pump is a critical component designed to maintain the flow of coolant within the secondary loop of the reactor system. Its primary function is to ensure a consistent and controlled circulation of coolant, facilitating the transfer of heat generated in the primary circuit to produce steam and generate electricity.}"
+ },
+ {
+  "id": 610,
+  "type": "body",
+  "section": "FREIGHT PUMP IN SECONDAY LOOP",
+  "s": "{0|The charge pump holds immense importance in the overall functionality of the reactor. It guarantees a continuous flow of coolant, preventing overheating in the secondary circuit. This reliable circulation is pivotal for sustaining steam generation and subsequent electricity production.}"
+ },
+ {
+  "id": 612,
+  "type": "body",
+  "section": "FREIGHT PUMP IN SECONDAY LOOP",
+  "s": "{0|During regular operation, the charge pump actively maintains the desired flow rate, allowing for efficient heat transfer and power generation.}"
+ },
+ {
+  "id": 614,
+  "type": "bullet",
+  "section": "FREIGHT PUMP IN SECONDAY LOOP",
+  "s": "{0|Startup: When initiating reactor operations or restarting after maintenance, the charge pump plays a crucial role in establishing the necessary coolant flow for a smooth and controlled startup process.}"
+ },
+ {
+  "id": 616,
+  "type": "bullet",
+  "section": "FREIGHT PUMP IN SECONDAY LOOP",
+  "s": "{0|Coolant Circulation: In cases where there is a need to adjust the coolant flow rate or redistribute heat within the secondary circuit, the charge pump ensures flexibility and adaptability.}"
+ },
+ {
+  "id": 620,
+  "type": "heading",
+  "section": "DIFFERENCE BETWEEN FREIGHT PUMP AND CIRCULATION PUMP",
+  "s": "{0|DIFFERENCE BETWEEN FREIGHT PUMP AND CIRCULATION PUMP}"
+ },
+ {
+  "id": 621,
+  "type": "body",
+  "section": "DIFFERENCE BETWEEN FREIGHT PUMP AND CIRCULATION PUMP",
+  "s": "{0|Unlike circulation pumps, charge pumps are not designed for continuous operation in a nuclear reactor system. While circulation pumps are built to provide sustained and uninterrupted flow of coolant throughout the system during normal operation, charge pumps serve a specific purpose in certain scenarios.}"
+ },
+ {
+  "id": 622,
+  "type": "bullet",
+  "section": "DIFFERENCE BETWEEN FREIGHT PUMP AND CIRCULATION PUMP",
+  "s": "{0|Circulation Pumps:}{1|These pumps are intended for continuous use during regular reactor operation. They maintain a consistent flow of coolant to facilitate heat transfer and power generation. Their primary role is to ensure a continuous and steady flow of coolant throughout the system to support the core's cooling and power generation processes.}"
+ },
+ {
+  "id": 624,
+  "type": "bullet",
+  "section": "DIFFERENCE BETWEEN FREIGHT PUMP AND CIRCULATION PUMP",
+  "s": "{0|Freight Pumps:}{1|Designed for intermittent use, charge pumps are typically activated during specific situations, such as reactor startup, certain operational adjustments, or as emergency backup pumps. Serve specific functions, such as assisting in the initial coolant fill during startup or providing backup circulation in emergency scenarios when primary pumps may be offline.}"
+ },
+ {
+  "id": 626,
+  "type": "heading",
+  "section": "DIFFERENCE BETWEEN FREIGHT PUMP AND CIRCULATION PUMP",
+  "s": "{0|Operational Limitations}"
+ },
+ {
+  "id": 627,
+  "type": "bullet",
+  "section": "DIFFERENCE BETWEEN FREIGHT PUMP AND CIRCULATION PUMP",
+  "s": "{0|Circulation Pumps: Engineered for prolonged and consistent operation, these pumps can sustain the required coolant flow rate for extended periods.}"
+ },
+ {
+  "id": 629,
+  "type": "bullet",
+  "section": "DIFFERENCE BETWEEN FREIGHT PUMP AND CIRCULATION PUMP",
+  "s": "{0|Freight Pumps: Due to their intermittent usage and specific roles, charge pumps may not be designed to withstand continuous operation for prolonged durations.}"
+ },
+ {
+  "id": 630,
+  "type": "body",
+  "section": "DIFFERENCE BETWEEN FREIGHT PUMP AND CIRCULATION PUMP",
+  "s": "{0|Regular maintenance of both types of pumps is crucial for ensuring their reliability.}"
+ },
+ {
+  "id": 634,
+  "type": "heading",
+  "section": "MAINTENANCE OF CIRCULATION PUMPS",
+  "s": "{0|MAINTENANCE OF CIRCULATION PUMPS}"
+ },
+ {
+  "id": 636,
+  "type": "body",
+  "section": "MAINTENANCE OF CIRCULATION PUMPS",
+  "s": "{0|Regular maintenance and monitoring are essential to ensure the proper functioning of circulation pumps. Scheduled inspections, lubrication of moving parts, and testing of pump performance are standard practices to prevent unexpected failures.}"
+ },
+ {
+  "id": 638,
+  "type": "bullet",
+  "section": "MAINTENANCE OF CIRCULATION PUMPS",
+  "s": "{0|Lubrication: The pumps contain various moving parts, and proper lubrication is necessary to minimize friction and reduce wear.}"
+ },
+ {
+  "id": 640,
+  "type": "bullet",
+  "section": "MAINTENANCE OF CIRCULATION PUMPS",
+  "s": "{0|Vibration Monitoring: Regular vibration analysis helps identify any irregularities or potential issues with the pump's mechanical components.}{1|Not yet implemented in the game.}"
+ },
+ {
+  "id": 642,
+  "type": "bullet",
+  "section": "MAINTENANCE OF CIRCULATION PUMPS",
+  "s": "{0|Seal Integrity: Ensuring the integrity of seals is vital to prevent leaks and maintain the efficiency of the pump.}"
+ },
+ {
+  "id": 644,
+  "type": "bullet",
+  "section": "MAINTENANCE OF CIRCULATION PUMPS",
+  "s": "{0|Temperature Control: Monitoring and controlling the temperature of the coolant to prevent overheating is essential for the safety of the system.}"
+ },
+ {
+  "id": 646,
+  "type": "heading",
+  "section": "HIGH-PRESSURE TURBINES AND LOW-PRESSURE TURBINES",
+  "s": "{0|HIGH-PRESSURE TURBINES AND LOW-PRESSURE TURBINES}"
+ },
+ {
+  "id": 648,
+  "type": "body",
+  "section": "HIGH-PRESSURE TURBINES AND LOW-PRESSURE TURBINES",
+  "s": "{0|Within the turbine system of a pressurized water reactor (PWR), there are distinct sections designed to efficiently utilize the varying pressure levels of steam produced in the reactor's primary circuit. These sections are commonly referred to as High-Pressure Turbines and Low-Pressure Turbines.}"
+ },
+ {
+  "id": 650,
+  "type": "bullet",
+  "section": "HIGH-PRESSURE TURBINES AND LOW-PRESSURE TURBINES",
+  "s": "{0|High-Pressure Turbines}"
+ },
+ {
+  "id": 653,
+  "type": "body",
+  "section": "HIGH-PRESSURE TURBINES AND LOW-PRESSURE TURBINES",
+  "s": "{0|Positioned at the beginning of the turbine system, the High-Pressure Turbines are the first set of turbines that steam encounters after leaving the steam generator.}"
+ },
+ {
+  "id": 655,
+  "type": "body",
+  "section": "HIGH-PRESSURE TURBINES AND LOW-PRESSURE TURBINES",
+  "s": "{0|They are specifically designed to handle the high-pressure steam generated in the reactor.}"
+ },
+ {
+  "id": 656,
+  "type": "body",
+  "section": "HIGH-PRESSURE TURBINES AND LOW-PRESSURE TURBINES",
+  "s": "{0|As the steam flows through this turbine, its high energy is harnessed to drive the turbine blades, initiating the process of converting thermal energy into mechanical energy.}{1|In the game it is called Turbine Generator.}"
+ },
+ {
+  "id": 658,
+  "type": "bullet",
+  "section": "HIGH-PRESSURE TURBINES AND LOW-PRESSURE TURBINES",
+  "s": "{0|Low-Pressure Turbines}"
+ },
+ {
+  "id": 660,
+  "type": "body",
+  "section": "HIGH-PRESSURE TURBINES AND LOW-PRESSURE TURBINES",
+  "s": "{0|Positioned downstream from the High-Pressure Turbines, the Low-Pressure Turbines come into play to further extract energy from the steam.}{1|Not yet implemented in the game.}"
+ },
+ {
+  "id": 662,
+  "type": "body",
+  "section": "HIGH-PRESSURE TURBINES AND LOW-PRESSURE TURBINES",
+  "s": "{0|Although steam has experienced a decrease in pressure after passing through the High-Pressure Turbines, it still possesses significant energy. The Low-Pressure Turbines efficiently capture this remaining energy, ensuring that the steam's full potential is utilized in the energy conversion process.}"
+ },
+ {
+  "id": 664,
+  "type": "body",
+  "section": "HIGH-PRESSURE TURBINES AND LOW-PRESSURE TURBINES",
+  "s": "{0|Turbine blades are of two basic types, blades, and nozzles. Blades move entirely due to the impact of steam on them, and their profiles do not converge. This results in a steam velocity drop and essentially no pressure drop as steam moves through the blades. Nozzles move due to both the impact of steam on them and the reaction due to the high-velocity steam at the exit.}"
+ },
+ {
+  "id": 666,
+  "type": "body",
+  "section": "HIGH-PRESSURE TURBINES AND LOW-PRESSURE TURBINES",
+  "s": "{0|These turbines play a pivotal role in converting thermal energy into mechanical energy. High-Pressure Turbines extract energy from the high-pressure steam, and Low-Pressure Turbines extract remaining energy from the lower-pressure steam, maximizing energy extraction from the steam.}"
+ },
+ {
+  "id": 668,
+  "type": "heading",
+  "section": "HIGH-PRESSURE TURBINES AND LOW-PRESSURE TURBINES",
+  "s": "{0|Maintenance}"
+ },
+ {
+  "id": 670,
+  "type": "body",
+  "section": "HIGH-PRESSURE TURBINES AND LOW-PRESSURE TURBINES",
+  "s": "{0|Regular inspections are crucial to ensure the blades and other components are free from wear and tear. Monitoring steam conditions and temperatures is vital to prevent overheating and maintain turbine efficiency. Proper lubrication of moving parts is essential for smooth operation.}"
+ },
+ {
+  "id": 673,
+  "type": "heading",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|GENERATOR TURBINES / ELECTRIC TURBINES}"
+ },
+ {
+  "id": 675,
+  "type": "body",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|The turbines that convert mechanical energy into electricity are often referred to as Generator Turbines. These turbines are directly connected to an electric generator. As they rotate due to the mechanical energy supplied by the steam turbines, the generator converts this rotational motion into electrical energy.}"
+ },
+ {
+  "id": 677,
+  "type": "body",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|The conversion of mechanical energy to electrical energy is the final step in the energy production process. The generated electricity is then distributed to the power grid for consumption.}"
+ },
+ {
+  "id": 681,
+  "type": "body",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|(In the game it is called Electric Turbine)}"
+ },
+ {
+  "id": 683,
+  "type": "body",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|Regular checks are required to ensure the alignment of the turbines and the generator for efficient energy conversion. Monitoring electrical output and addressing any fluctuations promptly is essential for the stability of the electrical grid.}"
+ },
+ {
+  "id": 685,
+  "type": "body",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|Both sets of turbines are integral to the overall efficiency and power output of the nuclear power plant. Proper maintenance and monitoring of these turbines are essential for ensuring a stable and reliable power generation process.}"
+ },
+ {
+  "id": 687,
+  "type": "body",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|Turbines contribute significantly to the safety of the plant by regulating steam pressure and energy conversion processes. Regular inspections and adherence to safety protocols are crucial to prevent accidents and ensure the long-term viability of the plant.}"
+ },
+ {
+  "id": 689,
+  "type": "heading",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|Synchronous Generator:}"
+ },
+ {
+  "id": 691,
+  "type": "body",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|The turbine is coupled to a synchronous generator. The rotation of the turbine drives the generator's rotor, surrounded by a stationary magnetic field. This relative movement induces an electric current in the rotor conductors, generating electrical power.}"
+ },
+ {
+  "id": 693,
+  "type": "bullet",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|Frequency Synchronization:}"
+ },
+ {
+  "id": 695,
+  "type": "body",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|The rotational speed of the turbine and, consequently, the generator rotor is designed to maintain a constant frequency of AC output, typically 50 or 60 Hertz, depending on the electrical system.}"
+ },
+ {
+  "id": 697,
+  "type": "bullet",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|Power Control:}"
+ },
+ {
+  "id": 699,
+  "type": "body",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|Power control is achieved by adjusting the torque applied to the generator's rotor. This torque is controlled by opening or closing the steam valves that regulate the amount of steam entering the turbine.}"
+ },
+ {
+  "id": 701,
+  "type": "bullet",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|Synchronization with the Grid:}"
+ },
+ {
+  "id": 703,
+  "type": "body",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|Before connecting the generator to the electrical grid, a synchronization process takes place. This involves adjusting the speed and phase of the generator's output to precisely match the grid, avoiding imbalance issues.}"
+ },
+ {
+  "id": 705,
+  "type": "heading",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|Detailed overview}"
+ },
+ {
+  "id": 707,
+  "type": "bullet",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|The process begins with the nuclear reactor core producing heat through nuclear fission reactions. This heat is used to boil water, creating high-pressure steam.}"
+ },
+ {
+  "id": 709,
+  "type": "bullet",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|The steam is then directed to the turbines in the turbine hall.}"
+ },
+ {
+  "id": 711,
+  "type": "bullet",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|The high-pressure steam enters the high-pressure turbine blades, causing the turbine to rotate. As the steam expands and loses pressure, it moves through the low-pressure turbine, further contributing to turbine rotation.}{1|Low-pressure turbine is not implemented in the game.}"
+ },
+ {
+  "id": 713,
+  "type": "bullet",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|The rotating shaft of the turbine is connected to a generator. The mechanical energy from the turbine's rotation is transferred to the generator.}{1|Electric Turbine in the game}{2|.}"
+ },
+ {
+  "id": 715,
+  "type": "bullet",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|The generator converts mechanical energy into electrical energy through electromagnetic induction. This process produces alternating current (AC) electricity.}"
+ },
+ {
+  "id": 717,
+  "type": "bullet",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|The generated electricity is then transmitted through power lines to supply electrical grids.}"
+ },
+ {
+  "id": 719,
+  "type": "bullet",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|After passing through the turbines, the steam is condensed back into water using a condenser.}"
+ },
+ {
+  "id": 721,
+  "type": "bullet",
+  "section": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "s": "{0|The condensed water is then returned to the steam generator to start the cycle anew.}"
+ },
+ {
+  "id": 725,
+  "type": "heading",
+  "section": "CHEMICAL TREATMENTS",
+  "s": "{0|CHEMICAL TREATMENTS}"
+ },
+ {
+  "id": 728,
+  "type": "body",
+  "section": "CHEMICAL TREATMENTS",
+  "s": "{0|Boron is used in pressurized water nuclear reactors as an additional method for controlling reactivity. While it's possible to operate a reactor solely with control rods, the use of boron offers several advantages:}"
+ },
+ {
+  "id": 729,
+  "type": "bullet",
+  "section": "CHEMICAL TREATMENTS",
+  "s": "{0|Increased control precision: Boron can be injected into the reactor circuit in small amounts to finely adjust the core reactivity. This allows for more precise control of reactor power and a faster response to changes in operating conditions.}"
+ },
+ {
+  "id": 731,
+  "type": "bullet",
+  "section": "CHEMICAL TREATMENTS",
+  "s": "{0|Corrosion reduction: Boron can also help reduce corrosion in certain parts of the reactor, as it can form a protective layer on metal surfaces.}"
+ },
+ {
+  "id": 733,
+  "type": "bullet",
+  "section": "CHEMICAL TREATMENTS",
+  "s": "{0|Reactor stability: Controlled addition of boron can help maintain reactor stability during changes in load or operating conditions. This can be especially important during power transitions, reactor startup, or shutdown.}"
+ },
+ {
+  "id": 735,
+  "type": "bullet",
+  "section": "CHEMICAL TREATMENTS",
+  "s": "{0|Reduced dependence on control rods: By using boron in conjunction with control rods, reliance solely on control rods to manage reactor reactivity can be reduced. This can increase operational flexibility and reactor safety.}"
+ },
+ {
+  "id": 737,
+  "type": "heading",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Nuclear Reactor Startup and Equilibrium Process}"
+ },
+ {
+  "id": 738,
+  "type": "body",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Upon initiating fission within the pressurized water reactor, various types}{1|of nuclear isotopes are generated. For this simulator, only two will be considered: iodine-135 and xenon-135.}"
+ },
+ {
+  "id": 739,
+  "type": "body",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|During the initial operation phase of the reactor, nuclear fission produces iodine-135 in proportion to the fission rate and the reactor's efficiency in capturing fission neutrons.}{1|It is important to note that changes in reactor power can influence the production of iodine-135 due to variations in the fission rate.}"
+ },
+ {
+  "id": 740,
+  "type": "body",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Iodine-135}{1|isotope has a half-life of}{2|6 hours}{3|, after which it decays and transforms into xenon-135. During the initial decay, the reactor may experience an increase in power due to the production of xenon-135. Although xenon-135 is a more efficient neutron absorber than iodine-135, its production is not proportional to the amount of iodine-135 decayed.}"
+ },
+ {
+  "id": 741,
+  "type": "body",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|The presence of xenon-135 can decrease the reactor's reactivity, requiring compensation by the reactor operator to maintain the desired power level. The amount of xenon-135 formed depends on factors such as reactor power and fuel loading.}{1|Xenon-135}{2|has a half-life of}{3|9 hours}{4|before it decays.}"
+ },
+ {
+  "id": 742,
+  "type": "body",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|The reactor is considered to reach equilibrium approximately after 14 hours of operation, when the production of xenon-135 and the decay of iodine-135 balance each other. This equilibrium may vary depending on the specific reactor conditions. It is essential to keep operation within normal operating parameters to avoid drastic changes in power and ensure safe and efficient reactor operation.}"
+ },
+ {
+  "id": 744,
+  "type": "heading",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Summarized and structured explanation in steps}"
+ },
+ {
+  "id": 745,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Production of Iodine-135:}{1|During the initial operation, iodine-135 is produced in proportion to the fission rate and the reactor's efficiency in capturing fission neutrons.}"
+ },
+ {
+  "id": 747,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Decay of Iodine-135:}{1|After 6 hours, iodine-135 decays and forms xenon-135.}"
+ },
+ {
+  "id": 749,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Initial Power Increase:}{1|The initial decay may cause a power increase due to the production of xenon-135.}"
+ },
+ {
+  "id": 751,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Formation of Xenon-135:}{1|Xenon-135 is a more efficient neutron absorber than iodine-135, but its production is not proportional to the amount of iodine-135 decayed.}"
+ },
+ {
+  "id": 753,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Reactivity Reduction:}{1|Accumulation of xenon-135 can reduce the reactor's reactivity, necessitating adjustments in operation to maintain desired power levels.}"
+ },
+ {
+  "id": 755,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Achieving Equilibrium:}{1|After approximately 14 hours of operation, the production of xenon-135 and the decay of iodine-135 reach equilibrium.}"
+ },
+ {
+  "id": 757,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Continuous Operation:}{1|It's important to maintain operation within normal operating parameters to ensure safe and efficient reactor operation.}"
+ },
+ {
+  "id": 759,
+  "type": "heading",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Variations in power during reactor operation}"
+ },
+ {
+  "id": 760,
+  "type": "body",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|During normal reactor operation, it is important to consider the transient behavior of Xe-135, especially during power variations. Any variation in power (increase or decrease) of a nuclear reactor in operation produces a temporary behavior of Xe-135 for a period that will depend on the magnitude of such variation.}"
+ },
+ {
+  "id": 761,
+  "type": "body",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|For example, if the reactor's operating power is increased, the concentration of Xe-135 initially decreases and then increases to its new equilibrium concentration value. Conversely, if the reactor power is reduced, Xe-135 initially increases, then decreases to the new equilibrium value.}"
+ },
+ {
+  "id": 762,
+  "type": "body",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|During this temporary period, it is necessary to move the control rods or introduce liquid poisons into the water where the fuel elements are submerged, much more than usual.}"
+ },
+ {
+  "id": 763,
+  "type": "heading",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|In the game simulation, these variations are set at 5 minutes for each significant power change.}"
+ },
+ {
+  "id": 765,
+  "type": "heading",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Simulations and behaviors of the current version:}"
+ },
+ {
+  "id": 767,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Degradation of Xenon by lifetime.}"
+ },
+ {
+  "id": 769,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Temporary degradation of Xenon due to power increase.}"
+ },
+ {
+  "id": 771,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Indirect xenon degradation due to the presence of boric acid.}"
+ },
+ {
+  "id": 773,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Xenon increases due to reactivity when equilibrium state has not yet been reached.}"
+ },
+ {
+  "id": 775,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Increase in Xenon due to low temperature during shutdown.}"
+ },
+ {
+  "id": 777,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Temporary increase of Xenon due to power decrease.}"
+ },
+ {
+  "id": 779,
+  "type": "heading",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Effects of boric acid}"
+ },
+ {
+  "id": 780,
+  "type": "body",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Boric acid absorbs neutrons, reducing the number of neutrons available for uranium fission. Decreases xenon production: Reduced reactivity also decreases the rate of xenon production through uranium-235 fission.}"
+ },
+ {
+  "id": 781,
+  "type": "body",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|The concentration of xenon in the core begins to decrease as it decays into cesium-135. As the xenon concentration decreases, core reactivity increases. This allows the reactor to fission more uranium and generate more power.}"
+ },
+ {
+  "id": 782,
+  "type": "heading",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Advantages of using Boric Acid vs Control Rods}"
+ },
+ {
+  "id": 783,
+  "type": "body",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|In pressurized water reactors (PWRs), boric acid is used in the primary coolant as an additional method for controlling the reactor's reactivity, alongside the control rods. Both the use of boric acid and control rods have advantages and disadvantages.}"
+ },
+ {
+  "id": 785,
+  "type": "heading",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Advantages of using boric acid:}"
+ },
+ {
+  "id": 786,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Distributed reactivity control: Boric acid is uniformly distributed in the primary coolant, providing more uniform reactivity control throughout the reactor core.}"
+ },
+ {
+  "id": 788,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Ability to compensate for large reactivity changes: Boric acid can compensate for large reactivity changes, such as xenon poisoning during reactor startups and shutdowns.}"
+ },
+ {
+  "id": 790,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Backup for control rods: Boric acid provides a redundant reactivity control system, backing up the control rods in case of failure.}"
+ },
+ {
+  "id": 792,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Operational flexibility: Adjusting the boric acid concentration allows for more precise reactivity control and greater flexibility during operational maneuvers.}"
+ },
+ {
+  "id": 794,
+  "type": "heading",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Disadvantages of using boric acid:}"
+ },
+ {
+  "id": 795,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Corrosion: Boric acid can cause corrosion in the primary cooling system components if not properly controlled.}"
+ },
+ {
+  "id": 797,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Need for purification systems: Coolant purification systems are required to adjust and control the boric acid concentration.}"
+ },
+ {
+  "id": 799,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Impact on reactor efficiency: A high concentration of boric acid can reduce reactor efficiency by absorbing neutrons.}"
+ },
+ {
+  "id": 801,
+  "type": "heading",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Advantages of using control rods alone:}"
+ },
+ {
+  "id": 802,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Simpler system: No need for boric acid purification and control systems.}"
+ },
+ {
+  "id": 804,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Less corrosion: Without boric acid, the risk of corrosion in components is reduced.}"
+ },
+ {
+  "id": 806,
+  "type": "heading",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Disadvantages of using control rods alone:}"
+ },
+ {
+  "id": 807,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Limited compensation capacity: Control rods have a limited capacity to compensate for large reactivity changes, such as xenon poisoning.}"
+ },
+ {
+  "id": 809,
+  "type": "bullet",
+  "section": "Nuclear Reactor Startup and Equilibrium Process",
+  "s": "{0|Less operational flexibility: Adjusting reactivity with control rods alone may be less precise and flexible during operational maneuvers.}"
+ }
+]

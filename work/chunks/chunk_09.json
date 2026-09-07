@@ -1,0 +1,560 @@
+[
+ {
+  "id": 1375,
+  "type": "heading",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|CONTROL PANEL: ENERGY GENERATION | SWITCHES}"
+ },
+ {
+  "id": 1378,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Turbines Bypass Valves:}{1|The Turbines Bypass Valves panel is a critical component consisting of three regulators (one for each turbine). Each regulator is equipped with a display to show the current degree of valve opening and the degree of opening requested by the operator.}"
+ },
+ {
+  "id": 1380,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|The regulator controls the hydraulic motor of the valve, adjusting its opening to achieve the desired degree. Each valve performs a bypass between the evaporators and the condenser, preventing steam from passing through the turbine.}"
+ },
+ {
+  "id": 1382,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Bypass Functionality:}{1|The Turbines Bypass Valves are designed to provide a bypass route for steam, allowing it to skip the turbines and flow directly from the evaporators to the condenser. The regulators on the panel control the degree of opening of the bypass valves. The degree of opening is a measure of how much the valve allows steam to bypass the turbines.}"
+ },
+ {
+  "id": 1384,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|The operator can use the displays to monitor and adjust the degree of opening based on the operational requirements of the power plant. This control allows for dynamic management of the steam flow.}"
+ },
+ {
+  "id": 1386,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Utilizing the Bypass:}{1|Opening the bypass valves is a strategic choice made by operators to regulate the flow of steam in the power plant. It provides a means to control and manage the overall energy output. By adjusting the bypass valves, operators can control the load on the turbines and manage the power output of the plant. This is particularly useful during fluctuations in demand or operational changes.}"
+ },
+ {
+  "id": 1388,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Preventing Turbine Stress:}{1|Opening the bypass valves helps prevent unnecessary stress on the turbines during periods when full power generation is not required. It allows for a more gradual adjustment to varying power demands. The bypass valves also play a role in regulating the temperature of the steam. By controlling the flow, operators can optimize the temperature conditions within the power plant.}"
+ },
+ {
+  "id": 1390,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Efficiency Considerations:}{1|Strategically using the bypass valves contributes to the overall efficiency of the power plant. It ensures that the turbines operate under conditions that maximize their performance and lifespan.}"
+ },
+ {
+  "id": 1392,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Emergency Scenarios:}{1|In certain emergency scenarios or abnormal conditions, opening the bypass valves may be a safety measure to redirect steam away from the turbines and prevent potential damage.}"
+ },
+ {
+  "id": 1394,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Bypass Valve Link switch:}{1|When the switch is set to ON, it enables the adjustment of all valves simultaneously using the regulators. Conversely, when set to OFF, each regulator modifies only the valve it is associated with.}"
+ },
+ {
+  "id": 1396,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Link ON (Switch ON):}"
+ },
+ {
+  "id": 1398,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|o Simultaneous Control: With the Link switch ON, all}"
+ },
+ {
+  "id": 1399,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|regulators have a collective impact on every valve. Adjustments made by any regulator will affect all valves at the same time.}"
+ },
+ {
+  "id": 1400,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|o Global Valve Adjustment: This setting provides a}"
+ },
+ {
+  "id": 1401,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|synchronized approach, allowing for global adjustments to all valves. It is useful when a coordinated response is needed across the entire valve system.}"
+ },
+ {
+  "id": 1403,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Link OFF (Switch OFF):}"
+ },
+ {
+  "id": 1405,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|o Individual Valve Control: When the Link switch is OFF,}"
+ },
+ {
+  "id": 1406,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|each regulator operates independently, affecting only the specific valve it is connected to.}"
+ },
+ {
+  "id": 1408,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|o Isolated Valve Adjustment: This setting allows}"
+ },
+ {
+  "id": 1409,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|operators to make isolated adjustments to individual valves without impacting the others. It provides a more granular level of control, offering precision in regulating specific valves.}"
+ },
+ {
+  "id": 1411,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Practical Implications:}"
+ },
+ {
+  "id": 1413,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|o Emergency Response: The Link ON setting can be}"
+ },
+ {
+  "id": 1414,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|useful in emergency scenarios where a swift and coordinated response is needed to control or redirect steam flow across all valves simultaneously.}"
+ },
+ {
+  "id": 1416,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|o Fine-Tuning Operations: The Link OFF setting is}"
+ },
+ {
+  "id": 1417,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|beneficial during regular operations or maintenance when operators may need to fine-tune specific valves without affecting the entire system.}"
+ },
+ {
+  "id": 1418,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|In summary, the Turbines Bypass Valves panel, with its regulators and displays, plays a crucial role in the strategic management of steam flow within the power plant. By opening the bypass valves, operators can control load, regulate temperature, and optimize the overall efficiency and performance of the turbines in response to varying operational conditions.}"
+ },
+ {
+  "id": 1419,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Compensator:}{1|A power compensator serves the purpose of stabilizing energy generation by addressing variations in torque that may occur in a generator turbine. The normal torque fluctuations in a generator turbine can lead to fluctuations in the generated power output. When the compensator is active, the turbine controller adjusts the generated energy to maintain stability.}"
+ },
+ {
+  "id": 1421,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|It's important to note that the compensator should only be activated when the turbine is operating within its specified operational ranges. Activating the compensator outside these ranges could potentially impede the stabilization of the turbine rather than assisting it.}"
+ },
+ {
+  "id": 1423,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Resistor Bank Switches:}{1|The Resistor Bank Switches panel is a crucial component that contains four switches, each responsible for connecting or disconnecting resistor banks. Resistor banks, when connected, are available to receive energy derived from the power generating turbines.}"
+ },
+ {
+  "id": 1425,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Resistor banks are specialized devices designed to absorb and dissipate electrical energy. They serve as emergency load control mechanisms in the power plant. When a switch is in the \"Connect\" position, it establishes the electrical connection for the respective resistor bank, making it available to receive energy derived from the turbines.}"
+ },
+ {
+  "id": 1427,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|During normal operation}{1|or when emergency load control is not required, operators may choose to disconnect the resistor banks using the switches. This prevents unnecessary energy absorption by the resistors.}"
+ },
+ {
+  "id": 1429,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Emergency Load Control}"
+ },
+ {
+  "id": 1431,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|In situations where there is excess electrical energy generated by the turbines and the grid cannot absorb it, operators can connect the resistor banks to absorb and dissipate the excess energy, preventing overloading.}"
+ },
+ {
+  "id": 1433,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Connecting resistor banks provides a means of load balancing in the power plant. It helps stabilize the electrical grid by absorbing surplus energy and preventing disruptions.}"
+ },
+ {
+  "id": 1435,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|The resistor banks serve as a protective mechanism for the power generation equipment. By absorbing excess energy, they prevent potential damage to turbines and associated components.}"
+ },
+ {
+  "id": 1437,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Derivation Percentage Panel:}{1|The Derivation Percentage Panel is a critical component that includes both an automatic mode switch and a manual regulator for controlling the percentage of energy to be derived to the resistor banks.}"
+ },
+ {
+  "id": 1439,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Automatic Mode:}{1|The panel features a switch that allow operators to toggle between automatic and manual modes. When in automatic mode, the system calculates the energy that should be derived to the resistor banks based on the current demand of the city.}"
+ },
+ {
+  "id": 1441,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Demand Sensing: In automatic mode, the panel}"
+ },
+ {
+  "id": 1442,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|is designed to sense the demand from the city and dynamically adjust the percentage of energy derivation to the resistor banks to meet the load requirements.}"
+ },
+ {
+  "id": 1444,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Efficient Load Control: Automatic mode ensures}"
+ },
+ {
+  "id": 1445,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|efficient load control by automatically managing the energy derivation process, responding to variations in the city's power demand without requiring constant manual adjustments.}"
+ },
+ {
+  "id": 1447,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Manual Mode:}{1|When the automatic mode is deactivated, operators can manually control the energy derivation percentage using a regulator on the panel. The regulator allows adjustments from 0% to 100%.}"
+ },
+ {
+  "id": 1449,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Operator Flexibility: Manual mode provides}"
+ },
+ {
+  "id": 1450,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|operators with flexibility in determining the proportion of energy that should be directed to the resistor banks. This manual control is valuable for fine-tuning energy distribution based on operator insights.}"
+ },
+ {
+  "id": 1452,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Immediate Adjustments: Operators can make}"
+ },
+ {
+  "id": 1453,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|immediate adjustments to the energy derivation percentage in manual mode, responding to specific operational requirements or emergency scenarios.}"
+ },
+ {
+  "id": 1455,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|The Derivation Percentage Panel is integrated into the broader control system of the power plant. It collaborates with other panels and components to ensure a coordinated response to variations in power demand and emergency load control. Operators play a key role in deciding whether to operate in automatic or manual mode based on the plant's operational goals, load conditions, and the need for emergency load control.}"
+ },
+ {
+  "id": 1456,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Turbine Trip Emergency Button:}{1|The Turbine Trip Emergency Button serves as a safety mechanism by initiating a rapid opening of the ventilation valves on the turbines.}"
+ },
+ {
+  "id": 1458,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|This action redirects steam away from the turbines, directing it to the secondary condenser. The sole purpose of the secondary condenser, in this context, is to absorb steam during emergency situations.}"
+ },
+ {
+  "id": 1460,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Simultaneously, the Turbine Trip Emergency Button triggers the opening of the circuit breaker in the turbine's electrical system to disconnect the turbine from the electrical grid for safety measures.}"
+ },
+ {
+  "id": 1462,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Synchronoscope Panel:}{1|the Synchronoscope Panel is a critical tool for synchronizing the turbine with the electrical grid. Here's an explanation of each component and its functionality:}"
+ },
+ {
+  "id": 1464,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Synchronoscope Display:}{1|The primary display that shows the current frequency and phase of the turbine in comparison to the electrical grid. It provides real-time feedback on the synchronization process.}"
+ },
+ {
+  "id": 1466,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|RPM Raise Button:}{1|Increases the turbine's rotational speed. Press when the turbine needs to match the Hertz grid's frequency during synchronization. Used to raise the RPM for alignment.}"
+ },
+ {
+  "id": 1468,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|RPM Lower Button:}{1|Decreases the turbine's rotational speed. Press when adjustments are needed to lower the turbine's RPM during the synchronization process, to match Hertz grid's frequency.}"
+ },
+ {
+  "id": 1470,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Circuit Breaker Open Button:}{1|Opens the circuit breaker, disconnecting the turbine from the grid. Press when isolating the turbine from the grid, such as during maintenance or troubleshooting.}"
+ },
+ {
+  "id": 1472,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Circuit Breaker Close Button:}{1|Closes the circuit breaker, connecting the turbine to the grid. Press when re-establishing the connection between the turbine and the grid after maintenance or isolation.}"
+ },
+ {
+  "id": 1474,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Voltage Raise Button (Field Excitation):}{1|Increases the excitation voltage, influencing the generator's output voltage. Press when adjusting the turbine's voltage output during synchronization to match the grid's voltage.}"
+ },
+ {
+  "id": 1476,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Voltage Lower Button (Field Excitation):}{1|Decreases the excitation voltage. Press when adjustments are needed to lower the turbine's voltage output during synchronization.}"
+ },
+ {
+  "id": 1478,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Circuit Breaker Open light:}{1|When the circuit breaker is open (}{2|red}{3|color), it signifies that the electrical connection between the generator (or turbine) and the electrical grid is interrupted. This state can be due to various reasons, such as maintenance, repairs, or a manual action to disconnect the unit from the electrical system.}"
+ },
+ {
+  "id": 1480,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|When the circuit breaker is closed (indicated by a}{1|green}{3|light), it signifies that the electrical connection between the generator (or turbine) and the electrical grid is established.}"
+ },
+ {
+  "id": 1482,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|This state indicates a normal operational condition where the unit is connected to the grid, allowing the flow of electrical power. The green light signals proper functioning, and the closure of the circuit breaker is necessary for the unit to actively contribute to the electrical grid.}"
+ },
+ {
+  "id": 1484,
+  "type": "bullet",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Synchronized light:}{1|The synchronization process involves matching the frequency and phase of the generator's output with that of the electrical grid. The synchroscope is a device used to visualize and assist in achieving this synchronization. When the generator's frequency and phase align precisely with the grid, the synchroscope needle reaches the 0 position.}"
+ },
+ {
+  "id": 1486,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|Simultaneously, the \"Synchronized\" light illuminates, indicating that the synchronization process is successful, and the generator is ready to be connected to the grid.}"
+ },
+ {
+  "id": 1488,
+  "type": "body",
+  "section": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "s": "{0|These functions collectively allow operators to synchronize the turbine with precision, ensuring a smooth and controlled integration with the electrical grid.}"
+ },
+ {
+  "id": 1490,
+  "type": "heading",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|CONTROL PANEL: INTERNAL SUPPLY}"
+ },
+ {
+  "id": 1491,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|The Internal Plant Supply Control Panel is a centralized interface that allows operators to manage and monitor essential internal power supply components within the facility.}"
+ },
+ {
+  "id": 1494,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|This panel provides control over generators, emergency batteries, and facilitates oversight of internal power consumption.}"
+ },
+ {
+  "id": 1495,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|The panel enables operators to control various generator groups within the plant. Generators are crucial for ensuring a stable and reliable power supply, especially in the event of grid outages. Operators can start, stop, or adjust the output of each generator based on the plant's energy needs.}"
+ },
+ {
+  "id": 1496,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|Emergency batteries play a critical role in providing backup power during unexpected power outages or emergency situations. The control panel allows operators to monitor the status of the batteries, including their charge level and overall health. In the case of an outage, operators can initiate the use of emergency batteries to maintain essential systems until primary power sources are restored.}"
+ },
+ {
+  "id": 1497,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|The panel provides real-time data on the internal power consumption of the plant. Operators can verify the current consumption levels and assess the load on the internal electrical system. Additionally, control features enable adjustments to internal power distribution, optimizing the use of available resources and ensuring efficient energy utilization.}"
+ },
+ {
+  "id": 1498,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|The control panel facilitates load balancing by allowing operators to distribute power from generators and emergency batteries based on the priority of different plant systems. This ensures that critical operations receive power priority during times of high demand or power constraints.}"
+ },
+ {
+  "id": 1499,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|Starting lights:}{1|The starting lights associated with each of the two installable generator sets serve as visual indicators to convey the status of the generator during the startup process. Specifically, these lights illuminate or blink when the generator is in the process of starting up.}"
+ },
+ {
+  "id": 1501,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|Initialization and Pre-Start Phase: When the \"Starting\" light is illuminated or blinking, it signals that the generator is in the initialization and pre-start phase. During this stage, various systems within the generator are being prepared for operation, and the engine is being ready for ignition.}"
+ },
+ {
+  "id": 1503,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|Fuel System Priming: The blinking \"Starting\" light may coincide with the fuel system priming process. This involves ensuring that the fuel lines are filled with fuel, ready to supply the engine when the ignition sequence begins. The blinking light provides a visual cue that this essential pre-start step is in progress.}"
+ },
+ {
+  "id": 1505,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|Engine Ignition: As the \"Starting\" light blinks, it signifies that the engine ignition sequence is underway. Igniters or glow plugs are activated to initiate combustion within the engine. The blinking light serves as a visual confirmation that the generator is in the active phase of starting its engine.}"
+ },
+ {
+  "id": 1507,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|The \"Starting\" light typically ceases to blink and remains steady once the generator has successfully completed the startup sequence. This signals that the generator is now in normal operating mode and is ready to provide electrical power.}"
+ },
+ {
+  "id": 1509,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|Power:}{1|The Power display, expressed in kilowatts (kW), provides a real-time indication of the electrical power being generated by the active generator sets within the system. Real-Time Power Output:}"
+ },
+ {
+  "id": 1511,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|The Power display in kW represents the actual electrical power output of the active generator set at any given moment. It is a dynamic and real-time measurement that reflects instantaneous energy production.}"
+ },
+ {
+  "id": 1513,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|The Power display is instrumental in responding to changes in electrical demand. Operators can adjust the output of the generator sets based on the varying load requirements, ensuring that the system meets the demand without compromising stability.}"
+ },
+ {
+  "id": 1515,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|Anomalies or faults in a generator set can be identified through the Power display. Sudden drops or fluctuations in the displayed power may indicate issues with a specific generator, prompting operators to investigate and address potential problems promptly.}"
+ },
+ {
+  "id": 1517,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|% Fuel / Hour:}{1|Is a crucial component of the generator control system, providing valuable information about the average fuel consumption of the generator sets over the course of one hour.}"
+ },
+ {
+  "id": 1519,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|Calculates and represents the percentage of fuel consumed by the generator sets within a specific one-hour period. It serves as an indicator of the efficiency of fuel utilization during that timeframe.}"
+ },
+ {
+  "id": 1521,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|The display provides real-time tracking of fuel consumption trends, allowing operators to assess how efficiently the generator sets are utilizing fuel resources. This information is essential for optimizing operational strategies and minimizing overall fuel costs.}"
+ },
+ {
+  "id": 1523,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|Consuming (Batteries):}{1|The Consuming meter measures and indicates the rate at which electrical power is being drawn from the emergency batteries. This is critical during situations where the primary power source is unavailable, and the emergency batteries become the primary source of power for the plant.}"
+ },
+ {
+  "id": 1525,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|The meter provides real-time data, allowing operators to monitor the current consumption of electrical power from the emergency batteries. Continuous monitoring of the Consuming meter provides insights into the health and capacity of the emergency batteries.}"
+ },
+ {
+  "id": 1527,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|Operators can observe how the batteries respond to different loads and assess their ability to meet the plant's power demands during emergencies.}"
+ },
+ {
+  "id": 1529,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|Batteries Capacity:}{1|The Batteries Capacity display represents the cumulative kW capacity of all installed batteries within the system. It indicates the maximum amount of electrical power that the batteries can collectively store and supply during periods of demand or emergencies.}"
+ },
+ {
+  "id": 1531,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|This display is dynamic and reflects the current status of the overall capacity of the installed batteries. It takes into consideration the gradual changes in capacity, such as losses due to dragging, providing operators with real-time information on the available energy storage.}"
+ },
+ {
+  "id": 1533,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|As batteries undergo dragging, their overall capacity diminishes over time. The Batteries Capacity display incorporates this loss into its calculation, offering operators an accurate representation of the remaining effective capacity for the entire battery bank.}"
+ },
+ {
+  "id": 1535,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|Total Energy Generated:}{1|The display accumulates and shows the total amount of electrical energy generated by the generator sets and emergency batteries over a specific period. It provides a comprehensive view of the overall energy production, considering contributions from both sources. Operators use the Total Energy Generated display for real-time tracking of the plant's overall energy output. It offers insights into the efficiency and performance of the entire power generation system over the selected timeframe.}"
+ },
+ {
+  "id": 1537,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|Batteries / Charge:}{1|The Battery Load Meter is a vital instrument that visually represents the overall charge level of the entire rack of emergency batteries. This meter employs a needle to showcase the charge status, ranging from 0% (no charge) to 100% (full charge). The meter provides a consolidated view of the charge level for the entire rack of emergency batteries.}"
+ },
+ {
+  "id": 1539,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|Discharging % / Hour:}{1|The display calculates and presents the average rate at which the battery rack is discharging its stored energy over the course of one hour. This metric is expressed as a percentage, representing the proportion of the total battery capacity consumed during that time frame.}"
+ },
+ {
+  "id": 1541,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY",
+  "s": "{0|Operators use the Discharging % / Hour display for real-time monitoring of the battery rack's energy consumption trends. It offers immediate feedback on how efficiently the emergency batteries are discharging their stored energy based on the current operational demands.}"
+ }
+]

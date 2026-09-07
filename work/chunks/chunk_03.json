@@ -1,0 +1,554 @@
+[
+ {
+  "id": 418,
+  "type": "heading",
+  "section": "STEAM GENERATOR",
+  "s": "{0|STEAM GENERATOR}"
+ },
+ {
+  "id": 419,
+  "type": "body",
+  "section": "STEAM GENERATOR",
+  "s": "{0|The Steam Generator plays a pivotal role in the energy conversion process within a PWR. The Steam Generator is crucial for transforming the thermal energy produced by the nuclear reaction into usable mechanical energy, which is ultimately converted into electricity.}"
+ },
+ {
+  "id": 420,
+  "type": "bullet",
+  "section": "STEAM GENERATOR",
+  "s": "{0|The Steam Generator is a heat exchanger located in the primary circuit of the reactor. It consists of a series of tubes through which pressurized water from the primary circuit flows.}"
+ },
+ {
+  "id": 423,
+  "type": "bullet",
+  "section": "STEAM GENERATOR",
+  "s": "{0|Water from the primary circuit is maintained at high pressure to prevent it from boiling. This high-pressure water transfers its heat to}"
+ },
+ {
+  "id": 424,
+  "type": "body",
+  "section": "STEAM GENERATOR",
+  "s": "{0|a secondary circuit, where water is allowed to boil and produce steam.}"
+ },
+ {
+  "id": 426,
+  "type": "bullet",
+  "section": "STEAM GENERATOR",
+  "s": "{0|The steam generated in the secondary circuit is then used to drive turbines, which generate mechanical energy.}"
+ },
+ {
+  "id": 428,
+  "type": "heading",
+  "section": "STEAM GENERATOR",
+  "s": "{0|Related Valves}"
+ },
+ {
+  "id": 430,
+  "type": "bullet",
+  "section": "STEAM GENERATOR",
+  "s": "{0|Feedwater Control Valve:}{1|This valve regulates the flow of water into the Steam Generator from the primary circuit. It controls the rate at which pressurized water enters the generator, influencing the heat transfer process.}{2|In game valves A3, B3 and C3.}"
+ },
+ {
+  "id": 432,
+  "type": "bullet",
+  "section": "STEAM GENERATOR",
+  "s": "{0|Steam Outlet Valve:}{1|Once steam is generated in the secondary circuit, this valve controls the release of steam towards the turbines. It helps manage the flow of steam, ensuring optimal turbine performance.}{2|In game valves A4, B4 and C4.}"
+ },
+ {
+  "id": 434,
+  "type": "bullet",
+  "section": "STEAM GENERATOR",
+  "s": "{0|Safety Relief Valve:}{1|In the event of excess pressure in the Steam Generator, the safety relief valve opens to release steam and prevent over pressurization. This is a crucial safety feature to maintain the integrity of the system.}"
+ },
+ {
+  "id": 436,
+  "type": "body",
+  "section": "STEAM GENERATOR",
+  "s": "{0|The Steam Generator facilitates the efficient transfer of heat from the primary circuit, where the nuclear reaction occurs, to the secondary circuit, where steam is generated for electricity production. It allows for the separation of radioactive primary water from the turbines, ensuring the safety of the electricity generation process.}"
+ },
+ {
+  "id": 438,
+  "type": "heading",
+  "section": "CONDENSER",
+  "s": "{0|CONDENSER}"
+ },
+ {
+  "id": 439,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|The condenser plays a critical role in the power generation process by converting the high-pressure steam exiting the turbines back into water. It facilitates the efficient recycling of the working fluid, ensuring a continuous cycle of steam generation and electricity production.}"
+ },
+ {
+  "id": 441,
+  "type": "bullet",
+  "section": "CONDENSER",
+  "s": "{0|After the steam has passed through the turbines, losing much of its energy in the process, it enters the condenser.}"
+ },
+ {
+  "id": 443,
+  "type": "bullet",
+  "section": "CONDENSER",
+  "s": "{0|Inside the condenser, the steam is exposed to a network of tubes or surfaces cooled by a separate water supply (often from a cooling tower or a body of water).}"
+ },
+ {
+  "id": 445,
+  "type": "bullet",
+  "section": "CONDENSER",
+  "s": "{0|As the steam encounters these cooled surfaces, it undergoes a phase change, condensing back into water.}"
+ },
+ {
+  "id": 447,
+  "type": "bullet",
+  "section": "CONDENSER",
+  "s": "{0|The condensed water is then collected and returned to the steam generator, completing the cycle.}"
+ },
+ {
+  "id": 452,
+  "type": "heading",
+  "section": "CONDENSER",
+  "s": "{0|Associated Valves}"
+ },
+ {
+  "id": 454,
+  "type": "bullet",
+  "section": "CONDENSER",
+  "s": "{0|Condensate Extraction Valves:}{1|These valves control the flow of condensed water from the condenser to the feedwater system. They ensure a smooth and controlled transfer of water back to the steam generator.}{2|In game valves A6, B6 and C6.}"
+ },
+ {
+  "id": 456,
+  "type": "bullet",
+  "section": "CONDENSER",
+  "s": "{0|Air Removal Valves:}{1|Air removal is crucial to maintain the efficiency of the condenser. Valves are employed to vent any non-condensable gases (such as air) that may accumulate within the condenser, preventing them from impeding the condensation process.}{2|In the game it is automatic.}"
+ },
+ {
+  "id": 458,
+  "type": "bullet",
+  "section": "CONDENSER",
+  "s": "{0|Cooling Water Inlet/Outlet Valves:}{1|These valves regulate the flow of the cooling water that absorbs heat from the steam inside the condenser. By controlling the cooling water flow, the temperature within the condenser is managed, optimizing the condensation process.}{2|In the game it is automatic.}"
+ },
+ {
+  "id": 461,
+  "type": "heading",
+  "section": "CONDENSER",
+  "s": "{0|What’s the Condenser For?}"
+ },
+ {
+  "id": 462,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|The condenser is in charge of turning steam back into water so it can go back into the system. Without it, the reactor would just keep pumping out steam with nowhere to go.}"
+ },
+ {
+  "id": 464,
+  "type": "heading",
+  "section": "CONDENSER",
+  "s": "{0|Why It Needs to Be Under Vacuum}"
+ },
+ {
+  "id": 465,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|To condense steam, the pressure inside the condenser has to stay very low — ideally around 0.1 BAR. At that low pressure, water boils (and condenses) at a much lower temperature. This makes it easier for steam to turn back into liquid water.}"
+ },
+ {
+  "id": 467,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|If the pressure is too high or the temperature gets too hot, condensation stops. The steam just builds up, and that’s not good for the system.}"
+ },
+ {
+  "id": 469,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|In a PWR setup, the steam jet ejector by itself creates a partial vacuum in the condenser, but its suction is limited by available steam pressure and flow. The vacuum pump amplifies the ejector’s effect, pulling a deeper vacuum much faster. That’s why—during reactor startup—you run the pump at maximum power: it helps the condenser reach the target 0.1 bar (or lower) as quickly as possible. Once the plant is up and running, you can reduce the pump to minimum power to maintain vacuum with lower energy (and steam) consumption.}"
+ },
+ {
+  "id": 471,
+  "type": "heading",
+  "section": "CONDENSER",
+  "s": "{0|Turbines and the Vacuum}"
+ },
+ {
+  "id": 472,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|The condenser's vacuum isn’t just for show — it’s essential for the turbines, too.}"
+ },
+ {
+  "id": 474,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|When steam leaves the reactor, it pushes the turbine blades and gives you power. But for that to work well, the steam needs somewhere to go after — and that “somewhere” is the condenser.}"
+ },
+ {
+  "id": 476,
+  "type": "heading",
+  "section": "CONDENSER",
+  "s": "{0|Why the Vacuum Matters}"
+ },
+ {
+  "id": 477,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|A good vacuum creates a pressure drop between the turbine and the condenser. This pressure difference is what pulls the steam through the turbine faster and harder, giving you more efficiency and power output.}"
+ },
+ {
+  "id": 479,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|Without that vacuum: The pressure behind the turbine rises, the steam flow slows down, the turbine has to fight backpressure, which it’s not built for.}"
+ },
+ {
+  "id": 481,
+  "type": "heading",
+  "section": "CONDENSER",
+  "s": "{0|What Happens Without Vacuum?}"
+ },
+ {
+  "id": 482,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|Running the turbine without proper vacuum can lead to serious problems:}"
+ },
+ {
+  "id": 483,
+  "type": "bullet",
+  "section": "CONDENSER",
+  "s": "{0|Low performance: Steam doesn’t move fast enough, so the turbine produces less or no power.}"
+ },
+ {
+  "id": 485,
+  "type": "bullet",
+  "section": "CONDENSER",
+  "s": "{0|Overheating or mechanical stress: The turbine blades are under strain they weren’t designed for.}"
+ },
+ {
+  "id": 487,
+  "type": "bullet",
+  "section": "CONDENSER",
+  "s": "{0|System imbalance: Pressure builds up in places it shouldn’t.}"
+ },
+ {
+  "id": 489,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|Keeping the vacuum system active at all times is important because—even if the condenser already sits at 0.1 bar—small leaks or gas diffusion will slowly raise its pressure. If the ejector and pump stop, non-condensable gases build up, condenser efficiency drops, and turbine performance suffers. By leaving the vacuum train online (even at low power), you prevent pressure spikes, sustain proper condensation, and protect the reactor’s thermal cycle.}"
+ },
+ {
+  "id": 491,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|In real reactors, this is a big deal — and in Nucleares, it means trouble for your setup.}"
+ },
+ {
+  "id": 494,
+  "type": "heading",
+  "section": "CONDENSER",
+  "s": "{0|Vacuum Circuit Valves}"
+ },
+ {
+  "id": 496,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|The valves allow precise control over steam and gas flow through the vacuum system—enabling safe startup, stable operation, and protection against overpressure, cavitation, and loss of mass in the condenser.}"
+ },
+ {
+  "id": 498,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|1. Suction Intake Valve}"
+ },
+ {
+  "id": 500,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|Controls the link between the retention tank and the vacuum pump. When open, it allows the vacuum pump to draw steam and non-condensable gases from the retention tank. When closed, it isolates the retention tank from the pump, preventing any suction.}"
+ },
+ {
+  "id": 502,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|2. Retention Tank Vent Valve}"
+ },
+ {
+  "id": 504,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|Regulates the release of non-condensable gases to the atmosphere from the retention tank. If the retention tank’s internal pressure becomes too high, opening this valve vents accumulated gases in a controlled manner. If left closed while the tank is full, backpressure builds up and can block the ejector’s discharge.}"
+ },
+ {
+  "id": 506,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|3. Condensate Return Valve}"
+ },
+ {
+  "id": 508,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|Allows condensed motive steam (and any after-ejector condensate) to return to the main condenser. When open, it routes condensed fluid back into the condenser so the water can re-enter the cycle. When closed, it stops that return flow, which can cause liquid levels or pressures to shift incorrectly in the condenser.}"
+ },
+ {
+  "id": 510,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|4. Startup Motive Steam Inlet Valve}"
+ },
+ {
+  "id": 512,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|Controls the flow of steam coming directly from the evaporators during plant startup. In startup mode, this valve sends hot steam from the evaporators straight into the ejector to establish vacuum in the condenser without sending steam through the turbine. Closing it prevents evaporator steam from reaching the ejector.}"
+ },
+ {
+  "id": 514,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|5. Operational Motive Steam Inlet Valve}"
+ },
+ {
+  "id": 516,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|Regulates the steam extracted from the turbines (low-pressure side) that feeds the ejector during normal operation. Once the plant is up and running, opening this valve delivers a portion of the turbine’s exhaust steam to the ejector. Closing it cuts off turbine steam to the ejector, which forces the vacuum system to switch back to startup steam or stop altogether.}"
+ },
+ {
+  "id": 518,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|6. Condenser Suction Valve}"
+ },
+ {
+  "id": 520,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|Acts as an isolation point for vacuum draw between the condenser and the vacuum train (ejector and pump). Opening this valve connects the condenser to the vacuum line so air and vapor can be extracted. Closing it blocks suction from the condenser, so neither the ejector nor the pump can pull gas out of it.}"
+ },
+ {
+  "id": 523,
+  "type": "heading",
+  "section": "CONDENSER",
+  "s": "{0|Condenser Vacuum System}"
+ },
+ {
+  "id": 525,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|The Ejector requires motive steam to work. It can’t create vacuum on its own. The Vacuum Pump helps, but it depends on how the gases are flowing. Condensation is calculated realistically.}"
+ },
+ {
+  "id": 527,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|Condensate Flow Rate:}{1|Shows how much steam is being condensed into water each second.}"
+ },
+ {
+  "id": 529,
+  "type": "bullet",
+  "section": "CONDENSER",
+  "s": "{0|High values: Lots of steam is entering the condenser, and condensation is working well.}"
+ },
+ {
+  "id": 531,
+  "type": "bullet",
+  "section": "CONDENSER",
+  "s": "{0|Low values: Might mean there’s little steam left, or that condensation efficiency is dropping.}"
+ },
+ {
+  "id": 533,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|This tells you if the system is actively turning steam into water — and how well it’s doing it.}"
+ },
+ {
+  "id": 535,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|Extraction Flow:}{1|Indicates how much condensed water (feedwater) is being pumped back to the steam generators.}"
+ },
+ {
+  "id": 537,
+  "type": "bullet",
+  "section": "CONDENSER",
+  "s": "{0|If this value is higher than the condensate flow, you're extracting more water than you're producing — the condenser will eventually run dry.}"
+ },
+ {
+  "id": 539,
+  "type": "bullet",
+  "section": "CONDENSER",
+  "s": "{0|If it's lower, water is building up — and the condenser could eventually overflow.}"
+ },
+ {
+  "id": 541,
+  "type": "body",
+  "section": "CONDENSER",
+  "s": "{0|You want the incoming steam, the condensed water, and the extraction rate to stay in harmony. When you're ramping up power, shutting down the reactor, or adjusting valves, temporary imbalance is expected.}"
+ },
+ {
+  "id": 545,
+  "type": "heading",
+  "section": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "s": "{0|CIRCULATION PUMPS IN THE PRIMARY LOOP}"
+ },
+ {
+  "id": 547,
+  "type": "body",
+  "section": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "s": "{0|Circulation pumps play a crucial role in maintaining the flow of coolant within the primary loop of the reactor. They ensure a consistent and controlled circulation of coolant through the reactor core, allowing for efficient heat transfer from the fuel rods.}"
+ },
+ {
+  "id": 549,
+  "type": "body",
+  "section": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "s": "{0|The circulation pumps draw coolant from the reactor pressure vessel and push it through the reactor core, where it absorbs heat generated by nuclear fission.}"
+ },
+ {
+  "id": 551,
+  "type": "body",
+  "section": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "s": "{0|The heated coolant then flows to the evaporators (steam generators), where it transfers heat to the secondary circuit, generating steam that drives the turbines. The coolant itself remains within the primary loop and does not mix with the steam.}"
+ },
+ {
+  "id": 553,
+  "type": "body",
+  "section": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "s": "{0|The efficiency and reliability of these pumps are critical for the reactor’s performance and safety. A failure or malfunction could disrupt core cooling, potentially leading to hazardous conditions. These pumps, typically powered by electric motors, operate under high-pressure conditions to ensure continuous coolant flow.}"
+ },
+ {
+  "id": 555,
+  "type": "heading",
+  "section": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "s": "{0|Heat Transfer Considerations}"
+ },
+ {
+  "id": 557,
+  "type": "body",
+  "section": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "s": "{0|During normal operation, the pumps regulate coolant flow to prevent the core from overheating. However, increasing pump speed does not always improve heat transfer efficiency. This is due to the relationship between flow rate, residence time, and heat exchange efficiency:}"
+ },
+ {
+  "id": 559,
+  "type": "heading",
+  "section": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "s": "{0|Residence Time and Heat Absorption in the Core}"
+ },
+ {
+  "id": 561,
+  "type": "bullet",
+  "section": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "s": "{0|If the coolant moves too fast through the reactor core, it has less time to absorb heat from the fuel rods, reducing overall heat transfer.}"
+ },
+ {
+  "id": 563,
+  "type": "bullet",
+  "section": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "s": "{0|If it moves too slowly, it absorbs more heat, but this could lead to localized overheating and a higher core outlet temperature.}"
+ },
+ {
+  "id": 566,
+  "type": "heading",
+  "section": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "s": "{0|Heat Transfer in Evaporators (Steam Generators)}"
+ },
+ {
+  "id": 568,
+  "type": "bullet",
+  "section": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "s": "{0|The primary coolant transfers its heat to the secondary circuit in the evaporators. For efficient heat exchange, the coolant must spend enough time in contact with the heat transfer surfaces.}"
+ },
+ {
+  "id": 570,
+  "type": "bullet",
+  "section": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "s": "{0|If the flow rate is too high, the coolant passes through the evaporators too quickly, reducing the amount of heat transferred to the secondary circuit. This can result in lower steam generation and decreased power production efficiency.}"
+ },
+ {
+  "id": 572,
+  "type": "bullet",
+  "section": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "s": "{0|If the flow is too slow, the heat transfer may be greater, but at the cost of an increased coolant outlet temperature, which could affect the system's thermal stability.}"
+ },
+ {
+  "id": 574,
+  "type": "body",
+  "section": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "s": "{0|For these reasons, pump speed must be carefully adjusted to maintain a balance between thermal efficiency, core safety, and system stability.}"
+ },
+ {
+  "id": 578,
+  "type": "heading",
+  "section": "CIRCULATION PUMPS IN THE SECONDARY LOOP",
+  "s": "{0|CIRCULATION PUMPS IN THE SECONDARY LOOP}"
+ },
+ {
+  "id": 580,
+  "type": "body",
+  "section": "CIRCULATION PUMPS IN THE SECONDARY LOOP",
+  "s": "{0|Circulation pumps play a vital role in maintaining the flow of water within the secondary loop of the reactor. They ensure a continuous and controlled movement of coolant, facilitating the transfer of heat from the steam generator to the turbines.}"
+ },
+ {
+  "id": 583,
+  "type": "bullet",
+  "section": "CIRCULATION PUMPS IN THE SECONDARY LOOP",
+  "s": "{0|The circulation pumps are responsible for drawing water from the steam generator and pumping it towards the turbines, where the thermal energy is converted into mechanical energy.}"
+ },
+ {
+  "id": 585,
+  "type": "bullet",
+  "section": "CIRCULATION PUMPS IN THE SECONDARY LOOP",
+  "s": "{0|This continuous circulation is essential for sustaining the power generation process.}"
+ },
+ {
+  "id": 587,
+  "type": "body",
+  "section": "CIRCULATION PUMPS IN THE SECONDARY LOOP",
+  "s": "{0|Pump Efficiency:}{1|Regular monitoring of pump efficiency is crucial for optimal performance. Efficiency can be affected by factors such as wear and tear, so routine maintenance is essential.}"
+ },
+ {
+  "id": 589,
+  "type": "body",
+  "section": "CIRCULATION PUMPS IN THE SECONDARY LOOP",
+  "s": "{0|Flow Control:}{1|Precise control of water flow is necessary to match the reactor's power output. This is often achieved through adjustable impeller blades or variable speed control.}"
+ },
+ {
+  "id": 592,
+  "type": "heading",
+  "section": "FREIGHT PUMP IN PRIMARY LOOP",
+  "s": "{0|FREIGHT PUMP IN PRIMARY LOOP}"
+ },
+ {
+  "id": 594,
+  "type": "body",
+  "section": "FREIGHT PUMP IN PRIMARY LOOP",
+  "s": "{0|The primary circuit charging pump plays a critical role in maintaining the integrity and functionality of the primary coolant system in a nuclear reactor. Its primary function is to ensure the appropriate level of coolant within the reactor vessel.}"
+ },
+ {
+  "id": 596,
+  "type": "body",
+  "section": "FREIGHT PUMP IN PRIMARY LOOP",
+  "s": "{0|The pump is responsible for replenishing coolant in the primary circuit, compensating for any volume losses due to leaks or other operational factors. By maintaining the desired coolant level, it supports the efficient transfer of heat generated in the reactor core to the steam generator, facilitating the energy conversion process.}"
+ },
+ {
+  "id": 598,
+  "type": "bullet",
+  "section": "FREIGHT PUMP IN PRIMARY LOOP",
+  "s": "{0|Coolant Level Control: The pump plays a pivotal role in controlling and regulating the coolant level within the reactor vessel, preventing potential overheating or undercooling scenarios.}"
+ },
+ {
+  "id": 600,
+  "type": "bullet",
+  "section": "FREIGHT PUMP IN PRIMARY LOOP",
+  "s": "{0|Stability: Ensuring a stable and consistent coolant level contributes to the overall stability of the reactor, optimizing its performance.}"
+ },
+ {
+  "id": 602,
+  "type": "body",
+  "section": "FREIGHT PUMP IN PRIMARY LOOP",
+  "s": "{0|During regular operation, the pump operates to maintain the desired coolant level, ensuring continuous and controlled heat transfer. In the event of coolant loss due to minor leaks or fluctuations, the pump compensates by injecting additional coolant to maintain the necessary levels.}"
+ },
+ {
+  "id": 604,
+  "type": "body",
+  "section": "FREIGHT PUMP IN PRIMARY LOOP",
+  "s": "{0|The pump can also be crucial during emergency scenarios, preventing potential overheating of the core by swiftly injecting coolant. Routine inspections need to be conducted to ensure the pump is free from wear and tear. This includes checking for any signs of corrosion or mechanical issues.}"
+ }
+]

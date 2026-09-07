@@ -1,0 +1,1937 @@
+[
+ {
+  "en": "Operational Motive Steam Inlet Valve",
+  "ru": "Входной клапан рабочего пара"
+ },
+ {
+  "en": "Startup Motive Steam Inlet Valve",
+  "ru": "Входной клапан пускового пара"
+ },
+ {
+  "en": "Preventive Maintenance Analysis",
+  "ru": "Анализ профилактического техобслуживания"
+ },
+ {
+  "en": "Operational Motive Steam Inlet",
+  "ru": "Входной клапан рабочего пара"
+ },
+ {
+  "en": "OPERATING TEMPERATURE REACHED",
+  "ru": "ДОСТИГНУТА РАБОЧАЯ ТЕМПЕРАТУРА"
+ },
+ {
+  "en": "INSUFFICIENT PRESTIGE POINTS",
+  "ru": "НЕДОСТАТОЧНО ОЧКОВ ПРЕСТИЖА"
+ },
+ {
+  "en": "PRIMARY CIRCUIT FREIGHT PUMP",
+  "ru": "ЗАПРАВКА ТЕПЛОНОСИТЕЛЯ"
+ },
+ {
+  "en": "INTERNAL POWER DISTRIBUTION",
+  "ru": "Генераторы и аккумуляторы аварийного питания"
+ },
+ {
+  "en": "PRIMARY CIRCUIT PUMP SPEED",
+  "ru": "СКОРОСТЬ ЦИРКУЛЯЦИИ В КОНТУРЕ ТЕПЛОНОСИТЕЛЯ",
+  "alt": [
+   "СКОРОСТЬ ЦИРКУЛЯЦИИ ТЕПЛОНОСИТЕЛЯ АКТИВНОЙ ЗОНЫ"
+  ]
+ },
+ {
+  "en": "Startup Motive Steam Inlet",
+  "ru": "Входной клапан пускового пара"
+ },
+ {
+  "en": "CONDENSER COOLING CIRCUIT",
+  "ru": "КОНТУР ТЕПЛОНОСИТЕЛЯ КОНДЕНСАТОРА"
+ },
+ {
+  "en": "Main Steam Control Valves",
+  "ru": "Главные регулирующие клапаны пара"
+ },
+ {
+  "en": "MAIN STEAM CONTROL VALVES",
+  "ru": "Главный регулирующий клапан пара"
+ },
+ {
+  "en": "Reactor start-up protocol",
+  "ru": "Протокол запуска реактора"
+ },
+ {
+  "en": "Logistics and deliveries",
+  "ru": "Логистика и поставки"
+ },
+ {
+  "en": "Reactor startup protocol",
+  "ru": "Протокол запуска реактора"
+ },
+ {
+  "en": "steam-water flow balance",
+  "ru": "баланс пароводяного потока"
+ },
+ {
+  "en": "Supplies and spare parts",
+  "ru": "Расходные материалы и запчасти"
+ },
+ {
+  "en": "Condensate Return Valve",
+  "ru": "Возвратный клапан конденсата"
+ },
+ {
+  "en": "Condenser Suction Valve",
+  "ru": "Всасывающий клапан конденсатора"
+ },
+ {
+  "en": "Excess power generation",
+  "ru": "Избыточная энергия"
+ },
+ {
+  "en": "PRESSURIZER TEMPERATURE",
+  "ru": "ТЕМПЕРАТУРА КОМПЕНСАТОРА ДАВЛЕНИЯ"
+ },
+ {
+  "en": "START MAINTENANCE TASKS",
+  "ru": "НАЧАТЬ ТЕХОБСЛУЖИВАНИЕ"
+ },
+ {
+  "en": "CONNECTED TRANSFORMERS",
+  "ru": "ПОДКЛЮЧЁННЫЕ СИЛОВЫЕ ТРАНСФОРМАТОРЫ"
+ },
+ {
+  "en": "Minimum Torque Reached",
+  "ru": "Достигнут минимальный крутящий момент"
+ },
+ {
+  "en": "OPERATIONAL ASSISTANCE",
+  "ru": "ЗАПРОСИТЬ ПОМОЩЬ В УПРАВЛЕНИИ РЕАКТОРОМ"
+ },
+ {
+  "en": "RESISTOR BANK SWITCHES",
+  "ru": "Выключатели групп резисторов"
+ },
+ {
+  "en": "Saturation Temperature",
+  "ru": "ТМП НАСЫЩЕНИЯ"
+ },
+ {
+  "en": "Stabilization Protocol",
+  "ru": "Протокол стабилизации"
+ },
+ {
+  "en": "TOTAL ENERGY GENERATED",
+  "ru": "ВСЕГО ВЫРАБОТАНО ЭНЕРГИИ"
+ },
+ {
+  "en": "CIRCUIT BREAKER CLOSE",
+  "ru": "ЦЕПЬ ЗАМКНУТА"
+ },
+ {
+  "en": "EXTERNAL FREIGHT PUMP",
+  "ru": "ВНЕШНИЙ ПЕРВИЧНЫЙ НАСОС"
+ },
+ {
+  "en": "External Freight Pump",
+  "ru": "ГРУЗОВОЙ НАСОС ВНЕШНЕГО РЕЗЕРВУАРА"
+ },
+ {
+  "en": "INTERNAL FREIGHT PUMP",
+  "ru": "ВНУТРЕННИЙ ПЕРВИЧНЫЙ НАСОС",
+  "alt": [
+   "ГРУЗОВОЙ НАСОС ВНУТРЕННЕГО РЕЗЕРВУАРА"
+  ]
+ },
+ {
+  "en": "Internal Freight Pump",
+  "ru": "ГРУЗОВОЙ НАСОС ВНУТРЕННЕГО РЕЗЕРВУАРА"
+ },
+ {
+  "en": "OPERATING TEMPERATURE",
+  "ru": "РАБОЧАЯ ТЕМПЕРАТУРА"
+ },
+ {
+  "en": "CIRCUIT BREAKER OPEN",
+  "ru": "ВЫКЛЮЧАТЕЛЬ РАЗОМКНУТЬ"
+ },
+ {
+  "en": "Condensate Flow Rate",
+  "ru": "Расход конденсата"
+ },
+ {
+  "en": "CONTAINMENT BUILDING",
+  "ru": "ЗДАНИЕ ЗАЩИТНОЙ ОБОЛОЧКИ"
+ },
+ {
+  "en": "DISCHARGING % / hour",
+  "ru": "РАЗРЯДКА: % В ЧАС"
+ },
+ {
+  "en": "INTERNAL TEMPERATURE",
+  "ru": "ВНУТРЕННЯЯ ТЕМПЕРАТУРА"
+ },
+ {
+  "en": "MAINTENANCE REQUIRED",
+  "ru": "ТРЕБУЕТСЯ ОБСЛУЖИВАНИЕ"
+ },
+ {
+  "en": "PRIMARY CIRCUIT PUMP",
+  "ru": "НАСОС ПИТАТЕЛЬНОЙ ВОДЫ"
+ },
+ {
+  "en": "Suction Intake Valve",
+  "ru": "Всасывающий впускной клапан"
+ },
+ {
+  "en": "ABSORPTION CAPACITY",
+  "ru": "Ионообменная ёмкость"
+ },
+ {
+  "en": "Chemical treatments",
+  "ru": "Химическая обработка"
+ },
+ {
+  "en": "Control the reactor",
+  "ru": "Управлять реактором"
+ },
+ {
+  "en": "DIVERT SURPLUS FROM",
+  "ru": "ОТВОД ИЗБЫТКА НАЧИНАЯ С:"
+ },
+ {
+  "en": "EMERGENCY BATTERIES",
+  "ru": "АККУМУЛЯТОРЫ АВАРИЙНОГО ПИТАНИЯ"
+ },
+ {
+  "en": "ENERGY DISTRIBUTION",
+  "ru": "РАСПРЕДЕЛЕНИЕ ЭНЕРГИИ"
+ },
+ {
+  "en": "Operating Assistant",
+  "ru": "Операционный помощник"
+ },
+ {
+  "en": "OPERATING ASSISTANT",
+  "ru": "Операционный помощник"
+ },
+ {
+  "en": "OPTIMAL TEMPERATURE",
+  "ru": "ОПТИМАЛЬНАЯ ТЕМПЕРАТУРА"
+ },
+ {
+  "en": "PRESSURIZER HEATERS",
+  "ru": "НАГРЕВАТЕЛИ КОМПЕНСАТОРА ДАВЛЕНИЯ",
+  "alt": [
+   "Нагреватели компенсатора давления"
+  ]
+ },
+ {
+  "en": "Retention Tank Vent",
+  "ru": "Вент. клапан накопительного бака"
+ },
+ {
+  "en": "CHEMICAL TREATMENT",
+  "ru": "Химическая обработка"
+ },
+ {
+  "en": "COOLANT FLOW SPEED",
+  "ru": "СКОРОСТЬ ПОТОКА ТЕПЛОНОСИТЕЛЯ"
+ },
+ {
+  "en": "EXTERNAL RESERVOIR",
+  "ru": "ВНЕШНИЙ РЕЗЕРВУАР",
+  "alt": [
+   "ВНЕШНИЙ РЕЗЕРВУАР ТЕПЛОНОСИТЕЛЯ",
+   "Внешний резервуар"
+  ]
+ },
+ {
+  "en": "Generating turbine",
+  "ru": "Генераторная турбина"
+ },
+ {
+  "en": "Internal reservoir",
+  "ru": "Внутренний резервуар"
+ },
+ {
+  "en": "INTERNAL RESERVOIR",
+  "ru": "ВНУТРЕННИЙ РЕЗЕРВУАР"
+ },
+ {
+  "en": "Maintenance Report",
+  "ru": "Отчёт о техобслуживании"
+ },
+ {
+  "en": "Operating Licenses",
+  "ru": "Лицензии на эксплуатацию"
+ },
+ {
+  "en": "Request Assistance",
+  "ru": "Запросить помощь"
+ },
+ {
+  "en": "Service Compliance",
+  "ru": "Соответствие регламенту"
+ },
+ {
+  "en": "Service compliance",
+  "ru": "Соответствие регламенту"
+ },
+ {
+  "en": "SERVICE COMPLIANCE",
+  "ru": "СООТВЕТСТВИЕ РЕГЛАМЕНТУ"
+ },
+ {
+  "en": "THERMAL EFFICIENCY",
+  "ru": "ТЕПЛОВОЙ КПД"
+ },
+ {
+  "en": "Turbine Generators",
+  "ru": "генераторные турбины"
+ },
+ {
+  "en": "TURBINE GENERATORS",
+  "ru": "ТУРБОГЕНЕРАТОРЫ"
+ },
+ {
+  "en": "BYPASS VALVE LINK",
+  "ru": "Связь байпасных клапанов"
+ },
+ {
+  "en": "Circulation Pumps",
+  "ru": "Циркуляционные насосы"
+ },
+ {
+  "en": "CIRCULATION PUMPS",
+  "ru": "ЦИРКУЛЯЦИОННЫЕ НАСОСЫ"
+ },
+ {
+  "en": "Circulation pumps",
+  "ru": "Циркуляционные насосы"
+ },
+ {
+  "en": "CONTROL ROD MOTOR",
+  "ru": "ГИДРАВЛИЧЕСКИЙ ДВИГАТЕЛЬ СТЕРЖНЕЙ"
+ },
+ {
+  "en": "CORE OUTER VESSEL",
+  "ru": "ВНЕШНИЙ КОРПУС АКТИВНОЙ ЗОНЫ"
+ },
+ {
+  "en": "EFFICIENCY FACTOR",
+  "ru": "КОЭФФИЦИЕНТ ЭФФЕКТИВНОСТИ"
+ },
+ {
+  "en": "GENERATING ENERGY",
+  "ru": "ВЫРАБОТКА ЭНЕРГИИ"
+ },
+ {
+  "en": "Maintenance tasks",
+  "ru": "Выберите задачи на техобслуживание"
+ },
+ {
+  "en": "MAINTENANCE TASKS",
+  "ru": "Техобслуживание | Задачи"
+ },
+ {
+  "en": "Operational Tasks",
+  "ru": "Операционные задачи"
+ },
+ {
+  "en": "OPERATIONAL TASKS",
+  "ru": "ОПЕРАЦИОННЫЕ ЗАДАЧИ"
+ },
+ {
+  "en": "RADIOACTIVE WASTE",
+  "ru": "РАДИОАКТИВНЫЕ ОТХОДЫ"
+ },
+ {
+  "en": "Secondary Circuit",
+  "ru": "ПЕТЛЯ 2 (вторичная)"
+ },
+ {
+  "en": "Start maintenance",
+  "ru": "Начать техобслуживание"
+ },
+ {
+  "en": "Steam Jet Ejector",
+  "ru": "Пароструйный эжектор"
+ },
+ {
+  "en": "the Reactor Core.",
+  "ru": "Активная зона реактора."
+ },
+ {
+  "en": "Turbine Generator",
+  "ru": "ГЕНЕРАТОРНАЯ ТУРБИНА"
+ },
+ {
+  "en": "Water Temperature",
+  "ru": "ТМП ВОДЫ"
+ },
+ {
+  "en": "BATTERY CAPACITY",
+  "ru": "ЁМКОСТЬ\\\\nАККУМУЛЯТОРОВ"
+ },
+ {
+  "en": "Circulation Pump",
+  "ru": "ЦИРКУЛЯЦИОННЫЙ НАСОС"
+ },
+ {
+  "en": "CIRCULATION PUMP",
+  "ru": "ЦИРКУЛЯЦИОННЫЙ НАСОС"
+ },
+ {
+  "en": "ENERGY GENERATED",
+  "ru": "ВЫРАБОТАННАЯ ЭНЕРГИЯ"
+ },
+ {
+  "en": "FIELD EXCITATION",
+  "ru": "ВОЗБУЖДЕНИЕ ПОЛЯ"
+ },
+ {
+  "en": "GENERATED ENERGY",
+  "ru": "ВЫРАБОТАННАЯ ЭНЕРГИЯ"
+ },
+ {
+  "en": "High temperature",
+  "ru": "Высокая температура"
+ },
+ {
+  "en": "HYDRAULIC VALVES",
+  "ru": "ГИДРАВЛИЧЕСКИЙ КЛАПАН"
+ },
+ {
+  "en": "MAXIMUM CAPACITY",
+  "ru": "Суммарная мощность трансформаторов"
+ },
+ {
+  "en": "MODERATION LEVEL",
+  "ru": "УРОВЕНЬ ЗАМЕДЛЕНИЯ"
+ },
+ {
+  "en": "Operational Mode",
+  "ru": "Рабочий режим"
+ },
+ {
+  "en": "Sodium Hydroxide",
+  "ru": "Пополнение гидроксида натрия"
+ },
+ {
+  "en": "SODIUM HYDROXIDE",
+  "ru": "БАК NaOH",
+  "alt": [
+   "Гидроксид натрия",
+   "ЗАПАС ГИДРОКСИДА НАТРИЯ",
+   "Запас гидроксида натрия"
+  ]
+ },
+ {
+  "en": "Steam Generators",
+  "ru": "Парогенераторы"
+ },
+ {
+  "en": "STEAM GENERATORS",
+  "ru": "Парогенератор"
+ },
+ {
+  "en": "ABSORBED ENERGY",
+  "ru": "ОТВОДИМАЯ ЭНЕРГИЯ"
+ },
+ {
+  "en": "Cooling Circuit",
+  "ru": "ПЕТЛЯ 3 (охлаждающая)"
+ },
+ {
+  "en": "COOLING CIRCUIT",
+  "ru": "КОНТУР ТЕПЛОНОСИТЕЛЯ"
+ },
+ {
+  "en": "Demand Exceeded",
+  "ru": "Потребление превышено"
+ },
+ {
+  "en": "Extraction Flow",
+  "ru": "Выходной поток"
+ },
+ {
+  "en": "Generated Power",
+  "ru": "Вырабатываемая энергия"
+ },
+ {
+  "en": "INTERNAL SUPPLY",
+  "ru": "ВНУТРЕННЕЕ СНАБЖЕНИЕ"
+ },
+ {
+  "en": "Internal supply",
+  "ru": "Внутреннее снабжение"
+ },
+ {
+  "en": "Iodine Activity",
+  "ru": "Активность растворённого гамма-излуч. йода"
+ },
+ {
+  "en": "OVERPRESSURIZED",
+  "ru": "ИЗБЫТОЧНОЕ ДАВЛЕНИЕ"
+ },
+ {
+  "en": "POWER DELIVERED",
+  "ru": "Поставляемая энергия"
+ },
+ {
+  "en": "POWER GENERATED",
+  "ru": "ВЫРАБАТЫВАЕМАЯ ЭНЕРГИЯ"
+ },
+ {
+  "en": "POWER REGULATOR",
+  "ru": "РЕГУЛЯТОР МОЩНОСТИ"
+ },
+ {
+  "en": "Prestige Points",
+  "ru": "Очки престижа"
+ },
+ {
+  "en": "Primary Circuit",
+  "ru": "ПЕТЛЯ 1 (первичная)"
+ },
+ {
+  "en": "Reactor Control",
+  "ru": "Управление реактором"
+ },
+ {
+  "en": "Reactor startup",
+  "ru": "Запуск реактора"
+ },
+ {
+  "en": "Steam Generator",
+  "ru": "ПАРОГЕНЕРАТОР"
+ },
+ {
+  "en": "STEAM GENERATOR",
+  "ru": "ПАРОГЕНЕРАТОР"
+ },
+ {
+  "en": "THERMAL BALANCE",
+  "ru": "Тепловой баланс"
+ },
+ {
+  "en": "URANIUM DIOXIDE",
+  "ru": "ДИОКСИД УРАНА"
+ },
+ {
+  "en": "COOLANT SYSTEM",
+  "ru": "СИСТЕМА ТЕПЛОНОСИТЕЛЯ"
+ },
+ {
+  "en": "COOLANT VOLUME",
+  "ru": "ОБЪЁМ ТЕПЛОНОСИТЕЛЯ"
+ },
+ {
+  "en": "COOLING TOWERS",
+  "ru": "ГРАДИРНИ"
+ },
+ {
+  "en": "Cooling towers",
+  "ru": "Градирни"
+ },
+ {
+  "en": "ELECTRIC POWER",
+  "ru": "ЭЛЕКТРИЧ. МОЩНОСТЬ"
+ },
+ {
+  "en": "Emergency Stop",
+  "ru": "Аварийная остановка",
+  "alt": [
+   "Запуск протокола аварийной остановки."
+  ]
+ },
+ {
+  "en": "EMERGENCY STOP",
+  "ru": "АВАРИЙНАЯ ОСТАНОВКА"
+ },
+ {
+  "en": "Emergency stop",
+  "ru": "Аварийная остановка"
+ },
+ {
+  "en": "OPERATING MODE",
+  "ru": "РЕЖИМ РАБОТЫ"
+ },
+ {
+  "en": "Operating mode",
+  "ru": "Режим работы"
+ },
+ {
+  "en": "Power capacity",
+  "ru": "Мощность"
+ },
+ {
+  "en": "POWER SELECTOR",
+  "ru": "ПЕРЕКЛЮЧАТЕЛЬ МОЩНОСТИ"
+ },
+ {
+  "en": "Resistor Banks",
+  "ru": "Контроль и обслуживание групп резисторов"
+ },
+ {
+  "en": "Retention Tank",
+  "ru": "Накопительный бак"
+ },
+ {
+  "en": "Xenon Activity",
+  "ru": "Активность ксенона (продукта деления)"
+ },
+ {
+  "en": "% FUEL / HOUR",
+  "ru": "% ТОПЛИВА В ЧАС"
+ },
+ {
+  "en": "Active alarms",
+  "ru": "Активные тревоги"
+ },
+ {
+  "en": "Active Alarms",
+  "ru": "Активные тревоги"
+ },
+ {
+  "en": "Cooling tower",
+  "ru": "Градирня"
+ },
+ {
+  "en": "CRITICAL MASS",
+  "ru": "КРИТИЧЕСКАЯ МАССА"
+ },
+ {
+  "en": "CURRENT POWER",
+  "ru": "ТЕКУЩАЯ МОЩНОСТЬ"
+ },
+ {
+  "en": "DETERIORATION",
+  "ru": "ИЗНОС"
+ },
+ {
+  "en": "Freight Pumps",
+  "ru": "Грузовые насосы"
+ },
+ {
+  "en": "Freight pumps",
+  "ru": "Грузовые насосы"
+ },
+ {
+  "en": "HEATING POWER",
+  "ru": "МОЩНОСТЬ НАГРЕВА"
+ },
+ {
+  "en": "High pressure",
+  "ru": "Высокое давление"
+ },
+ {
+  "en": "HIGH PRESSURE",
+  "ru": "ВЫСОКОЕ ДАВЛЕНИЕ"
+ },
+ {
+  "en": "LOW INTEGRITY",
+  "ru": "НИЗКАЯ ЦЕЛОСТНОСТЬ"
+ },
+ {
+  "en": "Low integrity",
+  "ru": "Низкая целостность",
+  "alt": [
+   "низкая целостность"
+  ]
+ },
+ {
+  "en": "Resistor Bank",
+  "ru": "ГРУППА РЕЗИСТОРОВ",
+  "alt": [
+   "Группа резисторов"
+  ]
+ },
+ {
+  "en": "RESISTOR BANK",
+  "ru": "ГРУППА РЕЗИСТОРОВ"
+ },
+ {
+  "en": "Shutdown Mode",
+  "ru": "Режим останова"
+ },
+ {
+  "en": "Shutting down",
+  "ru": "Останов"
+ },
+ {
+  "en": "STABILIZATION",
+  "ru": "СТАБИЛИЗАЦИЯ"
+ },
+ {
+  "en": "Status report",
+  "ru": "Отчёт о состоянии"
+ },
+ {
+  "en": "VOLTAGE LOWER",
+  "ru": "НАПРЯЖЕНИЕ ПОНИЗИТЬ"
+ },
+ {
+  "en": "VOLTAGE RAISE",
+  "ru": "НАПРЯЖЕНИЕ ПОВЫСИТЬ"
+ },
+ {
+  "en": "Wear and tear",
+  "ru": "Износ"
+ },
+ {
+  "en": "BATTERY RACK",
+  "ru": "СТЕЛЛАЖ АККУМУЛЯТОРОВ"
+ },
+ {
+  "en": "CHARGE LEVEL",
+  "ru": "УРОВЕНЬ ЗАРЯДА"
+ },
+ {
+  "en": "CONTROL RODS",
+  "ru": "РЕГУЛИРУЮЩИЕ СТЕРЖНИ",
+  "alt": [
+   "Регулирующие стержни"
+  ]
+ },
+ {
+  "en": "Control rods",
+  "ru": "Регулирующие стержни"
+ },
+ {
+  "en": "Control room",
+  "ru": "Диспетчерская"
+ },
+ {
+  "en": "CONTROL ROOM",
+  "ru": "ДИСПЕТЧЕРСКАЯ"
+ },
+ {
+  "en": "COOLANT FLOW",
+  "ru": "ПОТОК ТЕПЛОНОСИТЕЛЯ"
+ },
+ {
+  "en": "Disconnected",
+  "ru": "Нет подключения"
+ },
+ {
+  "en": "FREIGHT PUMP",
+  "ru": "ГРУЗОВОЙ НАСОС"
+ },
+ {
+  "en": "Freight Pump",
+  "ru": "ГРУЗОВОЙ НАСОС"
+ },
+ {
+  "en": "GROUND FLOOR",
+  "ru": "НУЛЕВОЙ ЭТАЖ"
+ },
+ {
+  "en": "IN-GAME HELP",
+  "ru": "Помощь:"
+ },
+ {
+  "en": "ION EXCHANGE",
+  "ru": "СКОРОСТЬ НАСОСА ФИЛЬТРА"
+ },
+ {
+  "en": "Maximum Mode",
+  "ru": "Максимальный режим"
+ },
+ {
+  "en": "Nominal Mode",
+  "ru": "Номинальный режим"
+ },
+ {
+  "en": "Open / Close",
+  "ru": "Открыть/закрыть"
+ },
+ {
+  "en": "Performance:",
+  "ru": "Производительность:"
+ },
+ {
+  "en": "REACTOR CORE",
+  "ru": "АКТИВНАЯ ЗОНА РЕАКТОРА",
+  "alt": [
+   "Активная зона",
+   "Р (Реактор)"
+  ]
+ },
+ {
+  "en": "Startup Mode",
+  "ru": "Пусковой режим"
+ },
+ {
+  "en": "SYNCHROSCOPE",
+  "ru": "СИНХРОНОСКОП",
+  "alt": [
+   "Синхроноскоп"
+  ]
+ },
+ {
+  "en": "Temperature:",
+  "ru": "Температура:"
+ },
+ {
+  "en": "Transformers",
+  "ru": "Распределение энергии"
+ },
+ {
+  "en": "TRANSFORMERS",
+  "ru": "СИЛОВОЙ ТРАНСФОРМАТОР"
+ },
+ {
+  "en": "TURBINE HALL",
+  "ru": "МАШИННЫЙ ЗАЛ"
+ },
+ {
+  "en": "TURBINE TRIP",
+  "ru": "АВАР. ОСТАНОВ ТУРБИНЫ",
+  "alt": [
+   "АВАРИЙНАЯ ОСТАНОВКА ТУРБИНЫ"
+  ]
+ },
+ {
+  "en": "VALVES PANEL",
+  "ru": "ПАНЕЛЬ КЛАПАНОВ"
+ },
+ {
+  "en": "ACHIEVEMENT",
+  "ru": "ДОСТИЖЕНИЕ"
+ },
+ {
+  "en": "CIRCULATING",
+  "ru": "ТЕЧЁТ"
+ },
+ {
+  "en": "CLOSE HATCH",
+  "ru": "ЗАКРЫТЬ ЛЮК"
+ },
+ {
+  "en": "Compliance:",
+  "ru": "Соответствие:"
+ },
+ {
+  "en": "CONSUMPTION",
+  "ru": "ПОТРЕБЛЕНИЕ"
+ },
+ {
+  "en": "CONTAINMENT",
+  "ru": "Защитные экраны"
+ },
+ {
+  "en": "CONTROL ROD",
+  "ru": "РЕГУЛИРУЮЩИЙ СТЕРЖЕНЬ"
+ },
+ {
+  "en": "CORE VESSEL",
+  "ru": "КОРПУС АКТИВНОЙ ЗОНЫ"
+ },
+ {
+  "en": "Deactivated",
+  "ru": "Выключено"
+ },
+ {
+  "en": "DOSING PUMP",
+  "ru": "НАСОС-ДОЗАТОР"
+ },
+ {
+  "en": "DRY HEATERS",
+  "ru": "СУХИЕ НАГРЕВАТЕЛИ"
+ },
+ {
+  "en": "MAINTENANCE",
+  "ru": "ТЕХОБСЛУЖИВАНИЕ",
+  "alt": [
+   "ТРЕБУЕТСЯ ТЕХОБСЛУЖИВАНИЕ"
+  ]
+ },
+ {
+  "en": "Maintenance",
+  "ru": "Техобслуживание"
+ },
+ {
+  "en": "OPERATIONAL",
+  "ru": "В РАБОТЕ"
+ },
+ {
+  "en": "PRESSURIZER",
+  "ru": "КОМПЕНСАТОР ДАВЛЕНИЯ",
+  "alt": [
+   "Компенсатор давления"
+  ]
+ },
+ {
+  "en": "Pressurizer",
+  "ru": "Компенсатор давления"
+ },
+ {
+  "en": "SPRAY VALVE",
+  "ru": "РАСПЫЛИТЕЛЬНЫЙ КЛАПАН"
+ },
+ {
+  "en": "Steam level",
+  "ru": "Уровень пара"
+ },
+ {
+  "en": "TEMPERATURE",
+  "ru": "ТЕМПЕРАТУРА"
+ },
+ {
+  "en": "Transformer",
+  "ru": "СИЛОВОЙ ТРАНСФОРМАТОР",
+  "alt": [
+   "Трансформатор"
+  ]
+ },
+ {
+  "en": "TURNING OFF",
+  "ru": "ВЫКЛЮЧЕНИЕ"
+ },
+ {
+  "en": "UNREACHABLE",
+  "ru": "НЕДОСТУПНО"
+ },
+ {
+  "en": "Vacuum pump",
+  "ru": "Вакуумный насос"
+ },
+ {
+  "en": "Absorption",
+  "ru": "Поглощение"
+ },
+ {
+  "en": "BORIC ACID",
+  "ru": "БАК БОРА",
+  "alt": [
+   "Борная кислота",
+   "ЗАПАС БОРНОЙ КИСЛОТЫ"
+  ]
+ },
+ {
+  "en": "Boric Acid",
+  "ru": "Пополнение борной кислоты"
+ },
+ {
+  "en": "Cavitation",
+  "ru": "Кавитация"
+ },
+ {
+  "en": "COMPLIANCE",
+  "ru": "СООТВЕТСТВИЕ"
+ },
+ {
+  "en": "CONNECTING",
+  "ru": "ПОДКЛЮЧЕНИЕ"
+ },
+ {
+  "en": "CORE INLET",
+  "ru": "ВХОД В АКТИВНУЮ ЗОНУ"
+ },
+ {
+  "en": "Deactivate",
+  "ru": "Деактивировать"
+ },
+ {
+  "en": "Deliveries",
+  "ru": "Логистика и поставки"
+ },
+ {
+  "en": "EFFICIENCY",
+  "ru": "ЭФФЕКТИВНОСТЬ"
+ },
+ {
+  "en": "GENERATING",
+  "ru": "ВЫРАБОТКА"
+ },
+ {
+  "en": "HEATERS ON",
+  "ru": "НАГРЕВАТЕЛИ ВКЛЮЧЕНЫ"
+ },
+ {
+  "en": "INTRODUCED",
+  "ru": "ВВЕДЕНО"
+ },
+ {
+  "en": "IODINE-135",
+  "ru": "ЙОД"
+ },
+ {
+  "en": "OPEN HATCH",
+  "ru": "ОТКРЫТЬ ЛЮК"
+ },
+ {
+  "en": "OPERATIONS",
+  "ru": "ОПЕРАЦИИ"
+ },
+ {
+  "en": "PROCESSING",
+  "ru": "ОБРАБОТКА"
+ },
+ {
+  "en": "REACTIVITY",
+  "ru": "РЕАКТИВНОСТЬ"
+ },
+ {
+  "en": "RESPONDING",
+  "ru": "РЕАГИРУЮ"
+ },
+ {
+  "en": "ROD HEIGHT",
+  "ru": "ВЫСОТА СТЕРЖНЯ"
+ },
+ {
+  "en": "Stable RPM",
+  "ru": "Стабил. об/мин"
+ },
+ {
+  "en": "TURNING ON",
+  "ru": "ВКЛЮЧЕНИЕ"
+ },
+ {
+  "en": "VALVE OPEN",
+  "ru": "КЛАПАН ОТКРЫТ"
+ },
+ {
+  "en": "VENT VALVE",
+  "ru": "ВЕНТИЛЯЦИОННЫЙ КЛАПАН"
+ },
+ {
+  "en": "Activated",
+  "ru": "Включена",
+  "alt": [
+   "Включено",
+   "Включён"
+  ]
+ },
+ {
+  "en": "ASSISTANT",
+  "ru": "ПОМОЩНИК"
+ },
+ {
+  "en": "AUTOMATIC",
+  "ru": "АВТОМАТИЧЕСКИ"
+ },
+ {
+  "en": "AVAILABLE",
+  "ru": "ДОСТУПНО",
+  "alt": [
+   "ТЕХНОЛОГИЧЕСКИЙ КРАН ДОСТУПЕН",
+   "ЭНЕРГИЯ"
+  ]
+ },
+ {
+  "en": "BATTERIES",
+  "ru": "АККУМУЛЯТОРЫ"
+ },
+ {
+  "en": "COMPLETED",
+  "ru": "ВЫПОЛНЕНО"
+ },
+ {
+  "en": "CONDENSER",
+  "ru": "КОНДЕНСАТОР",
+  "alt": [
+   "Конденсатор"
+  ]
+ },
+ {
+  "en": "Condenser",
+  "ru": "КОНДЕНСАТОР",
+  "alt": [
+   "Конденсатор"
+  ]
+ },
+ {
+  "en": "Connected",
+  "ru": "Есть подключение"
+ },
+ {
+  "en": "CONSUMING",
+  "ru": "ПОТРЕБЛЕНИЕ"
+ },
+ {
+  "en": "CONTAINER",
+  "ru": "КОНТЕЙНЕР"
+ },
+ {
+  "en": "CORE POOL",
+  "ru": "ВНЕШНЯЯ АКТИВНАЯ ЗОНА"
+ },
+ {
+  "en": "DELIVERED",
+  "ru": "ДОСТАВЛЕНО"
+ },
+ {
+  "en": "Destroyed",
+  "ru": "Уничтожено",
+  "alt": [
+   "уничтожено"
+  ]
+ },
+ {
+  "en": "DIFFICULT",
+  "ru": "ЧРЕЗВЫЧАЙНОЕ"
+ },
+ {
+  "en": "EMERGENCY",
+  "ru": "АВАРИЯ"
+ },
+ {
+  "en": "EXPLOSION",
+  "ru": "ВЗРЫВ"
+ },
+ {
+  "en": "Generated",
+  "ru": "Выработано"
+ },
+ {
+  "en": "GENERATOR",
+  "ru": "ГЕНЕРАТОР",
+  "alt": [
+   "ЭЛЕКТРОГЕНЕРАТОР"
+  ]
+ },
+ {
+  "en": "Generator",
+  "ru": "ЭЛЕКТРОГЕНЕРАТОР"
+ },
+ {
+  "en": "High wear",
+  "ru": "большой износ"
+ },
+ {
+  "en": "INITIATED",
+  "ru": "ЗАПУЩЕНО"
+ },
+ {
+  "en": "Integrity",
+  "ru": "Целостность"
+ },
+ {
+  "en": "INTEGRITY",
+  "ru": "ЦЕЛОСТНОСТЬ"
+ },
+ {
+  "en": "INVENTORY",
+  "ru": "ИНВЕНТАРЬ"
+ },
+ {
+  "en": "Moderator",
+  "ru": "Замедлитель"
+ },
+ {
+  "en": "MODERATOR",
+  "ru": "ЗАМЕДЛИТЕЛЬ"
+ },
+ {
+  "en": "NUCLEARES",
+  "ru": "NUCLEARES"
+ },
+ {
+  "en": "RADIATION",
+  "ru": "РАДИАЦИЯ",
+  "alt": [
+   "РАДИАЦИЯ ЛОКАЛИЗОВАНА"
+  ]
+ },
+ {
+  "en": "Reservoir",
+  "ru": "Резервуары"
+ },
+ {
+  "en": "ROD MOTOR",
+  "ru": "ГРУППА РЕГУЛИРУЮЩИХ СТЕРЖНЕЙ"
+ },
+ {
+  "en": "RPM LOWER",
+  "ru": "ОБ/МИН ПОНИЗИТЬ"
+ },
+ {
+  "en": "SCENARIOS",
+  "ru": "СЦЕНАРИИ"
+ },
+ {
+  "en": "SECONDARY",
+  "ru": "ВТОРИЧНОЕ"
+ },
+ {
+  "en": "SHUT DOWN",
+  "ru": "ОТКЛЮЧИТЬ"
+ },
+ {
+  "en": "Simulator",
+  "ru": "Симулятор"
+ },
+ {
+  "en": "TOP FLOOR",
+  "ru": "ВЕРХНИЙ ЭТАЖ"
+ },
+ {
+  "en": "Very high",
+  "ru": "Очень высокий",
+  "alt": [
+   "Очень высокое"
+  ]
+ },
+ {
+  "en": "XENON-135",
+  "ru": "КСЕНОН"
+ },
+ {
+  "en": "Activate",
+  "ru": "Активировать"
+ },
+ {
+  "en": "ACTIVATE",
+  "ru": "АКТИВИРОВАТЬ"
+ },
+ {
+  "en": "ACTIVITY",
+  "ru": "ДЕЙСТВИЕ"
+ },
+ {
+  "en": "Balanced",
+  "ru": "БАЛАНС",
+  "alt": [
+   "Баланс"
+  ]
+ },
+ {
+  "en": "CAPACITY",
+  "ru": "ПОГЛОЩАЮЩАЯ СПОСОБНОСТЬ"
+ },
+ {
+  "en": "CHARGING",
+  "ru": "ЗАРЯДКА"
+ },
+ {
+  "en": "CONSTANT",
+  "ru": "КРИТИЧЕСКАЯ"
+ },
+ {
+  "en": "CONSUMED",
+  "ru": "ПОТРЕБЛЕНО"
+ },
+ {
+  "en": "Continue",
+  "ru": "Продолжить"
+ },
+ {
+  "en": "CONTINUE",
+  "ru": "ПРОДОЛЖИТЬ"
+ },
+ {
+  "en": "Controls",
+  "ru": "Управление"
+ },
+ {
+  "en": "Critical",
+  "ru": "критическая"
+ },
+ {
+  "en": "DETECTED",
+  "ru": "ОБНАРУЖЕНО"
+ },
+ {
+  "en": "INTERNAL",
+  "ru": "ВНУТРЕННЕЕ"
+ },
+ {
+  "en": "NEW GAME",
+  "ru": "НОВАЯ ИГРА",
+  "alt": [
+   "НОВОЕ"
+  ]
+ },
+ {
+  "en": "No Power",
+  "ru": "Кран обесточен или выключен."
+ },
+ {
+  "en": "OPERATOR",
+  "ru": "ОПЕРАТОР"
+ },
+ {
+  "en": "OVERLOAD",
+  "ru": "ПЕРЕГРУЗКА"
+ },
+ {
+  "en": "POSITION",
+  "ru": "ПОЗИЦИЯ"
+ },
+ {
+  "en": "PRESSURE",
+  "ru": "ДАВЛЕНИЕ"
+ },
+ {
+  "en": "PROGRESS",
+  "ru": "ПРОГРЕСС"
+ },
+ {
+  "en": "REACTIVE",
+  "ru": "РЕАКТИВНОСТЬ"
+ },
+ {
+  "en": "REQUIRED",
+  "ru": "ТРЕБУЕТСЯ"
+ },
+ {
+  "en": "Resistor",
+  "ru": "Резистор"
+ },
+ {
+  "en": "SHUTDOWN",
+  "ru": "Останов"
+ },
+ {
+  "en": "STARTING",
+  "ru": "ЗАПУСК"
+ },
+ {
+  "en": "Starting",
+  "ru": "Запуск"
+ },
+ {
+  "en": "STRENGTH",
+  "ru": "ПРОЧНОСТЬ"
+ },
+ {
+  "en": "TOO FAST",
+  "ru": "СЛИШКОМ БЫСТРО"
+ },
+ {
+  "en": "TOO SLOW",
+  "ru": "СЛИШКОМ МЕДЛЕННО"
+ },
+ {
+  "en": "TRAINING",
+  "ru": "ОБУЧЕНИЕ"
+ },
+ {
+  "en": "Turbines",
+  "ru": "Генераторные турбины",
+  "alt": [
+   "Турбины"
+  ]
+ },
+ {
+  "en": "Very low",
+  "ru": "Очень низкое"
+ },
+ {
+  "en": "WATER IN",
+  "ru": "Возвратный поток"
+ },
+ {
+  "en": "ACTIONS",
+  "ru": "ДЕЙСТВИЯ"
+ },
+ {
+  "en": "ALL SET",
+  "ru": "ВСЁ ГОТОВО"
+ },
+ {
+  "en": "ANALYZE",
+  "ru": "АНАЛИЗ"
+ },
+ {
+  "en": "balance",
+  "ru": "Баланс"
+ },
+ {
+  "en": "BATTERY",
+  "ru": "АККУМУЛЯТОР"
+ },
+ {
+  "en": "Buildup",
+  "ru": "Концентрация"
+ },
+ {
+  "en": "CLOSING",
+  "ru": "ЗАКРЫТИЕ"
+ },
+ {
+  "en": "CONFIRM",
+  "ru": "ПОДТВЕРДИТЬ"
+ },
+ {
+  "en": "CONNECT",
+  "ru": "ПОДКЛЮЧЕНИЕ",
+  "alt": [
+   "ПОДКЛЮЧИТЬ",
+   "ПОДКЛЮЧИТЬСЯ"
+  ]
+ },
+ {
+  "en": "CONTROL",
+  "ru": "КОНТРОЛЬ"
+ },
+ {
+  "en": "Coolant",
+  "ru": "Теплоноситель"
+ },
+ {
+  "en": "COOLANT",
+  "ru": "Первичный теплоноситель",
+  "alt": [
+   "ТЕПЛОНОСИТЕЛЬ"
+  ]
+ },
+ {
+  "en": "COOLING",
+  "ru": "ОХЛАЖДЕНИЕ"
+ },
+ {
+  "en": "CURRENT",
+  "ru": "СЕЙЧАС",
+  "alt": [
+   "ТЕКУЩЕЕ"
+  ]
+ },
+ {
+  "en": "Current",
+  "ru": "Сейчас"
+ },
+ {
+  "en": "Demand:",
+  "ru": "Потребление:"
+ },
+ {
+  "en": "DEMAND:",
+  "ru": "ПОТРЕБЛЕНИЕ:"
+ },
+ {
+  "en": "DISCARD",
+  "ru": "УТИЛИЗАЦИЯ",
+  "alt": [
+   "УТИЛИЗИРОВАТЬ"
+  ]
+ },
+ {
+  "en": "Discard",
+  "ru": "Утилизировать"
+ },
+ {
+  "en": "DISPOSE",
+  "ru": "УТИЛИЗАЦИЯ"
+ },
+ {
+  "en": "FISSION",
+  "ru": "ДЕЛЕНИЕ ЯДЕР"
+ },
+ {
+  "en": "HEATERS",
+  "ru": "НАГРЕВАТЕЛИ"
+ },
+ {
+  "en": "Highest",
+  "ru": "Максимальное качество"
+ },
+ {
+  "en": "LOADING",
+  "ru": "ЗАГРУЗКА",
+  "alt": [
+   "ПОДОЖДИТЕ"
+  ]
+ },
+ {
+  "en": "MAXIMUM",
+  "ru": "МАКСИМУМ",
+  "alt": [
+   "Максимальный"
+  ]
+ },
+ {
+  "en": "Maximum",
+  "ru": "Максимум"
+ },
+ {
+  "en": "MEASURE",
+  "ru": "ИЗМЕРЕНИЕ"
+ },
+ {
+  "en": "Minimum",
+  "ru": "Минимум"
+ },
+ {
+  "en": "MINUTES",
+  "ru": "МИН."
+ },
+ {
+  "en": "MONITOR",
+  "ru": "ОТСЛЕЖИВАТЬ"
+ },
+ {
+  "en": "NOMINAL",
+  "ru": "Номинальный"
+ },
+ {
+  "en": "OFFLINE",
+  "ru": "НЕ РАБОТАЕТ"
+ },
+ {
+  "en": "OPENING",
+  "ru": "ОТКРЫТИЕ"
+ },
+ {
+  "en": "OPTIONS",
+  "ru": "НАСТРОЙКИ"
+ },
+ {
+  "en": "ORDERED",
+  "ru": "ЗАДАНО"
+ },
+ {
+  "en": "OVERALL",
+  "ru": "ОБЩЕЕ"
+ },
+ {
+  "en": "PENALTY",
+  "ru": "ШТРАФ"
+ },
+ {
+  "en": "REACHED",
+  "ru": "ДОСТИГНУТО"
+ },
+ {
+  "en": "Reactor",
+  "ru": "Reactor",
+  "alt": [
+   "Реактор"
+  ]
+ },
+ {
+  "en": "RELEASE",
+  "ru": "ВЫБРОС"
+ },
+ {
+  "en": "REQUEST",
+  "ru": "ЗАПРОС"
+ },
+ {
+  "en": "RESTORE",
+  "ru": "ВОССТАНОВИТЬ"
+ },
+ {
+  "en": "TURBINE",
+  "ru": "ГЕНЕРАТОРНАЯ ТУРБИНА",
+  "alt": [
+   "ТУРБИНА"
+  ]
+ },
+ {
+  "en": "TURN ON",
+  "ru": "ВКЛЮЧЕНИЕ",
+  "alt": [
+   "ВКЛЮЧИТЬ"
+  ]
+ },
+ {
+  "en": "UPGRADE",
+  "ru": "УЛУЧШЕНИЕ"
+ },
+ {
+  "en": "URANIUM",
+  "ru": "УРАН"
+ },
+ {
+  "en": "VOLTAGE",
+  "ru": "НАПРЯЖЕНИЕ"
+ },
+ {
+  "en": "WARNING",
+  "ru": "ВНИМАНИЕ"
+ },
+ {
+  "en": "Accept",
+  "ru": "Принять"
+ },
+ {
+  "en": "ACCEPT",
+  "ru": "ПРИНЯТЬ"
+ },
+ {
+  "en": "ACTIVE",
+  "ru": "АКТИВНО"
+ },
+ {
+  "en": "Adjust",
+  "ru": "Отрегулировать"
+ },
+ {
+  "en": "ALARMS",
+  "ru": "ТРЕВОГИ"
+ },
+ {
+  "en": "Alarms",
+  "ru": "Тревоги"
+ },
+ {
+  "en": "AMOUNT",
+  "ru": "СУММА"
+ },
+ {
+  "en": "BUTTON",
+  "ru": "КНОПКА"
+ },
+ {
+  "en": "BYPASS",
+  "ru": "БАЙПАС"
+ },
+ {
+  "en": "CHARGE",
+  "ru": "ЗАРЯД"
+ },
+ {
+  "en": "CREATE",
+  "ru": "СОЗДАТЬ"
+ },
+ {
+  "en": "DANGER",
+  "ru": "ОПАСНОСТЬ"
+ },
+ {
+  "en": "DEVICE",
+  "ru": "УСТРОЙСТВО"
+ },
+ {
+  "en": "ENABLE",
+  "ru": "ВКЛЮЧИТЬ"
+ },
+ {
+  "en": "ENERGY",
+  "ru": "ЭНЕРГИЯ"
+ },
+ {
+  "en": "Energy",
+  "ru": "Энергия"
+ },
+ {
+  "en": "ENGINE",
+  "ru": "ДВИГАТЕЛЬ"
+ },
+ {
+  "en": "ESCAPE",
+  "ru": "аварийный выход"
+ },
+ {
+  "en": "EXCESS",
+  "ru": "ИЗБЫТОЧНЫЙ — 3"
+ },
+ {
+  "en": "FACTOR",
+  "ru": "КОЭФФИЦИЕНТ"
+ },
+ {
+  "en": "FAILED",
+  "ru": "ПРОВАЛЕНО"
+ },
+ {
+  "en": "FILTER",
+  "ru": "ФИЛЬТР"
+ },
+ {
+  "en": "Hazard",
+  "ru": "угроза"
+ },
+ {
+  "en": "LIGHTS",
+  "ru": "ОСВЕЩЕНИЕ"
+ },
+ {
+  "en": "LOADED",
+  "ru": "ЗАГРУЖЕНО"
+ },
+ {
+  "en": "LOCKED",
+  "ru": "ЗАБЛОКИРОВАНО"
+ },
+ {
+  "en": "LOOP 1",
+  "ru": "ПЕТЛЯ 1"
+ },
+ {
+  "en": "LOOP 2",
+  "ru": "ПЕТЛЯ 2"
+ },
+ {
+  "en": "LOOP 3",
+  "ru": "ПЕТЛЯ 3"
+ },
+ {
+  "en": "MANUAL",
+  "ru": "ВРУЧНУЮ"
+ },
+ {
+  "en": "Medium",
+  "ru": "Среднее",
+  "alt": [
+   "Средний"
+  ]
+ },
+ {
+  "en": "MEDIUM",
+  "ru": "СРЕДНЕ",
+  "alt": [
+   "СРЕДНЯЯ"
+  ]
+ },
+ {
+  "en": "MINUTE",
+  "ru": "МИН."
+ },
+ {
+  "en": "MOVING",
+  "ru": "ПЕРЕМЕЩЕНИЕ"
+ },
+ {
+  "en": "NORMAL",
+  "ru": "ЗНАТОК",
+  "alt": [
+   "НОРМА",
+   "НОРМАЛЬНАЯ",
+   "НОРМАЛЬНЫЙ — 2",
+   "ОБЫЧНОЕ"
+  ]
+ },
+ {
+  "en": "Normal",
+  "ru": "средняя"
+ },
+ {
+  "en": "ONLINE",
+  "ru": "КОМЦ"
+ },
+ {
+  "en": "Others",
+  "ru": "Прочее"
+ },
+ {
+  "en": "OUTLET",
+  "ru": "ВЫХОД"
+ },
+ {
+  "en": "PLAYER",
+  "ru": "ИГРОК"
+ },
+ {
+  "en": "REDUCE",
+  "ru": "СНИЖЕНИЕ"
+ },
+ {
+  "en": "REMOVE",
+  "ru": "ИЗВЛЕЧЬ",
+  "alt": [
+   "УДАЛИТЬ"
+  ]
+ },
+ {
+  "en": "REPAIR",
+  "ru": "РЕМОНТ"
+ },
+ {
+  "en": "SAFETY",
+  "ru": "БЕЗОПАСНОСТЬ"
+ },
+ {
+  "en": "SELECT",
+  "ru": "ВЫБРАТЬ"
+ },
+ {
+  "en": "SENSOR",
+  "ru": "ДАТЧИК"
+ },
+ {
+  "en": "Speed:",
+  "ru": "Скорость:"
+ },
+ {
+  "en": "Status",
+  "ru": "Состояние"
+ },
+ {
+  "en": "STATUS",
+  "ru": "СОСТОЯНИЕ"
+ },
+ {
+  "en": "Stored",
+  "ru": "Stored"
+ },
+ {
+  "en": "STRONG",
+  "ru": "СИЛЬНО"
+ },
+ {
+  "en": "SWITCH",
+  "ru": "ПЕРЕКЛЮЧАТЕЛЬ"
+ },
+ {
+  "en": "TORQUE",
+  "ru": "КРУТЯЩИЙ МОМЕНТ"
+ },
+ {
+  "en": "UNLOAD",
+  "ru": "ВЫГРУЗИТЬ"
+ },
+ {
+  "en": "VACUUM",
+  "ru": "ВАКУУМ"
+ },
+ {
+  "en": "VESSEL",
+  "ru": "КОРПУС"
+ },
+ {
+  "en": "VOLUME",
+  "ru": "ГРОМКОСТЬ"
+ },
+ {
+  "en": "ALARM",
+  "ru": "ТРЕВОГА"
+ },
+ {
+  "en": "Basic",
+  "ru": "ВЫСОКАЯ ПРОИЗВОДИТЕЛЬНОСТЬ",
+  "alt": [
+   "Низкое качество"
+  ]
+ },
+ {
+  "en": "BONUS",
+  "ru": "БОНУС"
+ },
+ {
+  "en": "BORON",
+  "ru": "БОР"
+ },
+ {
+  "en": "Clamp",
+  "ru": "Захват"
+ },
+ {
+  "en": "Close",
+  "ru": "Закрыть"
+ },
+ {
+  "en": "CLOSE",
+  "ru": "ЗАКРЫТО",
+  "alt": [
+   "ЗАМКНУТЬ"
+  ]
+ },
+ {
+  "en": "Crane",
+  "ru": "Кран"
+ },
+ {
+  "en": "EMPTY",
+  "ru": "ПУСТО"
+ },
+ {
+  "en": "Empty",
+  "ru": "Пусто"
+ },
+ {
+  "en": "Fails",
+  "ru": "несоответствия"
+ },
+ {
+  "en": "FIXED",
+  "ru": "ПОСТОЯННОЕ"
+ },
+ {
+  "en": "Force",
+  "ru": "Сила"
+ },
+ {
+  "en": "HATCH",
+  "ru": "ЛЮК"
+ },
+ {
+  "en": "HOURS",
+  "ru": "Ч."
+ },
+ {
+  "en": "INLET",
+  "ru": "ВХОД"
+ },
+ {
+  "en": "LEVEL",
+  "ru": "УРОВЕНЬ"
+ },
+ {
+  "en": "LEVER",
+  "ru": "РЫЧАГ"
+ },
+ {
+  "en": "LOANS",
+  "ru": "КРЕДИТЫ"
+ },
+ {
+  "en": "POWER",
+  "ru": "МОЩНОСТЬ",
+  "alt": [
+   "ЭНЕРГИЯ"
+  ]
+ },
+ {
+  "en": "Pumps",
+  "ru": "Насосы"
+ },
+ {
+  "en": "RANGE",
+  "ru": "ДИАПАЗОН"
+ },
+ {
+  "en": "SCRAM",
+  "ru": "АВАРИЙНАЯ ЗАЩИТА",
+  "alt": [
+   "АВАРИЙНАЯ ЗАЩИТА РЕГУЛИРУЮЩИХ СТЕРЖНЕЙ"
+  ]
+ },
+ {
+  "en": "SETUP",
+  "ru": "УСТАНОВКА"
+ },
+ {
+  "en": "SPEED",
+  "ru": "СКОРОСТЬ"
+ },
+ {
+  "en": "START",
+  "ru": "СТАРТ"
+ },
+ {
+  "en": "STEAM",
+  "ru": "ПАР"
+ },
+ {
+  "en": "Stuck",
+  "ru": "Заклинило"
+ },
+ {
+  "en": "Taken",
+  "ru": "Занято"
+ },
+ {
+  "en": "TOWER",
+  "ru": "ГРАДИРНЯ"
+ },
+ {
+  "en": "TRAIN",
+  "ru": "ПОЕЗД"
+ },
+ {
+  "en": "VALVE",
+  "ru": "КЛАПАН"
+ },
+ {
+  "en": "WASTE",
+  "ru": "ОТХОДЫ"
+ },
+ {
+  "en": "Xenon",
+  "ru": "Ксенон"
+ }
+]

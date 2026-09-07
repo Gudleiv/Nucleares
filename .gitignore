@@ -1,0 +1,5 @@
+# derived from the source PDF by tools/extract.py and tools/flatten.py
+work/model.json
+work/flow.json
+work/flow.ru.json
+work/*.pdf

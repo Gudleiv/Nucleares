@@ -1,0 +1,614 @@
+[
+ {
+  "id": 1841,
+  "type": "heading",
+  "section": "CONTROL PANEL: REACTOR FUEL | SWITCHES",
+  "s": "{0|CONTROL PANEL: REACTOR FUEL | SWITCHES}"
+ },
+ {
+  "id": 1845,
+  "type": "body",
+  "section": "CONTROL PANEL: REACTOR FUEL | SWITCHES",
+  "s": "{0|Each switch and its corresponding indicator on the panel are designed to provide detailed and safe control over the operations within the reactor, ensuring that fuel handling and reactor components are managed in accordance with established safety protocols.}"
+ },
+ {
+  "id": 1847,
+  "type": "heading",
+  "section": "CONTROL PANEL: REACTOR FUEL | SWITCHES",
+  "s": "{0|Panel Switches and Indicators}"
+ },
+ {
+  "id": 1849,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL | SWITCHES",
+  "s": "{0|Unload Fuel / Isolate Bay:}{1|This switch moves the fuel block from the Decomposition Zone (lower section) to the Safe Zone (upper section) within the selected bay. It effectively isolates the fuel block from the energy-generating process, ensuring that it is safely stored for future use or maintenance. The Isolate Bay action also temporarily disables the bay for fuel handling.}"
+ },
+ {
+  "id": 1851,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL | SWITCHES",
+  "s": "{0|Load Fuel / Unisolate Bay:}{1|This switch moves the fuel block from the Safe Zone (upper section) to the Decomposition Zone (lower section) within the selected bay. It allows the fuel block to be activated and used for energy generation. The Unisolate Bay action re-enables the bay for normal operation, making it part of the reactor's energy production cycle.}"
+ },
+ {
+  "id": 1853,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL | SWITCHES",
+  "s": "{0|Open Hatch:}{1|This switch opens the hatch of the selected fuel bay.}"
+ },
+ {
+  "id": 1855,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL | SWITCHES",
+  "s": "{0|Close Hatch:}{1|This switch closes the hatch of the selected fuel bay.}"
+ },
+ {
+  "id": 1857,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL | SWITCHES",
+  "s": "{0|Display Danger:}{1|This indicator lights up when an attempt is made to perform an action that violates safety protocols, such as opening the hatch when it is not in the Secure state or moving fuel blocks without proper safeguards. This warning alerts the operator to a potential safety hazard and signals that corrective action must be taken to proceed safely.}"
+ },
+ {
+  "id": 1859,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL | SWITCHES",
+  "s": "{0|Display Safe to Open:}{1|This indicator lights up when the external coolant level is below the safety threshold for the hatches. In this condition, it is considered safe to open the hatch, as the sealed compartments are protected from coolant contamination. This indicator ensures that the operator only opens the hatch when the system is in a safe state to do so.}"
+ },
+ {
+  "id": 1861,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL | SWITCHES",
+  "s": "{0|Switch Apply to All:}{1|This switch allows the operator to apply the selected action (e.g., open hatch, move fuel) to all bays, not just the selected one. This feature enables the operator to quickly perform the same action across multiple bays simultaneously.}"
+ },
+ {
+  "id": 1863,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL | SWITCHES",
+  "s": "{0|Core Loading Bay numeric keypad:}{1|This numeric keypad allows the operator to select a specific fuel bay, which will then receive the actions indicated by the other switches. By entering the corresponding number, the operator determines which bay will be affected by commands such as opening or closing the hatch, loading or unloading fuel.}"
+ },
+ {
+  "id": 1866,
+  "type": "heading",
+  "section": "CONTROL PANEL: VALVES",
+  "s": "{0|CONTROL PANEL: VALVES}"
+ },
+ {
+  "id": 1867,
+  "type": "body",
+  "section": "CONTROL PANEL: VALVES",
+  "s": "{0|The Control Room Valve Panel serves as a comprehensive interface within the control room, providing operators with a visual representation of the reactor's valve system.}"
+ },
+ {
+  "id": 1870,
+  "type": "body",
+  "section": "CONTROL PANEL: VALVES",
+  "s": "{0|This panel includes a graphical display illustrating all the connections within the reactor, the location of each valve, and their current status—indicated by color-coded markers.}"
+ },
+ {
+  "id": 1871,
+  "type": "heading",
+  "section": "CONTROL PANEL: VALVES",
+  "s": "{0|Valve Action Selectors}"
+ },
+ {
+  "id": 1872,
+  "type": "body",
+  "section": "CONTROL PANEL: VALVES",
+  "s": "{0|The Valve Action Selectors play a crucial role in the control and operation of individual valves within the reactor system. Each valve is equipped with a selector that allows operators to choose between three actions: Open, Close, or Off.}"
+ },
+ {
+  "id": 1875,
+  "type": "body",
+  "section": "CONTROL PANEL: VALVES",
+  "s": "{0|Understanding the functions and importance of these selectors is essential for maintaining the integrity and safety of the hydraulic motors associated with the valves.}"
+ },
+ {
+  "id": 1876,
+  "type": "bullet",
+  "section": "CONTROL PANEL: VALVES",
+  "s": "{0|Selecting the}{1|Open}{2|position activates the hydraulic motor linked to the valve. The hydraulic motor engages, initiating the process of opening the valve to allow the flow of coolant, steam, or other substances. This action is used when controlled opening of the valve is required for normal system operation.}"
+ },
+ {
+  "id": 1878,
+  "type": "bullet",
+  "section": "CONTROL PANEL: VALVES",
+  "s": "{0|Choosing the}{1|Close}{2|position triggers the hydraulic motor associated with the valve. The hydraulic motor functions to close the valve, restricting the flow of coolant, steam, or other substances. This action is employed to cease flow through the valve, maintaining desired operational conditions within the reactor.}"
+ },
+ {
+  "id": 1880,
+  "type": "bullet",
+  "section": "CONTROL PANEL: VALVES",
+  "s": "{0|Opting for the}{1|Off}{2|position deactivates the hydraulic motor associated with the valve. The hydraulic motor stops, halting any ongoing opening or closing activity of the valve. This position is crucial for preventing continuous strain on the hydraulic motor, preserving its integrity during periods of inactivity.}"
+ },
+ {
+  "id": 1881,
+  "type": "heading",
+  "section": "CONTROL PANEL: VALVES",
+  "s": "{0|Importance of Maintaining the Selector in Off}"
+ },
+ {
+  "id": 1882,
+  "type": "body",
+  "section": "CONTROL PANEL: VALVES",
+  "s": "{0|Keeping the selector in the Off position is essential to protect the hydraulic motor from unnecessary wear and tear. Continuous activation of the motor, particularly when not required, can lead to premature failure.}"
+ },
+ {
+  "id": 1883,
+  "type": "bullet",
+  "section": "CONTROL PANEL: VALVES",
+  "s": "{0|Hydraulic motors require energy to operate. By keeping the selector in Off, operators conserve energy and contribute to the overall efficiency of the reactor system.}"
+ },
+ {
+  "id": 1885,
+  "type": "bullet",
+  "section": "CONTROL PANEL: VALVES",
+  "s": "{0|Activating the hydraulic motor on a valve that is}{1|stuck or damaged}{2|poses a significant risk. Forcing the motor under such conditions can exacerbate the issue, potentially causing further damage to the valve or the motor itself.}"
+ },
+ {
+  "id": 1886,
+  "type": "body",
+  "section": "CONTROL PANEL: VALVES",
+  "s": "{0|Forcing a hydraulic motor on a malfunctioning valve without proper assessment can lead to safety hazards and compromise the integrity of the entire system.}"
+ },
+ {
+  "id": 1887,
+  "type": "heading",
+  "section": "CONTROL PANEL: VALVES",
+  "s": "{0|Manual Override}"
+ },
+ {
+  "id": 1888,
+  "type": "body",
+  "section": "CONTROL PANEL: VALVES",
+  "s": "{0|In the event of a power failure or if the hydraulic motor is unable to operate, the operator may need to manually override the system. This involves going to the physical location of the valve, activating the bypass to disconnect the motor, and manually adjusting the valve (if it is not stuck or damaged).}"
+ },
+ {
+  "id": 1890,
+  "type": "heading",
+  "section": "REACTOR OPERATION MODES",
+  "s": "{0|REACTOR OPERATION MODES}"
+ },
+ {
+  "id": 1891,
+  "type": "body",
+  "section": "REACTOR OPERATION MODES",
+  "s": "{0|The mode selector facilitates the determination of the reactor's operational state, offering three distinct modes: Shutdown, Nominal Operation, and Maximum Operation. Each mode configures the system's actions, including those of the Automation Operator (AO), alarm settings, event processes, and statistical tracking.}"
+ },
+ {
+  "id": 1894,
+  "type": "bullet",
+  "section": "REACTOR OPERATION MODES",
+  "s": "{0|Shutdown Mode:}{1|When transitioning to Shutdown Mode, ongoing operational tasks executed by AO, such as monitoring the Pressurizer or Control Rods, are promptly halted.}"
+ },
+ {
+  "id": 1896,
+  "type": "body",
+  "section": "REACTOR OPERATION MODES",
+  "s": "{0|Low productivity alarms deactivate, preventing the initiation of new events. It's crucial to note that the mandatory daily service level persists. If the plant remains idle for over two consecutive days, there's a risk of the operating license being revoked. To avoid this, it is necessary to notify the city in advance that a stop will be made.}"
+ },
+ {
+  "id": 1898,
+  "type": "body",
+  "section": "REACTOR OPERATION MODES",
+  "s": "{0|Removal of fuel from the core is only permitted in Shutdown Mode.}"
+ },
+ {
+  "id": 1899,
+  "type": "bullet",
+  "section": "REACTOR OPERATION MODES",
+  "s": "{0|Nominal Mode:}{1|Nominal Mode represents the standard operational state, defining alarm thresholds, expected operational ranges, AO activities, statistical data, and event handling.}"
+ },
+ {
+  "id": 1901,
+  "type": "body",
+  "section": "REACTOR OPERATION MODES",
+  "s": "{0|If AO is managing control rods, it ensures the reactor stays within designated operating ranges.}"
+ },
+ {
+  "id": 1903,
+  "type": "body",
+  "section": "REACTOR OPERATION MODES",
+  "s": "{0|Nominal Mode also serves as the startup mode for the reactor.}"
+ },
+ {
+  "id": 1905,
+  "type": "bullet",
+  "section": "REACTOR OPERATION MODES",
+  "s": "{0|Maximum Mode:}{1|The alarm threshold undergoes modification between Nominal and Maximum levels, with the latter allowing for a greater tolerance outside operational limits.}"
+ },
+ {
+  "id": 1907,
+  "type": "body",
+  "section": "REACTOR OPERATION MODES",
+  "s": "{0|If AO is controlling control rods, the reactor is maintained slightly outside operating ranges, and an emergency shutdown is not initiated until critical values are reached in the general situation.}"
+ },
+ {
+  "id": 1909,
+  "type": "body",
+  "section": "REACTOR OPERATION MODES",
+  "s": "{0|Initiating the reactor in Maximum Mode is prohibited.}"
+ },
+ {
+  "id": 1911,
+  "type": "heading",
+  "section": "AUDIT AND COMPLIANCE PROCEDURE",
+  "s": "{0|AUDIT AND COMPLIANCE PROCEDURE}"
+ },
+ {
+  "id": 1912,
+  "type": "body",
+  "section": "AUDIT AND COMPLIANCE PROCEDURE",
+  "s": "{0|When the Audit Control System of the National Atomic Energy Commission is activated for a visit to the nuclear reactor plant, meticulous checks are conducted to ensure adherence to operational and safety standards.}"
+ },
+ {
+  "id": 1914,
+  "type": "body",
+  "section": "AUDIT AND COMPLIANCE PROCEDURE",
+  "s": "{0|Here's a detailed breakdown of the audit procedure:}"
+ },
+ {
+  "id": 1915,
+  "type": "bullet",
+  "section": "AUDIT AND COMPLIANCE PROCEDURE",
+  "s": "{0|Verification of Operational Range:}{1|If the reactor is active, must operate within}"
+ },
+ {
+  "id": 1916,
+  "type": "body",
+  "section": "AUDIT AND COMPLIANCE PROCEDURE",
+  "s": "{0|the specified range outlined in its active mode.}"
+ },
+ {
+  "id": 1918,
+  "type": "bullet",
+  "section": "AUDIT AND COMPLIANCE PROCEDURE",
+  "s": "{0|Backup Fuel Availability:}{1|Adequate backup fuels must be readily available for use in case of any unforeseen circumstances.}"
+ },
+ {
+  "id": 1920,
+  "type": "bullet",
+  "section": "AUDIT AND COMPLIANCE PROCEDURE",
+  "s": "{0|Contamination and Safety Suit Checks:}{1|No areas within the plant should exhibit contamination, and safety suits should be free from damage or compromise.}"
+ },
+ {
+  "id": 1922,
+  "type": "bullet",
+  "section": "AUDIT AND COMPLIANCE PROCEDURE",
+  "s": "{0|Component Integrity Assessment:}{1|Components' integrity is rigorously evaluated, and any level below 90% is considered non-compliant. Below 50% is deemed critical non-compliance.}"
+ },
+ {
+  "id": 1924,
+  "type": "bullet",
+  "section": "AUDIT AND COMPLIANCE PROCEDURE",
+  "s": "{0|Component Wear Analysis:}{1|Wear and tear of components are scrutinized, with wear below 50% deemed acceptable. Exceeding 90% is considered a critical non-compliance.}"
+ },
+ {
+  "id": 1926,
+  "type": "bullet",
+  "section": "AUDIT AND COMPLIANCE PROCEDURE",
+  "s": "{0|Identification of Destroyed Components:}{1|No components within the reactor system should be in a destroyed state.}"
+ },
+ {
+  "id": 1927,
+  "type": "body",
+  "section": "AUDIT AND COMPLIANCE PROCEDURE",
+  "s": "{0|This process is integral to maintaining the plant's integrity and ensuring the highest level of compliance.}"
+ },
+ {
+  "id": 1929,
+  "type": "heading",
+  "section": "Non-Compliance Consequences",
+  "s": "{0|Non-Compliance Consequences}"
+ },
+ {
+  "id": 1930,
+  "type": "body",
+  "section": "Non-Compliance Consequences",
+  "s": "{0|A \"Non-Compliance Consequence\" refers to the repercussions or penalties that arise when the nuclear reactor plant fails to meet specified standards, regulations, or safety protocols during an audit or inspection. These consequences are applied based on the severity and nature of the identified non-compliance.}"
+ },
+ {
+  "id": 1931,
+  "type": "bullet",
+  "section": "Non-Compliance Consequences",
+  "s": "{0|Important Non-Compliances:}{1|These are deviations from operational or safety standards that are significant but not critical. Examples include components not meeting integrity criteria. The consequence involves the deduction of Prestige Points, impacting the overall performance rating of the plant. The deduction severity depends on the type of component found in violation.}"
+ },
+ {
+  "id": 1933,
+  "type": "bullet",
+  "section": "Non-Compliance Consequences",
+  "s": "{0|Critical Non-Compliances:}{1|Critical non-compliances are more severe deviations that pose a significant risk to operational safety. Examples include components with extremely low integrity or high wear. The consequence for each critical non-compliance is the forfeiture of half of the operating license. This is a substantial penalty, emphasizing the gravity of the violation.}"
+ },
+ {
+  "id": 1934,
+  "type": "body",
+  "section": "Non-Compliance Consequences",
+  "s": "{0|In summary, Non-Compliance Consequences serve as a mechanism to enforce adherence to established standards and regulations within the nuclear reactor plant. They act as a deterrent to ensure that operators maintain the highest levels of safety, operational integrity, and overall compliance. The severity of the consequences reflects the importance of maintaining a secure and efficient nuclear facility.}"
+ },
+ {
+  "id": 1935,
+  "type": "heading",
+  "section": "Non-Compliance Consequences",
+  "s": "{0|Rewards for Compliance}"
+ },
+ {
+  "id": 1936,
+  "type": "body",
+  "section": "Non-Compliance Consequences",
+  "s": "{0|Refer to the positive outcomes or incentives provided to the operator of the nuclear reactor plant when the facility successfully adheres to operational, safety, and regulatory standards during an audit or inspection. These rewards are designed to encourage and acknowledge the plant's commitment to maintaining high levels of safety, integrity, and overall compliance.}"
+ },
+ {
+  "id": 1937,
+  "type": "bullet",
+  "section": "Non-Compliance Consequences",
+  "s": "{0|No Major Breaches:}{1|If the audit reveals that the plant has not committed any significant breaches of operational or safety standards, the operator is rewarded with bonus Prestige Points. Prestige Points are a form of recognition and performance measurement that contribute to the overall reputation and standing of the nuclear reactor plant.}"
+ },
+ {
+  "id": 1939,
+  "type": "bullet",
+  "section": "Non-Compliance Consequences",
+  "s": "{0|Special Prizes:}{1|In addition to Prestige Points, the operator may receive special prizes as a tangible reward for achieving and maintaining compliance. These prizes can be stored in the plant's display cabinets or exchanged for additional Prestige Points. The value of these prizes increases for each day that passes after the audit, providing an incentive for sustained excellence and ongoing commitment to compliance.}"
+ },
+ {
+  "id": 1940,
+  "type": "body",
+  "section": "Non-Compliance Consequences",
+  "s": "{0|This comprehensive audit and compliance procedure not only ensures the plant's continued safe operation but also incentivizes operators to uphold the highest standards, fostering a culture of excellence and responsibility within the nuclear reactor facility.}"
+ },
+ {
+  "id": 1941,
+  "type": "body",
+  "section": "Non-Compliance Consequences",
+  "s": "{0|In essence, \"Rewards for Compliance\" serve as a positive reinforcement mechanism, fostering a culture of responsibility and excellence within the nuclear reactor facility. By recognizing and incentivizing compliance, operators are motivated to continuously uphold the highest standards, ensuring the safe and efficient operation of the plant.}"
+ },
+ {
+  "id": 1943,
+  "type": "heading",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|MAINTENANCE AND REPAIRS}"
+ },
+ {
+  "id": 1944,
+  "type": "body",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|To assess the overall condition of the plant, respond to maintenance prompts from the Operational Assistant (OA), or address indications of damaged components in the control room, follow these procedures:}"
+ },
+ {
+  "id": 1946,
+  "type": "bullet",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|Request a Preventive Maintenance Report:}"
+ },
+ {
+  "id": 1948,
+  "type": "body",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|Direct OA to generate a preventive maintenance report. OA will navigate through the plant, conducting a thorough analysis of the current situation.}"
+ },
+ {
+  "id": 1950,
+  "type": "bullet",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|Review Maintenance Tasks:}"
+ },
+ {
+  "id": 1952,
+  "type": "body",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|Once OA completes the report, check the \"Maintenance Tasks\" section for a detailed list of elements requiring repairs.}"
+ },
+ {
+  "id": 1954,
+  "type": "bullet",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|Plant Shutdowns for Maintenance:}"
+ },
+ {
+  "id": 1956,
+  "type": "body",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|Certain components may necessitate a plant shutdown for repair. The maintenance task app will provide information on time, cost, and the need for a prior shutdown.}"
+ },
+ {
+  "id": 1958,
+  "type": "bullet",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|Scheduled Maintenance Shutdowns:}"
+ },
+ {
+  "id": 1960,
+  "type": "body",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|The OA's report indicates the wear percentage of plant components. It is advisable to perform maintenance tasks on these components before the wear percentage reaches 100%.}"
+ },
+ {
+  "id": 1962,
+  "type": "heading",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|What happens at 100% Wear or Beyond?}"
+ },
+ {
+  "id": 1963,
+  "type": "body",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|While not mandatory, exceeding 100% wear increases the risk of damage or failure. It is strongly recommended to perform the maintenance in such cases.}"
+ },
+ {
+  "id": 1965,
+  "type": "heading",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|Smoke or Fire from a Component}"
+ },
+ {
+  "id": 1966,
+  "type": "body",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|If a component starts emitting smoke or catches fire, irreversible damage may have occurred. Depending on the component and location, automatic fire sprinklers will activate. Request a maintenance report from the OA. If repairable, it will appear in the maintenance task list. If irreparable, discard the component using the machinery app.}"
+ },
+ {
+  "id": 1968,
+  "type": "heading",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|Insufficient Prestige Points for Repairs}"
+ },
+ {
+  "id": 1969,
+  "type": "body",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|If lacking sufficient prestige points for repairs, consider requesting a loan from the city bank. Access the banking app via the maintenance app to}"
+ },
+ {
+  "id": 1970,
+  "type": "body",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|apply for a loan.}"
+ },
+ {
+  "id": 1972,
+  "type": "body",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|Alternatively, sell machines and components; the selling price will be adjusted based on the overall condition of the component. Prizes obtained from successful audits can also be sold.}"
+ },
+ {
+  "id": 1975,
+  "type": "heading",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|Manual repairs by the plant operator}"
+ },
+ {
+  "id": 1976,
+  "type": "body",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|If you want to repair something manually, keep the following in mind:}"
+ },
+ {
+  "id": 1977,
+  "type": "bullet",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|You can repair non-energized cables with the clamp. If energized, the clamp must have resistors.}"
+ },
+ {
+  "id": 1979,
+  "type": "body",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|If the cable is inaccessible, you won't be able to repair it (ask AO to do it).}"
+ },
+ {
+  "id": 1981,
+  "type": "bullet",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|If a resistance block in the resistance bank burns out, you can change it as long as the bank is offline.}"
+ },
+ {
+  "id": 1983,
+  "type": "bullet",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|You can repair tubes and containers (evaporators, pressurizer, condenser, etc.) with the welder. If the damage is unreachable, you won't be able to repair it (ask AO to do it).}"
+ },
+ {
+  "id": 1985,
+  "type": "bullet",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|If the motor that moves the control rods is damaged and it is an emergency, you can get on the crane and operate it manually to move the rods.}"
+ },
+ {
+  "id": 1988,
+  "type": "bullet",
+  "section": "MAINTENANCE AND REPAIRS",
+  "s": "{0|The crane cannot be used manually to move fuel blocks.}"
+ },
+ {
+  "id": 1993,
+  "type": "heading",
+  "section": "PROCEDURE: STARTUP",
+  "s": "{0|PROCEDURE: STARTUP}"
+ },
+ {
+  "id": 1994,
+  "type": "body",
+  "section": "PROCEDURE: STARTUP",
+  "s": "{0|The reactor startup protocol is a structured set of steps and procedures designed to safely and systematically initiate nuclear reactor operations. This protocol is crucial to ensure system integrity, plant safety, and compliance with established regulations.}"
+ },
+ {
+  "id": 1995,
+  "type": "bullet",
+  "section": "PROCEDURE: STARTUP",
+  "s": "{0|Verify Power Availability:}{1|Ensure an adequate power supply in the supply room for reactor startup. Check the condition and fuel levels of the emergency generators and ensure the emergency battery rack is fully charged. Reliable power sources are critical for initiating reactor startup. The availability of energy ensures a smooth transition into the startup phase, with emergency backup systems ready for activation if needed.}"
+ },
+ {
+  "id": 1997,
+  "type": "bullet",
+  "section": "PROCEDURE: STARTUP",
+  "s": "{0|Energize Control Room Panels:}{1|Power up the control room panels to initiate the control systems. Activating the control room panels is the initial step in establishing communication with and control over various reactor components.}"
+ },
+ {
+  "id": 1999,
+  "type": "bullet",
+  "section": "PROCEDURE: STARTUP",
+  "s": "{0|Set the reactor mode to}{1|Nominal}{2|.}"
+ },
+ {
+  "id": 2001,
+  "type": "bullet",
+  "section": "PROCEDURE: STARTUP",
+  "s": "{0|Coolant Range Verification:}{1|Check that the coolant in both the primary and secondary circuits is within operational ranges. Make necessary adjustments if the coolant is outside acceptable limits. Proper coolant conditions are essential for effective heat transfer and system stability. Verification and adjustments ensure a safe and controlled environment.}"
+ },
+ {
+  "id": 2003,
+  "type": "bullet",
+  "section": "PROCEDURE: STARTUP",
+  "s": "{0|Pressurizer Check:}{1|Verify that the Pressurizer contains an appropriate volume of coolant within operational parameters. Adjust if the Pressurizer volume is outside the designated range. Pressurizer plays a crucial role in maintaining pressure and preventing vapor formation. Monitoring and adjusting its coolant volume is a safety measure.}"
+ },
+ {
+  "id": 2005,
+  "type": "bullet",
+  "section": "PROCEDURE: STARTUP",
+  "s": "{0|Pressurizer Heater Activation:}{1|Turn on the Pressurizer heaters to achieve the operational temperature and pressure (360°C and 160 BAR). Heating the Pressurizer is necessary to reach the required operational conditions for initiating controlled reactor startup.}"
+ },
+ {
+  "id": 2007,
+  "type": "bullet",
+  "section": "PROCEDURE: STARTUP",
+  "s": "{0|Primary Circuit Loop 3 Pump Activation:}{1|Start the circulation pump for loop 3 of the primary circuit at low power (25%). Gradual activation of circulation pumps ensures a controlled and steady increase in coolant flow throughout the system.}"
+ },
+ {
+  "id": 2009,
+  "type": "bullet",
+  "section": "PROCEDURE: STARTUP",
+  "s": "{0|Secondary Circuit Loop 3 Pump Activation:}{1|Activate the circulation pump for loop 3 of the secondary circuit at low power (25%). Gradual activation of circulation pumps ensures a controlled and steady increase in coolant flow throughout the system.}"
+ },
+ {
+  "id": 2011,
+  "type": "bullet",
+  "section": "PROCEDURE: STARTUP",
+  "s": "{0|Condenser Cooling Pump Activation:}{1|Start the cooling pump for the Condenser cooling circuit at low power (10%). Gradual activation of circulation pumps ensures a controlled and steady increase in coolant flow throughout the system.}"
+ },
+ {
+  "id": 2013,
+  "type": "bullet",
+  "section": "PROCEDURE: STARTUP",
+  "s": "{0|Control Rod Insertion:}{1|Insert control rods into the core at 100%. Control rods insertion is a safety measure to regulate reactor power during startup and prevent an uncontrolled chain reaction.}"
+ },
+ {
+  "id": 2015,
+  "type": "bullet",
+  "section": "PROCEDURE: STARTUP",
+  "s": "{0|City Communication and Permission:}{1|Communicate with the city authorities to request permission for reactor startup. Wait for the city's response and the specified time for initiation. Coordination with the city is crucial to align reactor startup with citywide energy demand and safety regulations.}"
+ },
+ {
+  "id": 2017,
+  "type": "bullet",
+  "section": "PROCEDURE: STARTUP",
+  "s": "{0|Fuel Block Insertion:}{1|Insert the fuel block into the reactor, considering the approved startup time provided by the city. Controlled fuel block insertion is timed to align with the approved schedule and city energy demand.}"
+ },
+ {
+  "id": 2019,
+  "type": "bullet",
+  "section": "PROCEDURE: STARTUP",
+  "s": "{0|Critical Mass Achievement:}{1|Wait until the reactor reaches critical mass, signaling the completion of the startup protocol. Critical mass achievement indicates that the reactor has reached a stable and controlled state, ready for normal operation.}"
+ },
+ {
+  "id": 2020,
+  "type": "body",
+  "section": "PROCEDURE: STARTUP",
+  "s": "{0|In summary, the reactor startup protocol is essential for conducting nuclear operations safely, efficiently, and in compliance with regulatory and safety standards. Ensures the plant operates within safe parameters, avoiding risk to personnel, the plant, and the environment. Establishes controlled initial conditions for critical variables such as temperature, pressure, and coolant flow.}"
+ }
+]

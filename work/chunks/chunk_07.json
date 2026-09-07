@@ -1,0 +1,344 @@
+[
+ {
+  "id": 1124,
+  "type": "heading",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|CONTROL PANEL: COOLANT SYSTEM}"
+ },
+ {
+  "id": 1125,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|Within the reactor control room, the control panel for the primary coolant system succinctly presents key volume metrics. It includes the total circuit volume, covering the entire primary coolant pathway. The core vessel volume, encapsulating the reactor core, is also specified.}"
+ },
+ {
+  "id": 1128,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|Additionally, the Pressurizer volume, vital for pressure regulation, is highlighted. This comprehensive data on primary circuit volumes enables operators to monitor and control the system effectively in real-time.}"
+ },
+ {
+  "id": 1129,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|Core Inlet Temperature:}{1|Serves as a critical instrument for assessing the temperature of coolant entering the reactor core. This meter provides real-time data on the temperature of the coolant as it enters the core vessel.}"
+ },
+ {
+  "id": 1131,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|As the reactor operates, nuclear reactions generate heat within the core. The coolant absorbs this heat and circulates through the primary circuit. The Core Inlet Temperature meter precisely measures the temperature of this incoming coolant, offering crucial insights into the thermal conditions at the core's entrance.}"
+ },
+ {
+  "id": 1133,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|Operators use this information to monitor and control the reactor's temperature, ensuring it remains within safe and efficient operating limits. Deviations from expected temperatures could signify anomalies or require adjustments in the reactor's operational parameters.}"
+ },
+ {
+  "id": 1135,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|Moderation Level:}{1|Serves as a pivotal gauge in assessing the moderation status within the reactor's primary circuit. This meter essentially measures the degree to which neutron moderation is occurring. In a nuclear reactor, neutron moderation is the process by which certain materials slow down the fast neutrons generated during fission. This slowing down, or moderation, is crucial for sustaining a controlled nuclear chain reaction.}"
+ },
+ {
+  "id": 1137,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|The Moderation Level meter provides a visual indication of the efficiency of neutron moderation within the reactor. It typically ranges from low to high, with corresponding color codes or numerical values. A low moderation level may suggest insufficient slowing down of neutrons, potentially impacting the reactor's stability. Conversely, a high moderation level indicates effective neutron moderation, contributing to a stable and controlled nuclear reaction.}"
+ },
+ {
+  "id": 1139,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|Operators closely monitor this meter to ensure the reactor operates within the desired moderation parameters, maintaining a balance that optimizes power output while upholding safety standards. Adjustments to the moderation system can be made based on real-time readings from this meter to achieve and sustain the desired neutron moderation level for safe and efficient reactor operation.}"
+ },
+ {
+  "id": 1141,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|Core Vessel Volume:}{1|Serves as a critical gauge for tracking the volume within the reactor core vessel. This meter operates by measuring the actual volume of the coolant contained within the core vessel, providing real-time feedback to operators. As the reactor operates, the volume within the core vessel may vary due to factors such as changes in temperature, pressure, or reactor power levels. The Core Vessel Volume meter continuously updates to reflect these variations. In the event of abnormal fluctuations or deviations from the predefined safety parameters, the meter serves as an early warning system, alerting operators to potential issues within the reactor core.}"
+ },
+ {
+  "id": 1143,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|Operators can use this information to make timely adjustments, ensuring that the coolant volume remains within the designated safe range. The Core Vessel Volume meter, therefore, plays a crucial role in maintaining the stability and safety of the reactor by providing a direct indication of the coolant volume within the core vessel during the operational phases.}"
+ },
+ {
+  "id": 1145,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|Pressurizer Volume:}{1|The Pressurizer Volume meter, situated on the primary coolant circuit monitoring panel, operates as a vital gauge for overseeing the volume of the pressurizer. As the pressurizer actively adjusts the pressure to prevent boiling and ensure a controlled environment, the Pressurizer Volume meter provides a visual representation of the pressurizer volume status. Operators can observe fluctuations in real-time, allowing them to gauge the system's responsiveness to changing conditions.}"
+ },
+ {
+  "id": 1147,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|Overall Volume:}{1|The Overall Volume meter, situated on the primary coolant circuit monitoring panel, operates as a comprehensive indicator of the total volume within the primary coolant system. It dynamically reflects the cumulative volume encompassing the entire pathway of the primary coolant circuit. This includes the combined volume of the core vessel, pressurizer, and all associated coolant channels.}"
+ },
+ {
+  "id": 1149,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|As the system functions, the Overall Volume meter provides real-time feedback on the current fluid quantity within the primary circuit. Operators can utilize this information to assess the overall health and status of the coolant system. An increase or decrease in the meter reading may indicate variations in coolant levels, prompting operators to take necessary actions to maintain optimal operating conditions. Essentially, the Overall Volume meter serves as a pivotal tool for monitoring and ensuring the integrity of the primary coolant system in the reactor.}"
+ },
+ {
+  "id": 1151,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|Circulation Pumps Coolant System Panel:}{1|The Circulation Pumps Coolant System light panel, situated on the primary coolant monitoring panel, comprises nine lights—three for each circulation pump.}"
+ },
+ {
+  "id": 1153,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|The first light in each column signifies the presence or absence of the pump. The second light indicates whether the pump is operating under dry conditions, and the third light communicates if the pump is functioning with an overload.}"
+ },
+ {
+  "id": 1155,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|This configuration offers a concise visual representation of the status of each circulation pump, covering installation status, dry operation, and potential overload conditions for comprehensive monitoring and quick assessment by operators.}"
+ },
+ {
+  "id": 1157,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|Core Outer Vessel Coolant Level:}{1|The Core Outer Vessel Coolant Level meter, situated on the primary coolant circuit control panel, operates by monitoring the volume of coolant surrounding the reactor core in the external pool. This pool serves as a protective reservoir, containing any potential minor leaks of radioactivity.}"
+ },
+ {
+  "id": 1159,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|The meter plays a crucial role in safeguarding the core from temperature fluctuations. By continuously assessing the coolant level in the external pool, the system ensures a consistent and adequate thermal environment for the reactor core. This proactive measure not only protects against potential leaks but also contributes to maintaining the stability and integrity of the core, preventing undesirable temperature variations.}"
+ },
+ {
+  "id": 1161,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM",
+  "s": "{0|Core Outer Vessel Coolant Temperature:}{1|The meter provides real-time information on the temperature of this external coolant, offering crucial insights into the environmental conditions surrounding the core. By ensuring the coolant remains within specified temperature ranges, the system helps prevent potential radioactive releases and maintains the core at optimal operating conditions. This monitoring mechanism plays a pivotal role in enhancing the safety and stability of the reactor, mitigating risks associated with temperature variations and contributing to the overall integrity of the containment system.}"
+ },
+ {
+  "id": 1163,
+  "type": "heading",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|CONTROL PANEL: COOLANT SYSTEM | SWITCHES}"
+ },
+ {
+  "id": 1166,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|RCP | Primary Circuit Coolant Flow Speed panel}"
+ },
+ {
+  "id": 1167,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Is a critical component within the reactor control room, providing precise control over the circulation pumps in the primary circuit. This panel features three distinct control groups, each corresponding to one of the circulation pumps, along with a dedicated regulator for each pump.}"
+ },
+ {
+  "id": 1168,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Operators have the capability to set the desired speed for each pump using these regulators.}"
+ },
+ {
+  "id": 1169,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Control Groups:}{1|Three separate control groups are allocated, each governing a specific circulation pump within the primary circuit. This segmentation allows for individualized control and monitoring of each pump.}"
+ },
+ {
+  "id": 1171,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Regulators:}{1|Associated with each circulation pump, the regulators enable operators to establish the required speed for optimal coolant flow. Adjusting these regulators affects the pump's performance and, consequently, the overall flow rate in the primary circuit.}"
+ },
+ {
+  "id": 1173,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Displays:}{1|For every pump, there is a dedicated display indicating both the current speed and the speed requested by the operator. This real-time feedback offers a clear and immediate overview of the pump's performance relative to the operator's instructions.}"
+ },
+ {
+  "id": 1175,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Significance of Speed Setting:}{1|The speed setting directly influences the flow rate of coolant within the primary circuit. Achieving and maintaining the specified speed is crucial for effective heat transfer and overall reactor efficiency.}"
+ },
+ {
+  "id": 1177,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Fault Indication:}{1|If a circulation pump fails to reach the required speed, it serves as an early warning sign of potential pump damage or malfunction. In such cases, operators can identify the affected pump and take corrective measures to address the issue promptly.}"
+ },
+ {
+  "id": 1179,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Operators must regularly monitor the displays and assess whether the actual pump speed aligns with the requested speed. Any deviation may prompt further investigation or troubleshooting to ensure the health of the circulation pumps.}"
+ },
+ {
+  "id": 1180,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|In essence, the RCP | Primary Circuit Coolant Flow Speed panel empowers operators with granular control over circulation pumps, allowing them to regulate coolant flow efficiently. The inclusion of displays and speed regulators not only facilitates precise adjustments but also serves as a diagnostic tool to detect pump issues, ensuring the integrity and reliability of the primary circuit's cooling system.}"
+ },
+ {
+  "id": 1181,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Circulation Pumps Switch panel}"
+ },
+ {
+  "id": 1183,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Is a fundamental control interface within the reactor control room, featuring three switches—one for each circulation pump in the primary circuit. These switches empower operators with the ability to activate or deactivate individual circulation pumps based on operational requirements.}"
+ },
+ {
+  "id": 1185,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Individual Pump Control:}{1|The panel comprises three distinct switches, each directly linked to a specific circulation pump. This setup allows operators to exercise independent control over the operation of each pump within the primary circuit.}"
+ },
+ {
+  "id": 1187,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|On/Off Functionality:}{1|The switches facilitate a straightforward on/off functionality, enabling operators to either activate or shut down a circulation pump with a simple switch movement. This control mechanism provides a quick and direct means of adjusting the primary circuit's coolant flow.}"
+ },
+ {
+  "id": 1189,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Operational Flexibility:}{1|The ability to selectively turn pumps on or off offers operational flexibility. For instance, during periods of low energy demand or maintenance activities, operators can choose to deactivate specific pumps while keeping others operational.}"
+ },
+ {
+  "id": 1191,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Emergency Scenarios:}{1|In emergency situations or as part of safety protocols, operators can swiftly deactivate circulation pumps to mitigate potential risks or address specific issues within the primary circuit.}"
+ },
+ {
+  "id": 1193,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Operators routinely interact with the Circulation Pumps Switch panel to align the operation of circulation pumps with the dynamic needs of the reactor. This includes starting pumps during reactor startup, shutting them down for maintenance, or adjusting pump configurations based on varying operational conditions.}"
+ },
+ {
+  "id": 1195,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Safety Considerations: The panel is designed with safety in mind, allowing for rapid intervention in case of emergencies or abnormal conditions. The simplicity of the on/off switches facilitates efficient decision-making during critical situations.}"
+ },
+ {
+  "id": 1197,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Primary Circuit Coolant Main Flow Speed}"
+ },
+ {
+  "id": 1199,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|The Primary Circuit Coolant Main Flow Speed panel serves as a centralized control hub within the reactor control room, overseeing the operation of all installed circulation pumps in the primary circuit. This comprehensive panel features a singular regulator governing the collective speed of all pumps, a display indicating the current speed of all installed pumps, and a separate display reflecting the total circulation power ordered by the operator.}"
+ },
+ {
+  "id": 1201,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Regulator:}{1|The single regulator on the panel allows operators to set the desired overall speed for all installed circulation pumps collectively. Adjusting this regulator influences the combined flow rate of coolant throughout the primary circuit.}"
+ },
+ {
+  "id": 1203,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Pump Speed Display:}{1|The display dedicated to pump speed provides real-time information on the current operating speeds of all installed circulation pumps. This holistic view allows operators to assess the collective performance of the pumps at a glance.}"
+ },
+ {
+  "id": 1205,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Total Circulation Power Display:}{1|The display on the panel indicates the total circulation power or the aggregated speed flow capacity ordered by the operator. This display reflects the avg of the speed settings for all installed pumps, providing an overview of the entire primary circuit's flow potential.}"
+ },
+ {
+  "id": 1207,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Unlike the previous panel that enables individual control over each pump, this panel functions on a global scale, regulating the speed and power of all installed pumps collectively. Operators utilize the regulator to establish the desired overall speed, taking into consideration the reactor's operational requirements and safety parameters.}"
+ },
+ {
+  "id": 1209,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Freight Pump panel}"
+ },
+ {
+  "id": 1211,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|The Freight Pump panel is a crucial component in the reactor control room, offering operators control over the freight pumps in both the primary and secondary circuits. This panel features three main controls: a switch for activating or deactivating the Freight Pump in the primary circuit, another switch for the Freight Pump in the secondary circuit (or Condenser), and a selector for loading or unloading coolant in the external vessel of the core.}"
+ },
+ {
+  "id": 1213,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|External Freight Pump Switch:}{1|This switch controls de activation and deactivation of the Freight Pump that draws water from the external surroundings of the facility and accumulates it in the main external reservoir.}"
+ },
+ {
+  "id": 1215,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Internal Freight Pump Switch:}{1|This switch controls de activation and deactivation of the Freight Pump responsible for transferring water from the external reservoir to the internal reservoir. Subsequently, this water can be utilized to fill the primary circuit.}"
+ },
+ {
+  "id": 1217,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Primary Circuit Freight Pump Switch:}{1|This switch controls the activation and deactivation of the Freight Pump in the primary circuit. When activated, the pump facilitates the movement of coolant within the primary loop, contributing to heat transfer and overall system efficiency.}"
+ },
+ {
+  "id": 1219,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Secondary Circuit (Condenser) Freight Pump Switch:}{1|The second switch pertains to the Freight Pump in the secondary circuit or Condenser. Activating this switch initiates the movement of coolant within the secondary loop, supporting the heat exchange process.}"
+ },
+ {
+  "id": 1221,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Coolant Loading/Unloading Selector:}{1|The selector enables operators to choose between loading and unloading coolant in the external vessel of the core. This functionality is crucial for managing the coolant inventory around the core and ensuring optimal conditions for heat dissipation.}"
+ },
+ {
+  "id": 1223,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Freight Pump Activation}"
+ },
+ {
+  "id": 1225,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Operators use the respective switches to activate the Freight Pumps in both the primary and secondary circuits based on operational requirements. This ensures the continuous and controlled flow of coolant for effective heat transfer. The Freight Pump panel provides operators with direct and immediate control over the coolant flow within both primary and secondary circuits.}"
+ },
+ {
+  "id": 1227,
+  "type": "bullet",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|Coolant Loading/Unloading}"
+ },
+ {
+  "id": 1229,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|The selector allows operators to choose whether to load or unload coolant in the external vessel of the core. This action is performed in response to operational needs or specific maintenance procedures. The ability to load or unload coolant in the external vessel of the core enhances the flexibility of coolant management, adapting to varying operational scenarios.}"
+ },
+ {
+  "id": 1230,
+  "type": "body",
+  "section": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "s": "{0|In summary, the Freight Pump panel is instrumental in regulating the coolant flow in both primary and secondary circuits, providing operators with essential control switches and selectors to optimize heat transfer and maintain the integrity of the reactor's cooling processes.}"
+ }
+]

@@ -5,11 +5,11 @@
  },
  {
   "term": "Advantages of using Boric Acid vs Control Rods",
-  "ru": "Борная кислота против управляющих стержней: преимущества (Advantages of using Boric Acid vs Control Rods)"
+  "ru": "Борная кислота против регулирующих стержней: преимущества (Advantages of using Boric Acid vs Control Rods)"
  },
  {
   "term": "Advantages of using control rods alone",
-  "ru": "Преимущества применения только управляющих стержней (Advantages of using control rods alone)"
+  "ru": "Преимущества применения только регулирующих стержней (Advantages of using control rods alone)"
  },
  {
   "term": "Air Removal Valves",
@@ -69,11 +69,11 @@
  },
  {
   "term": "CONTROL PANEL: CONTROL RODS",
-  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: УПРАВЛЯЮЩИЕ СТЕРЖНИ (CONTROL PANEL: CONTROL RODS)"
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: РЕГУЛИРУЮЩИЕ СТЕРЖНИ (CONTROL PANEL: CONTROL RODS)"
  },
  {
   "term": "CONTROL PANEL: CONTROL RODS | SWITCHES",
-  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: УПРАВЛЯЮЩИЕ СТЕРЖНИ | ПЕРЕКЛЮЧАТЕЛИ (CONTROL PANEL: CONTROL RODS | SWITCHES)"
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: РЕГУЛИРУЮЩИЕ СТЕРЖНИ | ПЕРЕКЛЮЧАТЕЛИ (CONTROL PANEL: CONTROL RODS | SWITCHES)"
  },
  {
   "term": "CONTROL PANEL: COOLANT SYSTEM",
@@ -133,11 +133,11 @@
  },
  {
   "term": "CONTROL RODS",
-  "ru": "УПРАВЛЯЮЩИЕ СТЕРЖНИ (CONTROL RODS)"
+  "ru": "РЕГУЛИРУЮЩИЕ СТЕРЖНИ (CONTROL RODS)"
  },
  {
   "term": "Control Rods and Fuel Monitoring",
-  "ru": "Управляющие стержни и контроль топлива (Control Rods and Fuel Monitoring)"
+  "ru": "Регулирующие стержни и контроль топлива (Control Rods and Fuel Monitoring)"
  },
  {
   "term": "COOLANT / MODERATOR",
@@ -169,7 +169,7 @@
  },
  {
   "term": "DIFFERENCE BETWEEN FREIGHT PUMP AND CIRCULATION PUMP",
-  "ru": "РАЗНИЦА МЕЖДУ ЗАПРАВОЧНЫМ И ЦИРКУЛЯЦИОННЫМ НАСОСОМ (DIFFERENCE BETWEEN FREIGHT PUMP AND CIRCULATION PUMP)"
+  "ru": "РАЗНИЦА МЕЖДУ ГРУЗОВЫМ И ЦИРКУЛЯЦИОННЫМ НАСОСОМ (DIFFERENCE BETWEEN FREIGHT PUMP AND CIRCULATION PUMP)"
  },
  {
   "term": "Disadvantages of using boric acid",
@@ -177,7 +177,7 @@
  },
  {
   "term": "Disadvantages of using control rods alone",
-  "ru": "Недостатки применения только управляющих стержней (Disadvantages of using control rods alone)"
+  "ru": "Недостатки применения только регулирующих стержней (Disadvantages of using control rods alone)"
  },
  {
   "term": "Disconnecting for Normal Operation",
@@ -241,11 +241,11 @@
  },
  {
   "term": "FREIGHT PUMP IN PRIMARY LOOP",
-  "ru": "ЗАПРАВОЧНЫЙ НАСОС ПЕРВОГО КОНТУРА (FREIGHT PUMP IN PRIMARY LOOP)"
+  "ru": "ГРУЗОВОЙ НАСОС ПЕРВОГО КОНТУРА (FREIGHT PUMP IN PRIMARY LOOP)"
  },
  {
   "term": "FREIGHT PUMP IN SECONDAY LOOP",
-  "ru": "ЗАПРАВОЧНЫЙ НАСОС ВТОРОГО КОНТУРА (FREIGHT PUMP IN SECONDARY LOOP)"
+  "ru": "ГРУЗОВОЙ НАСОС ВТОРОГО КОНТУРА (FREIGHT PUMP IN SECONDARY LOOP)"
  },
  {
   "term": "Frequency Synchronization",
@@ -273,7 +273,7 @@
  },
  {
   "term": "Importance of Resistance Banks",
-  "ru": "Значение блоков сопротивлений (Importance of Resistance Banks)"
+  "ru": "Значение групп резисторов (Importance of Resistance Banks)"
  },
  {
   "term": "Integration with the Electrical Grid",
@@ -337,7 +337,7 @@
  },
  {
   "term": "OPERATIONAL ASSISTANT",
-  "ru": "ОПЕРАТИВНЫЙ ПОМОЩНИК (OPERATIONAL ASSISTANT)"
+  "ru": "ОПЕРАЦИОННЫЙ ПОМОЩНИК (OPERATIONAL ASSISTANT)"
  },
  {
   "term": "Operational Motive Steam Inlet Valve",
@@ -409,7 +409,7 @@
  },
  {
   "term": "Resistance Banks",
-  "ru": "Блоки сопротивлений (Resistance Banks)"
+  "ru": "Группы резисторов (Resistance Banks)"
  },
  {
   "term": "Retention Tank Vent Valve",

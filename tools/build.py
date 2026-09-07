@@ -141,7 +141,11 @@ def build(args, field):
             toc.append([level, text, page])
     if toc:
         out.set_toc(toc)
-    out.save(args.out, deflate=True, garbage=3)
+    try:
+        out.subset_fonts()
+    except AttributeError:
+        pass
+    out.save(args.out, deflate=True, garbage=4)
     print(f"{args.out}: {out.page_count} pages "
           f"(cover {cover_doc.page_count} + front {front_doc.page_count} + "
           f"index {index_doc.page_count} + body {body_doc.page_count}), "

@@ -203,6 +203,29 @@ def collect_images(page):
     return out
 
 
+def drop_backdrops(parts):
+    """Word bakes a picture's drop shadow into raster tiles laid behind it.
+
+    Those tiles are flattened snapshots of the page, so they carry English text
+    of whatever sat behind the picture; harmless while the layout is unchanged,
+    but visible once the text reflows.  A tile that the foreground picture
+    covers by more than half is dropped, while genuinely stacked artwork stays.
+    """
+    if len(parts) < 2:
+        return parts
+    top = parts[-1]
+    tx0, ty0, tx1, ty1 = top["bbox"]
+    keep = []
+    for part in parts[:-1]:
+        x0, y0, x1, y1 = part["bbox"]
+        area = max((x1 - x0) * (y1 - y0), 1e-6)
+        ov = max(0.0, min(x1, tx1) - max(x0, tx0)) * \
+            max(0.0, min(y1, ty1) - max(y0, ty0))
+        if ov / area < 0.5:
+            keep.append(part)
+    return keep + [top]
+
+
 def group_images(images):
     """Word draws drop shadows as separate bitmaps; keep overlapping
     bitmaps together as one figure so they stay registered after reflow."""
@@ -219,8 +242,11 @@ def group_images(images):
             groups.append({"kind": "image", "bbox": list(img["bbox"]),
                            "parts": [img]})
     for g in groups:
+        # the bbox keeps every bitmap, including the shadow tiles: Word wrapped
+        # the text around that full rectangle and the reflow must match
+        g["parts"].sort(key=lambda p: p["z"])     # content is drawn last
+        g["parts"] = drop_backdrops(g["parts"])
         gx0, gy0 = g["bbox"][0], g["bbox"][1]
-        g["parts"].sort(key=lambda p: p["z"])     # keep drop shadows behind
         g["parts"] = [{
             "xref": p["xref"],
             "px": p["px"],

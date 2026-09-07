@@ -193,6 +193,33 @@ class Renderer:
                                     color=rgb(run["color"]), width=0.6)
             cx += w
 
+    def draw_bullet(self, glyph, x, y_top, size, color):
+        """Draw a list marker.
+
+        The source uses Symbol/Wingdings bullets that no text font carries, so
+        the round and square markers are drawn as vector shapes at the size the
+        original used; the dash bullets are ordinary characters.
+        """
+        cy = y_top + size * 0.55
+        if glyph in ("●", "\uf0b7", "•", "○"):
+            r = size * 0.185
+            self.page.draw_circle((x + r + 0.6, cy), r, color=None if glyph != "○" else color,
+                                  fill=None if glyph == "○" else color, width=0.8)
+            if glyph == "○":
+                self.page.draw_circle((x + r + 0.6, cy), r, color=color, fill=None, width=0.8)
+        elif glyph in ("▪", "■"):
+            h = size * 0.30
+            self.page.draw_rect(pymupdf.Rect(x + 0.6, cy - h / 2, x + 0.6 + h, cy + h / 2),
+                                color=None, fill=color)
+        elif glyph in ("⮚", "⮞", "➢"):
+            w, h = size * 0.36, size * 0.36
+            self.page.draw_polyline([(x + 0.6, cy - h / 2), (x + 0.6 + w, cy),
+                                     (x + 0.6, cy + h / 2), (x + 0.6, cy - h / 2)],
+                                    color=None, fill=color)
+        else:
+            self.page.insert_text((x, y_top + size * ASCENT), glyph,
+                                  fontname="f-r", fontsize=size, color=color)
+
     # ---------- flow ----------
     def render(self):
         self.new_page()
@@ -250,7 +277,7 @@ class Renderer:
     def render_index(self, title, entries):
         """Two-column alphabetical index, as in the original."""
         col_x = (LEFT, 315.6)
-        col_w = 213.0
+        col_w = RIGHT - 315.6          # the narrower of the two columns
         size = 9.0
         lh = size * 1.32
         hang = 11.0
@@ -281,6 +308,11 @@ class Renderer:
                     cur, cur_w = cur + [tok], add
             if cur:
                 lines.append(cur)
+            # the page number must never be stranded on a line of its own
+            if len(lines) > 1 and len(lines[-1]) == 1:
+                lines[-1].insert(0, lines[-2].pop())
+                if not lines[-2]:
+                    lines.pop(-2)
 
             if y + lh * len(lines) > BOTTOM:
                 col += 1
@@ -352,11 +384,8 @@ class Renderer:
                 edge = self.right_edge(self.y, self.y + lh)
             last = (i == len(lines) - 1)
             if i == 0 and item.get("bullet"):
-                bx = indent - 18.0
-                run0 = runs[0]
-                self.page.insert_text((bx, self.y + size * ASCENT), item["bullet"],
-                                      fontname="f-r", fontsize=size,
-                                      color=rgb(run0["color"]))
+                self.draw_bullet(item["bullet"], indent - 18.0, self.y, size,
+                                 rgb(runs[0]["color"]))
             self.draw_line(toks, indent, self.y, justify and not last, edge)
             self.y += lh
 

@@ -1,0 +1,506 @@
+[
+ {
+  "term": "Advantages of using boric acid",
+  "ru": "Преимущества применения борной кислоты (Advantages of using boric acid)"
+ },
+ {
+  "term": "Advantages of using Boric Acid vs Control Rods",
+  "ru": "Борная кислота против регулирующих стержней: преимущества (Advantages of using Boric Acid vs Control Rods)"
+ },
+ {
+  "term": "Advantages of using control rods alone",
+  "ru": "Преимущества применения только регулирующих стержней (Advantages of using control rods alone)"
+ },
+ {
+  "term": "Air Removal Valves",
+  "ru": "Клапаны удаления воздуха (Air Removal Valves)"
+ },
+ {
+  "term": "AUDIT AND COMPLIANCE PROCEDURE",
+  "ru": "ПРОЦЕДУРА АУДИТА И СОБЛЮДЕНИЯ НОРМ (AUDIT AND COMPLIANCE PROCEDURE)"
+ },
+ {
+  "term": "Auditor Anomalies",
+  "ru": "Замечания аудитора (Auditor Anomalies)"
+ },
+ {
+  "term": "CHEMICAL TREATMENTS",
+  "ru": "ХИМИЧЕСКАЯ ОБРАБОТКА ТЕПЛОНОСИТЕЛЯ (CHEMICAL TREATMENTS)"
+ },
+ {
+  "term": "CIRCULATION PUMPS IN THE PRIMARY LOOP",
+  "ru": "ЦИРКУЛЯЦИОННЫЕ НАСОСЫ ПЕРВОГО КОНТУРА (CIRCULATION PUMPS IN THE PRIMARY LOOP)"
+ },
+ {
+  "term": "CIRCULATION PUMPS IN THE SECONDARY LOOP",
+  "ru": "ЦИРКУЛЯЦИОННЫЕ НАСОСЫ ВТОРОГО КОНТУРА (CIRCULATION PUMPS IN THE SECONDARY LOOP)"
+ },
+ {
+  "term": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "ru": "ОТНОШЕНИЯ С ГОРОДОМ | СИСТЕМА ОДОБРЕНИЯ (CITY RELATIONSHIP | APPROVAL SYSTEM)"
+ },
+ {
+  "term": "Condensate Extraction Valves",
+  "ru": "Клапаны отвода конденсата (Condensate Extraction Valves)"
+ },
+ {
+  "term": "Condensate Flow Rate",
+  "ru": "Расход конденсата (Condensate Flow Rate)"
+ },
+ {
+  "term": "Condensate Return Valve",
+  "ru": "Возвратный клапан конденсата (Condensate Return Valve)"
+ },
+ {
+  "term": "CONDENSER",
+  "ru": "КОНДЕНСАТОР (CONDENSER)"
+ },
+ {
+  "term": "Condenser Suction Valve",
+  "ru": "Всасывающий клапан конденсатора (Condenser Suction Valve)"
+ },
+ {
+  "term": "Condenser Vacuum System",
+  "ru": "Система вакуумирования конденсатора (Condenser Vacuum System)"
+ },
+ {
+  "term": "Control Panel | Chemical Treatments",
+  "ru": "Панель управления | Химическая обработка (Control Panel | Chemical Treatments)"
+ },
+ {
+  "term": "CONTROL PANEL: CONTROL RODS",
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: РЕГУЛИРУЮЩИЕ СТЕРЖНИ (CONTROL PANEL: CONTROL RODS)"
+ },
+ {
+  "term": "CONTROL PANEL: CONTROL RODS | SWITCHES",
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: РЕГУЛИРУЮЩИЕ СТЕРЖНИ | ПЕРЕКЛЮЧАТЕЛИ (CONTROL PANEL: CONTROL RODS | SWITCHES)"
+ },
+ {
+  "term": "CONTROL PANEL: COOLANT SYSTEM",
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: СИСТЕМА ТЕПЛОНОСИТЕЛЯ (CONTROL PANEL: COOLANT SYSTEM)"
+ },
+ {
+  "term": "CONTROL PANEL: COOLANT SYSTEM | SWITCHES",
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: СИСТЕМА ТЕПЛОНОСИТЕЛЯ | ПЕРЕКЛЮЧАТЕЛИ (CONTROL PANEL: COOLANT SYSTEM | SWITCHES)"
+ },
+ {
+  "term": "CONTROL PANEL: CORE",
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: АКТИВНАЯ ЗОНА (CONTROL PANEL: CORE)"
+ },
+ {
+  "term": "CONTROL PANEL: ENERGY GENERATION",
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: ВЫРАБОТКА ЭНЕРГИИ (CONTROL PANEL: ENERGY GENERATION)"
+ },
+ {
+  "term": "CONTROL PANEL: ENERGY GENERATION | SWITCHES",
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: ВЫРАБОТКА ЭНЕРГИИ | ПЕРЕКЛЮЧАТЕЛИ (CONTROL PANEL: ENERGY GENERATION | SWITCHES)"
+ },
+ {
+  "term": "CONTROL PANEL: INTERNAL SUPPLY",
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: СОБСТВЕННЫЕ НУЖДЫ (CONTROL PANEL: INTERNAL SUPPLY)"
+ },
+ {
+  "term": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: СОБСТВЕННЫЕ НУЖДЫ | ПЕРЕКЛЮЧАТЕЛИ (CONTROL PANEL: INTERNAL SUPPLY | SWITCHES)"
+ },
+ {
+  "term": "CONTROL PANEL: PRESSURIZER",
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: КОМПЕНСАТОР ДАВЛЕНИЯ (CONTROL PANEL: PRESSURIZER)"
+ },
+ {
+  "term": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: КОМПЕНСАТОР ДАВЛЕНИЯ | ПЕРЕКЛЮЧАТЕЛИ (CONTROL PANEL: PRESSURIZER | SWITCHES)"
+ },
+ {
+  "term": "CONTROL PANEL: REACTOR FUEL",
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: ЯДЕРНОЕ ТОПЛИВО (CONTROL PANEL: REACTOR FUEL)"
+ },
+ {
+  "term": "CONTROL PANEL: REACTOR FUEL | SWITCHES",
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: ЯДЕРНОЕ ТОПЛИВО | ПЕРЕКЛЮЧАТЕЛИ (CONTROL PANEL: REACTOR FUEL | SWITCHES)"
+ },
+ {
+  "term": "CONTROL PANEL: STEAM GENERATOR",
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: ПАРОГЕНЕРАТОР (CONTROL PANEL: STEAM GENERATOR)"
+ },
+ {
+  "term": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: ПАРОГЕНЕРАТОР — ПЕРЕКЛЮЧАТЕЛИ (CONTROL PANEL: STEAM GENERATOR - SWITCHES)"
+ },
+ {
+  "term": "CONTROL PANEL: VALVES",
+  "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ: КЛАПАНЫ (CONTROL PANEL: VALVES)"
+ },
+ {
+  "term": "CONTROL RODS",
+  "ru": "РЕГУЛИРУЮЩИЕ СТЕРЖНИ (CONTROL RODS)"
+ },
+ {
+  "term": "Control Rods and Fuel Monitoring",
+  "ru": "Регулирующие стержни и контроль топлива (Control Rods and Fuel Monitoring)"
+ },
+ {
+  "term": "COOLANT / MODERATOR",
+  "ru": "ТЕПЛОНОСИТЕЛЬ / ЗАМЕДЛИТЕЛЬ (COOLANT / MODERATOR)"
+ },
+ {
+  "term": "COOLING LOOP (LOOP 3)",
+  "ru": "КОНТУР ОХЛАЖДЕНИЯ (КОНТУР 3) (COOLING LOOP / LOOP 3)"
+ },
+ {
+  "term": "Cooling Water Inlet/Outlet Valves",
+  "ru": "Впускной и выпускной клапаны охлаждающей воды (Cooling Water Inlet/Outlet Valves)"
+ },
+ {
+  "term": "CORE FUSION SEQUENCE",
+  "ru": "ПОСЛЕДОВАТЕЛЬНОСТЬ РАСПЛАВЛЕНИЯ АКТИВНОЙ ЗОНЫ (CORE FUSION SEQUENCE)"
+ },
+ {
+  "term": "Corrosion",
+  "ru": "Коррозия (Corrosion)"
+ },
+ {
+  "term": "Deterioration Risk",
+  "ru": "Риск ухудшения отношений (Deterioration Risk)"
+ },
+ {
+  "term": "DETERMINING THE FUEL LEVEL",
+  "ru": "ОПРЕДЕЛЕНИЕ УРОВНЯ ТОПЛИВА (DETERMINING THE FUEL LEVEL)"
+ },
+ {
+  "term": "DIFFERENCE BETWEEN FREIGHT PUMP AND CIRCULATION PUMP",
+  "ru": "РАЗНИЦА МЕЖДУ ГРУЗОВЫМ И ЦИРКУЛЯЦИОННЫМ НАСОСОМ (DIFFERENCE BETWEEN FREIGHT PUMP AND CIRCULATION PUMP)"
+ },
+ {
+  "term": "Disadvantages of using boric acid",
+  "ru": "Недостатки применения борной кислоты (Disadvantages of using boric acid)"
+ },
+ {
+  "term": "Disadvantages of using control rods alone",
+  "ru": "Недостатки применения только регулирующих стержней (Disadvantages of using control rods alone)"
+ },
+ {
+  "term": "Disconnecting for Normal Operation",
+  "ru": "Отключение при нормальной работе (Disconnecting for Normal Operation)"
+ },
+ {
+  "term": "Dissolved Gamma Iodine Activity",
+  "ru": "Активность растворённого гамма-йода (Dissolved Gamma Iodine Activity)"
+ },
+ {
+  "term": "Effects of boric acid",
+  "ru": "Действие борной кислоты (Effects of boric acid)"
+ },
+ {
+  "term": "Emergency Load Control",
+  "ru": "Аварийное регулирование нагрузки (Emergency Load Control)"
+ },
+ {
+  "term": "Emergency Shutdown",
+  "ru": "Аварийный останов (Emergency Shutdown)"
+ },
+ {
+  "term": "Energy Generation",
+  "ru": "Выработка энергии (Energy Generation)"
+ },
+ {
+  "term": "Energy transformation",
+  "ru": "Преобразование энергии (Energy transformation)"
+ },
+ {
+  "term": "ENRICHED URANIUM DIOXIDE FUEL",
+  "ru": "ТОПЛИВО ИЗ ОБОГАЩЁННОГО ДИОКСИДА УРАНА (ENRICHED URANIUM DIOXIDE FUEL)"
+ },
+ {
+  "term": "ESCAPE VIA TRAIN",
+  "ru": "ЭВАКУАЦИЯ НА ПОЕЗДЕ (ESCAPE VIA TRAIN)"
+ },
+ {
+  "term": "Excess energy generated",
+  "ru": "Избыток вырабатываемой энергии (Excess energy generated)"
+ },
+ {
+  "term": "Excess Pressure Scenario",
+  "ru": "Сценарий избыточного давления (Excess Pressure Scenario)"
+ },
+ {
+  "term": "Extraction Flow",
+  "ru": "Выходной поток (Extraction Flow)"
+ },
+ {
+  "term": "Feedwater Control Valve",
+  "ru": "Регулирующий клапан питательной воды (Feedwater Control Valve)"
+ },
+ {
+  "term": "FEEDWATER LOOP",
+  "ru": "КОНТУР ПИТАТЕЛЬНОЙ ВОДЫ (FEEDWATER LOOP)"
+ },
+ {
+  "term": "Fission Product Xenon Activity",
+  "ru": "Активность ксенона как продукта деления (Fission Product Xenon Activity)"
+ },
+ {
+  "term": "FREIGHT PUMP IN PRIMARY LOOP",
+  "ru": "ГРУЗОВОЙ НАСОС ПЕРВОГО КОНТУРА (FREIGHT PUMP IN PRIMARY LOOP)"
+ },
+ {
+  "term": "FREIGHT PUMP IN SECONDAY LOOP",
+  "ru": "ГРУЗОВОЙ НАСОС ВТОРОГО КОНТУРА (FREIGHT PUMP IN SECONDARY LOOP)"
+ },
+ {
+  "term": "Frequency Synchronization",
+  "ru": "Синхронизация частоты (Frequency Synchronization)"
+ },
+ {
+  "term": "GENERATION AND DISTRIBUTION OF ELECTRICAL ENERGY",
+  "ru": "ВЫРАБОТКА И РАСПРЕДЕЛЕНИЕ ЭЛЕКТРОЭНЕРГИИ (GENERATION AND DISTRIBUTION OF ELECTRICAL ENERGY)"
+ },
+ {
+  "term": "GENERATOR TURBINES / ELECTRIC TURBINES",
+  "ru": "ГЕНЕРАТОРНЫЕ ТУРБИНЫ / ЭЛЕКТРИЧЕСКИЕ ТУРБИНЫ (GENERATOR TURBINES / ELECTRIC TURBINES)"
+ },
+ {
+  "term": "HALTING FUSION",
+  "ru": "ОСТАНОВКА РАСПЛАВЛЕНИЯ (HALTING FUSION)"
+ },
+ {
+  "term": "High-Pressure Turbines",
+  "ru": "Турбины высокого давления (High-Pressure Turbines)"
+ },
+ {
+  "term": "HIGH-PRESSURE TURBINES AND LOW- PRESSURE TURBINES",
+  "ru": "ТУРБИНЫ ВЫСОКОГО И НИЗКОГО ДАВЛЕНИЯ (HIGH-PRESSURE TURBINES AND LOW-PRESSURE TURBINES)"
+ },
+ {
+  "term": "Importance of Resistance Banks",
+  "ru": "Значение групп резисторов (Importance of Resistance Banks)"
+ },
+ {
+  "term": "Integration with the Electrical Grid",
+  "ru": "Подключение к энергосети (Integration with the Electrical Grid)"
+ },
+ {
+  "term": "Iodine Concentration Monitor",
+  "ru": "Монитор концентрации йода (Iodine Concentration Monitor)"
+ },
+ {
+  "term": "License Recovery",
+  "ru": "Восстановление лицензии (License Recovery)"
+ },
+ {
+  "term": "Low-Pressure Turbines",
+  "ru": "Турбины низкого давления (Low-Pressure Turbines)"
+ },
+ {
+  "term": "MAINTENANCE AND REPAIRS",
+  "ru": "ОБСЛУЖИВАНИЕ И РЕМОНТ (MAINTENANCE AND REPAIRS)"
+ },
+ {
+  "term": "MAINTENANCE OF CIRCULATION PUMPS",
+  "ru": "ОБСЛУЖИВАНИЕ ЦИРКУЛЯЦИОННЫХ НАСОСОВ (MAINTENANCE OF CIRCULATION PUMPS)"
+ },
+ {
+  "term": "Maximum Mode",
+  "ru": "Максимальный режим (Maximum Mode)"
+ },
+ {
+  "term": "MEASURING THE CORE TEMPERATURE",
+  "ru": "ИЗМЕРЕНИЕ ТЕМПЕРАТУРЫ АКТИВНОЙ ЗОНЫ (MEASURING THE CORE TEMPERATURE)"
+ },
+ {
+  "term": "MEASURING THE TEMPERATURE OF A CONTAINER",
+  "ru": "ИЗМЕРЕНИЕ ТЕМПЕРАТУРЫ В ЁМКОСТИ (MEASURING THE TEMPERATURE OF A CONTAINER)"
+ },
+ {
+  "term": "Minimum Service Level",
+  "ru": "Минимальный уровень обслуживания (Minimum Service Level)"
+ },
+ {
+  "term": "Moderation and Control",
+  "ru": "Замедление и регулирование (Moderation and Control)"
+ },
+ {
+  "term": "Nominal Mode",
+  "ru": "Номинальный режим (Nominal Mode)"
+ },
+ {
+  "term": "Non-Compliance Consequences",
+  "ru": "Последствия несоблюдения (Non-Compliance Consequences)"
+ },
+ {
+  "term": "Nuclear Reactor Startup and Equilibrium Process",
+  "ru": "Пуск реактора и выход на равновесное состояние (Nuclear Reactor Startup and Equilibrium Process)"
+ },
+ {
+  "term": "OPERATING LICENSES",
+  "ru": "ЭКСПЛУАТАЦИОННЫЕ ЛИЦЕНЗИИ (OPERATING LICENSES)"
+ },
+ {
+  "term": "OPERATIONAL ASSISTANT",
+  "ru": "ОПЕРАЦИОННЫЙ ПОМОЩНИК (OPERATIONAL ASSISTANT)"
+ },
+ {
+  "term": "Operational Motive Steam Inlet Valve",
+  "ru": "Входной клапан рабочего пара (Operational Motive Steam Inlet Valve)"
+ },
+ {
+  "term": "PRESSURIZED WATER REACTOR (PWR)",
+  "ru": "РЕАКТОР С ВОДОЙ ПОД ДАВЛЕНИЕМ (PRESSURIZED WATER REACTOR, PWR)"
+ },
+ {
+  "term": "PRESSURIZER",
+  "ru": "КОМПЕНСАТОР ДАВЛЕНИЯ (PRESSURIZER)"
+ },
+ {
+  "term": "Pressurizer Behavior",
+  "ru": "Поведение компенсатора давления (Pressurizer Behavior)"
+ },
+ {
+  "term": "Pressurizer Control Panel Diagram",
+  "ru": "Схема панели управления компенсатора давления (Pressurizer Control Panel Diagram)"
+ },
+ {
+  "term": "Pressurizer Pressure Relief Valve (PRV)",
+  "ru": "Предохранительный клапан компенсатора давления (Pressurizer Pressure Relief Valve, PRV)"
+ },
+ {
+  "term": "Pressurizer Spray Valve",
+  "ru": "Распылительный клапан компенсатора давления (Pressurizer Spray Valve)"
+ },
+ {
+  "term": "PRIMARY LOOP (LOOP 1)",
+  "ru": "ПЕРВЫЙ КОНТУР (КОНТУР 1) (PRIMARY LOOP / LOOP 1)"
+ },
+ {
+  "term": "PRIMARY, SECONDARY COOLING AND FEEDWATER LOOP",
+  "ru": "ПЕРВЫЙ, ВТОРОЙ КОНТУРЫ ОХЛАЖДЕНИЯ И КОНТУР ПИТАТЕЛЬНОЙ ВОДЫ (PRIMARY, SECONDARY COOLING AND FEEDWATER LOOP)"
+ },
+ {
+  "term": "PROCEDURE: FUEL LOADING",
+  "ru": "ПРОЦЕДУРА: ЗАГРУЗКА ТОПЛИВА (PROCEDURE: FUEL LOADING)"
+ },
+ {
+  "term": "PROCEDURE: FUEL UNLOADING",
+  "ru": "ПРОЦЕДУРА: ВЫГРУЗКА ТОПЛИВА (PROCEDURE: FUEL UNLOADING)"
+ },
+ {
+  "term": "PROCEDURE: SHUTDOWN",
+  "ru": "ПРОЦЕДУРА: ОСТАНОВ (PROCEDURE: SHUTDOWN)"
+ },
+ {
+  "term": "PROCEDURE: STABILIZATION",
+  "ru": "ПРОЦЕДУРА: СТАБИЛИЗАЦИЯ (PROCEDURE: STABILIZATION)"
+ },
+ {
+  "term": "PROCEDURE: STARTUP",
+  "ru": "ПРОЦЕДУРА: ПУСК (PROCEDURE: STARTUP)"
+ },
+ {
+  "term": "PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID",
+  "ru": "ПРОЦЕДУРА: СИНХРОНИЗАЦИЯ С ЭНЕРГОСЕТЬЮ (PROCEDURE: SYNCHRONIZING WITH ELECTRICAL GRID)"
+ },
+ {
+  "term": "REACTOR OPERATION MODES",
+  "ru": "РЕЖИМЫ РАБОТЫ РЕАКТОРА (REACTOR OPERATION MODES)"
+ },
+ {
+  "term": "Relationship between volume and pressure",
+  "ru": "Связь между объёмом и давлением (Relationship between volume and pressure)"
+ },
+ {
+  "term": "Resistance Banks",
+  "ru": "Группы резисторов (Resistance Banks)"
+ },
+ {
+  "term": "Retention Tank Vent Valve",
+  "ru": "Вентиляционный клапан накопительного бака (Retention Tank Vent Valve)"
+ },
+ {
+  "term": "Rewards for Compliance",
+  "ru": "Вознаграждение за соблюдение (Rewards for Compliance)"
+ },
+ {
+  "term": "Safety Relief Valve",
+  "ru": "Предохранительный клапан (Safety Relief Valve)"
+ },
+ {
+  "term": "SECONDARY LOOP (LOOP 2)",
+  "ru": "ВТОРОЙ КОНТУР (КОНТУР 2) (SECONDARY LOOP / LOOP 2)"
+ },
+ {
+  "term": "Shutdown Mode",
+  "ru": "Режим останова (Shutdown Mode)"
+ },
+ {
+  "term": "Shutdown Permission",
+  "ru": "Разрешение на останов (Shutdown Permission)"
+ },
+ {
+  "term": "Startup Motive Steam Inlet Valve",
+  "ru": "Входной клапан пускового пара (Startup Motive Steam Inlet Valve)"
+ },
+ {
+  "term": "Startup Permission",
+  "ru": "Разрешение на пуск (Startup Permission)"
+ },
+ {
+  "term": "STEAM GENERATOR",
+  "ru": "ПАРОГЕНЕРАТОР (STEAM GENERATOR)"
+ },
+ {
+  "term": "STEAM IN THE PRIMARY CIRCUIT",
+  "ru": "ПАР В ПЕРВОМ КОНТУРЕ (STEAM IN THE PRIMARY CIRCUIT)"
+ },
+ {
+  "term": "Steam Outlet Valve",
+  "ru": "Выходной клапан пара (Steam Outlet Valve)"
+ },
+ {
+  "term": "Suction Intake Valve",
+  "ru": "Всасывающий впускной клапан (Suction Intake Valve)"
+ },
+ {
+  "term": "SYNCHRONIZATION OF TURBINE-GENERATED ENERGY",
+  "ru": "СИНХРОНИЗАЦИЯ ЭНЕРГИИ, ВЫРАБАТЫВАЕМОЙ ТУРБИНАМИ (SYNCHRONIZATION OF TURBINE-GENERATED ENERGY)"
+ },
+ {
+  "term": "Synchronization with the Grid",
+  "ru": "Синхронизация с энергосетью (Synchronization with the Grid)"
+ },
+ {
+  "term": "SYNCHRONOSCOPE IMPLEMENTATION",
+  "ru": "ПРИМЕНЕНИЕ СИНХРОНОСКОПА (SYNCHRONOSCOPE IMPLEMENTATION)"
+ },
+ {
+  "term": "Synchronous Generator",
+  "ru": "Синхронный генератор (Synchronous Generator)"
+ },
+ {
+  "term": "TABLET OPERATIONS",
+  "ru": "ОПЕРАЦИИ С ПЛАНШЕТОМ (TABLET OPERATIONS)"
+ },
+ {
+  "term": "Tolerance Threshold",
+  "ru": "Порог терпимости (Tolerance Threshold)"
+ },
+ {
+  "term": "Vacuum Circuit Valves",
+  "ru": "Клапаны вакуумного контура (Vacuum Circuit Valves)"
+ },
+ {
+  "term": "Variations in power during reactor operation",
+  "ru": "Изменения мощности при работе реактора (Variations in power during reactor operation)"
+ },
+ {
+  "term": "Voltage Adjustment",
+  "ru": "Регулирование напряжения (Voltage Adjustment)"
+ },
+ {
+  "term": "Warning Alerts",
+  "ru": "Предупредительные оповещения (Warning Alerts)"
+ },
+ {
+  "term": "Xenon Concentration Monitor",
+  "ru": "Монитор концентрации ксенона (Xenon Concentration Monitor)"
+ }
+]

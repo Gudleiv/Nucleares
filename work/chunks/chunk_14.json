@@ -1,0 +1,806 @@
+[
+ {
+  "id": 2199,
+  "type": "heading",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|Observation of the Synchronoscope}"
+ },
+ {
+  "id": 2200,
+  "type": "body",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|Observe the synchronoscope's speed lights. They should be rotating either to the left (slow synchronization) or to the right (fast synchronization).}"
+ },
+ {
+  "id": 2203,
+  "type": "body",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|1. Press the \"RPM Raise\" and}"
+ },
+ {
+  "id": 2204,
+  "type": "body",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|\"RPM Lower\" buttons on the synchronoscope, until the synchronoscope's light remains fixed at}"
+ },
+ {
+  "id": 2205,
+  "type": "body",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|position 0.}"
+ },
+ {
+  "id": 2207,
+  "type": "body",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|2. Confirm that the synchronization light has turned on, indicating that}"
+ },
+ {
+  "id": 2208,
+  "type": "body",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|the turbine is synchronized with the electrical grid.}"
+ },
+ {
+  "id": 2210,
+  "type": "heading",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|Parameter Verification}"
+ },
+ {
+  "id": 2211,
+  "type": "body",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|Once synchronized, check the}{1|Hertz}{2|and}{3|Voltage}{4|on the panel. The electrical grid operates at a specific frequency. To synchronize with the grid, the turbine's rotational speed, measured in RPM, must match this frequency. Adjusting the RPM allows operators to fine-tune the turbine's speed for synchronization.}"
+ },
+ {
+  "id": 2212,
+  "type": "body",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|If it's necessary to increase the}{1|Hertz}{2|, press \"RPM Raise\" button. If it's necessary to decrease them, press \"RPM Lower\" button.}"
+ },
+ {
+  "id": 2213,
+  "type": "body",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|Maintaining voltage stability is crucial for the overall stability of the electrical grid. The \"Field Excitation Voltage Raise\" button increases the magnetic field strength in the generator, raising the voltage output. Conversely, the \"Field Excitation Voltage Lower\" button decreases the field strength, lowering the voltage.}"
+ },
+ {
+  "id": 2214,
+  "type": "body",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|These adjustments help keep the turbine's voltage in sync with the grid, contributing to stable power delivery. Overvoltage or undervoltage conditions can lead to equipment damage and power quality issues.}"
+ },
+ {
+  "id": 2215,
+  "type": "body",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|If it´s necessary to increase the}{1|Voltage}{2|, press \"Field Excitation Voltage Raise\" button. If it´s necessary to decrease the}{3|Voltage}{4|, press \"Field Excitation Voltage Lower\" button.}"
+ },
+ {
+  "id": 2218,
+  "type": "heading",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|Secure Connection to the Grid}"
+ },
+ {
+  "id": 2220,
+  "type": "body",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|1. When all parameters are synchronized, press \"}{1|Circuit Breaker}"
+ },
+ {
+  "id": 2221,
+  "type": "body",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|Close}{1|\" to connect the turbine to the electrical grid. The circuit breaker acts as a switch that allows or interrupts the flow of electricity between the turbine and the grid. Closing the circuit breaker enables the seamless integration of the turbine into the electrical grid, ensuring a controlled and stable connection.}"
+ },
+ {
+  "id": 2223,
+  "type": "body",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|2. The turbine is now ready to deliver power safely and efficiently.}"
+ },
+ {
+  "id": 2224,
+  "type": "body",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|With the circuit breaker closed, the turbine is seamlessly integrated into the electrical grid. The compatibility achieved during synchronization allows for the safe and reliable transfer of electrical power between the turbine and the grid.}"
+ },
+ {
+  "id": 2225,
+  "type": "body",
+  "section": "Observation of the Synchronoscope",
+  "s": "{0|In summary, pressing \"Circuit Breaker Close\" when all parameters are synchronized is a critical step to safely and effectively integrate the turbine with the electrical grid. It ensures a controlled connection, prevents power disturbances, and supports the overall stability and reliability of the power generation system.}"
+ },
+ {
+  "id": 2226,
+  "type": "heading",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|PROCEDURE: FUEL LOADING}"
+ },
+ {
+  "id": 2229,
+  "type": "body",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|To safely load a fuel block into the reactor core, follow these steps:}"
+ },
+ {
+  "id": 2231,
+  "type": "body",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|1.}{1|Verify Coolant Level:}{2|Check that the coolant level in the external}"
+ },
+ {
+  "id": 2232,
+  "type": "body",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|vessel is below the safe threshold. If the level is too high, use the water pump to lower it until it is within the acceptable range. This ensures that opening the hatch will not introduce coolant into the safety compartment.}"
+ },
+ {
+  "id": 2233,
+  "type": "body",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|2.}{1|Select the Fuel Bay:}{2|Use the}{3|numeric keypad}{4|on the control panel}"
+ },
+ {
+  "id": 2234,
+  "type": "body",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|to select the bay where the fuel block will be loaded. Confirm the selected bay by checking the white arrow indicator on the panel.}"
+ },
+ {
+  "id": 2235,
+  "type": "body",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|3.}{1|Isolate the Bay:}{2|Execute the}{3|Isolate Bay}{4|command. This will move}"
+ },
+ {
+  "id": 2236,
+  "type": "body",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|the safety piston upward, ensuring that the safety zone is sealed and ready for fuel handling.}"
+ },
+ {
+  "id": 2237,
+  "type": "body",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|4.}{1|Open the Hatch:}{2|Use the}{3|Open Hatch}{4|command to unlock and}"
+ },
+ {
+  "id": 2238,
+  "type": "body",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|open the hatch of the selected bay. This allows access to the safe zone for fuel loading.}"
+ },
+ {
+  "id": 2239,
+  "type": "body",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|5.}{1|Load the Fuel Block:}{2|Open the}{3|Operational Actions App}{4|on your}"
+ },
+ {
+  "id": 2240,
+  "type": "body",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|tablet and select the command to load a fuel block. The system will place the block into the safety zone of the selected bay.}"
+ },
+ {
+  "id": 2241,
+  "type": "body",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|6.}{1|Close the Hatch:}{2|Once the fuel block is loaded, use the}{3|Close}"
+ },
+ {
+  "id": 2242,
+  "type": "body",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|Hatch}{1|command to secure the bay. This step ensures that the compartment is sealed for safe operation.}"
+ },
+ {
+  "id": 2243,
+  "type": "body",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|7.}{1|Unisolate the Bay:}{2|Execute the}{3|Unisolate Bay}{4|command to lower}"
+ },
+ {
+  "id": 2244,
+  "type": "body",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|the safety piston, moving the fuel block from the safe zone to the decomposition zone. At this point, the block's seal will break, and nuclear fission will commence, generating energy.}"
+ },
+ {
+  "id": 2245,
+  "type": "body",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|Important Notes:}"
+ },
+ {
+  "id": 2246,
+  "type": "bullet",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|Always verify the coolant level before opening any hatch to prevent contamination or operational hazards.}"
+ },
+ {
+  "id": 2247,
+  "type": "bullet",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|Confirm the selected bay before issuing commands to avoid accidental operations on the wrong compartment.}"
+ },
+ {
+  "id": 2248,
+  "type": "bullet",
+  "section": "PROCEDURE: FUEL LOADING",
+  "s": "{0|Once the fuel block enters the decomposition zone, it becomes active and contributes to the reactor's energy generation. Handle these steps with precision to ensure the reactor operates efficiently and safely.}"
+ },
+ {
+  "id": 2250,
+  "type": "heading",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|PROCEDURE: FUEL UNLOADING}"
+ },
+ {
+  "id": 2251,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|To safely remove or dispose of a spent fuel block from the reactor core, follow these steps:}"
+ },
+ {
+  "id": 2252,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|1.}{1|Verify Coolant Level:}{2|Ensure the coolant level in the external vessel}"
+ },
+ {
+  "id": 2253,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|is below the safe threshold. If the level is too high, use the water pump to reduce it until it is within the acceptable range. This prevents coolant from entering the safety compartment when the hatch is opened.}"
+ },
+ {
+  "id": 2254,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|2.}{1|Select the Fuel Bay:}{2|Use the}{3|numeric keypad}{4|on the control panel to}"
+ },
+ {
+  "id": 2255,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|select the bay from which the fuel block will be removed. Verify the selection by checking the white arrow indicator on the panel.}"
+ },
+ {
+  "id": 2256,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|3.}{1|Isolate the Bay:}{2|Execute the}{3|Isolate Bay}{4|command. This will move}"
+ },
+ {
+  "id": 2257,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|the safety piston upward, transporting the fuel block from the decomposition zone to the safe zone.}"
+ },
+ {
+  "id": 2258,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|4.}{1|Open the Hatch:}{2|Use the}{3|Open Hatch}{4|command to unlock and open}"
+ },
+ {
+  "id": 2259,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|the hatch of the selected bay. This provides access to the safe zone for fuel removal.}"
+ },
+ {
+  "id": 2260,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|5.}{1|Remove the Fuel Block:}{2|Open the}{3|Operational Actions App}{4|on your}"
+ },
+ {
+  "id": 2261,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|tablet and select the command to remove the fuel block. The system will transfer the block out of the bay for proper disposal or storage.}"
+ },
+ {
+  "id": 2262,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|6.}{1|Close the Hatch:}{2|After the block is removed, use the}{3|Close Hatch}"
+ },
+ {
+  "id": 2263,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|command to securely seal the bay. This step prepares the compartment for future operations.}"
+ },
+ {
+  "id": 2264,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|7.}{1|Unisolate the Bay (if necessary):}{2|If the bay remains in active use,}"
+ },
+ {
+  "id": 2265,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|execute the}{1|Unisolate Bay}{2|command to lower the safety piston back to the decomposition zone. Otherwise, keep the bay isolated until required.}"
+ },
+ {
+  "id": 2267,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|Additional Conditions for Fuel Unloading}"
+ },
+ {
+  "id": 2268,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|To safely move a fuel block from the decomposition zone to the safe zone, the following conditions must be met:}"
+ },
+ {
+  "id": 2269,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|1.}{1|Temperature Below Safe Extraction Threshold:}{2|The fuel block must}"
+ },
+ {
+  "id": 2270,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|have a temperature lower than the}{1|safe extraction temperature}{2|, typically set at}{3|300°C}{4|. If the block exceeds this temperature, the unloading procedure cannot proceed until it cools to an acceptable level.}"
+ },
+ {
+  "id": 2271,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|2.}{1|Block Integrity:}{2|If the fuel block has been exposed to extreme}"
+ },
+ {
+  "id": 2272,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|temperatures well beyond operational limits, it may become}{1|deformed}{2|. A deformed block cannot be moved due to the risk of structural failure or mechanical damage to the bay.}"
+ },
+ {
+  "id": 2273,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|3.}{1|Maintenance Required for Deformed Blocks:}{2|In cases where a block}"
+ },
+ {
+  "id": 2274,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|is deformed, unloading is only possible after shutting down the reactor and performing maintenance tasks.}"
+ },
+ {
+  "id": 2276,
+  "type": "body",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|Important Notes:}"
+ },
+ {
+  "id": 2277,
+  "type": "bullet",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|Ensure the external coolant level is within the safe range before opening any hatch to avoid contamination or operational risks.}"
+ },
+ {
+  "id": 2278,
+  "type": "bullet",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|Always confirm the selected bay before issuing commands to prevent accidental operations on the wrong compartment.}"
+ },
+ {
+  "id": 2279,
+  "type": "bullet",
+  "section": "PROCEDURE: FUEL UNLOADING",
+  "s": "{0|Proper handling and disposal of spent fuel blocks are critical for reactor safety and efficiency. Ensure all procedures comply with operational safety standards.}"
+ },
+ {
+  "id": 2281,
+  "type": "heading",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|OPERATIONAL ASSISTANT}"
+ },
+ {
+  "id": 2282,
+  "type": "body",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|The Operational Assistant (AO) is prepared to always assist the operator of the nuclear plant. It is an autonomous unit of help and operational assistance:}"
+ },
+ {
+  "id": 2284,
+  "type": "bullet",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|Status report and warnings.}"
+ },
+ {
+  "id": 2285,
+  "type": "bullet",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|General maintenance analysis.}"
+ },
+ {
+  "id": 2286,
+  "type": "bullet",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|Maintenance and repair tasks.}"
+ },
+ {
+  "id": 2287,
+  "type": "bullet",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|Assistance in operational protocols.}"
+ },
+ {
+  "id": 2288,
+  "type": "bullet",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|Verification, adjustment, and control}"
+ },
+ {
+  "id": 2289,
+  "type": "body",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|of operating parameters (on demand).}"
+ },
+ {
+  "id": 2290,
+  "type": "body",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|AO can be controlled through the operating Tablet of the plant operator, and from this tablet it will be possible to know the location of AO, the battery level, the command it is executing and the active operational tasks.}"
+ },
+ {
+  "id": 2291,
+  "type": "body",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|To activate the working tablet, press the [TAB] key at any time.}"
+ },
+ {
+  "id": 2294,
+  "type": "heading",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|About AO autonomy}"
+ },
+ {
+  "id": 2295,
+  "type": "body",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|The Operating Assistant uses a rechargeable battery to be able to move freely through the plant. Although the battery is long-lasting, and has between 8 and 10 hours of autonomy, it will require resting in the charging bay to recharge. During the reload time, AO will not respond to any commands.}"
+ },
+ {
+  "id": 2298,
+  "type": "heading",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|Status report and warnings}"
+ },
+ {
+  "id": 2299,
+  "type": "body",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|During plant operation, situations may arise that will require the immediate attention of the Plant Operator. If this were the case, AO will automatically intervene to warn or suggest the best plan of action.}"
+ },
+ {
+  "id": 2301,
+  "type": "heading",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|General maintenance analysis}"
+ },
+ {
+  "id": 2302,
+  "type": "body",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|One of the main tasks of AO is the analysis of the situation of the plant. By starting the \"Preventive Maintenance Analysis\" command, AO will walk through the entire plant and analyze each component. At the end, it will prepare the maintenance report, with the details of each element analyzed. The maintenance report is the main tool of the Plant Operator to plan maintenance and repair tasks.}"
+ },
+ {
+  "id": 2304,
+  "type": "heading",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|Maintenance and repair tasks}"
+ },
+ {
+  "id": 2305,
+  "type": "body",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|Daily maintenance tasks are crucial for safe operation. Based on the maintenance report generated by AO, the Plant Operator will be able to plan and order maintenance tasks. When initiating the \"Start Maintenance Tasks\" command, AO will perform the necessary tasks on each selected item.}"
+ },
+ {
+  "id": 2307,
+  "type": "heading",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|Assistance in operational protocols}"
+ },
+ {
+  "id": 2308,
+  "type": "body",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|If necessary, the Plant Operator may request assistance to receive help or carry out the main protocols of plant operation:}"
+ },
+ {
+  "id": 2310,
+  "type": "bullet",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|Help with Active Alarms}"
+ },
+ {
+  "id": 2312,
+  "type": "bullet",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|Reactor start-up protocol}"
+ },
+ {
+  "id": 2314,
+  "type": "bullet",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|Stabilization Protocol}"
+ },
+ {
+  "id": 2316,
+  "type": "heading",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|Verification, adjustment, and control of operating parameters}"
+ },
+ {
+  "id": 2317,
+  "type": "body",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|Although AO does not have permission to take full control of the reactor, it can verify and control some subsystems, such as the Pressurizer or stabilization through Control Rods. Operational skills are not an initial part of AO and must be acquired separately through Prestige Points.}"
+ },
+ {
+  "id": 2318,
+  "type": "body",
+  "section": "OPERATIONAL ASSISTANT",
+  "s": "{0|The Operating Assistant can execute up to two or more operating tasks simultaneously, but if he receives another type of command from the Plant Operator, all operational control tasks will be suspended and will once again be the responsibility of the Plant Operator.}"
+ },
+ {
+  "id": 2320,
+  "type": "heading",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|TABLET OPERATIONS}"
+ },
+ {
+  "id": 2321,
+  "type": "body",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|To enhance your control and management experience, you have access to a tablet within the game. This tablet features various applications designed to assist you in efficiently operating and maintaining your nuclear power plant.}"
+ },
+ {
+  "id": 2324,
+  "type": "bullet",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|Operating Assistant:}{1|Use this app to control the Operational Assistant (AO), overseeing its tasks and activities.}"
+ },
+ {
+  "id": 2326,
+  "type": "bullet",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|Maintenance Report:}{1|Check the results of maintenance reports generated by the AO to stay informed about the plant's condition.}"
+ },
+ {
+  "id": 2328,
+  "type": "bullet",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|Objectives:}{1|View active objectives and review historical records of achieved and failed objectives.}"
+ },
+ {
+  "id": 2330,
+  "type": "bullet",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|Select Maintenance Tasks:}{1|Choose maintenance tasks for the AO based on the previously generated maintenance report.}"
+ },
+ {
+  "id": 2332,
+  "type": "bullet",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|Supplies and Spare Parts:}{1|Purchase plant supplies, spare parts, and consumables to keep your plant running smoothly.}"
+ },
+ {
+  "id": 2334,
+  "type": "bullet",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|Logistics and Deliveries:}{1|Monitor logistics status and delivery times for purchased supplies and spare parts.}"
+ },
+ {
+  "id": 2336,
+  "type": "bullet",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|Service Compliance:}{1|Check the level of service compliance, view historical data, and ensure optimal plant performance.}"
+ },
+ {
+  "id": 2338,
+  "type": "bullet",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|Machines and Upgrades:}{1|Explore installed machines, make decisions to sell, remove, or upgrade them to enhance efficiency.}"
+ },
+ {
+  "id": 2340,
+  "type": "bullet",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|Marketplace:}{1|Access the marketplace to buy new machines and equipment for your power plant.}"
+ },
+ {
+  "id": 2342,
+  "type": "bullet",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|Wiki:}{1|Utilize the internal wiki for valuable in-game information and tips.}"
+ },
+ {
+  "id": 2344,
+  "type": "bullet",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|Status:}{1|Keep track of real-time status updates on key reactor variables.}"
+ },
+ {
+  "id": 2346,
+  "type": "bullet",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|Help:}{1|Access the in-game help section to find assistance and guidance.}"
+ },
+ {
+  "id": 2348,
+  "type": "bullet",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|Bank:}{1|Visit the virtual bank to request loans and manage your financial resources.}"
+ },
+ {
+  "id": 2350,
+  "type": "bullet",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|Audits:}{1|Access detailed audit reports to ensure the plant's compliance with safety and operational standards.}"
+ },
+ {
+  "id": 2352,
+  "type": "bullet",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|Alarms Calibration:}{1|Customize alarm ranges according to your preferences using this configurator.}"
+ },
+ {
+  "id": 2354,
+  "type": "body",
+  "section": "TABLET OPERATIONS",
+  "s": "{0|Ensure to make the most of these applications on your tablet to run a successful and efficient nuclear power plant.}"
+ },
+ {
+  "id": 2356,
+  "type": "heading",
+  "section": "CORE FUSION SEQUENCE",
+  "s": "{0|CORE FUSION SEQUENCE}"
+ },
+ {
+  "id": 2357,
+  "type": "body",
+  "section": "CORE FUSION SEQUENCE",
+  "s": "{0|In the event of a core fusion, a countdown timer will appear on the screen. Upon reaching zero, the core fusion process will be complete. Players will then face a critical decision with two options: attempting to halt the fusion or escaping via the train.}"
+ },
+ {
+  "id": 2359,
+  "type": "heading",
+  "section": "CORE FUSION SEQUENCE",
+  "s": "{0|Countdown Initiation}"
+ },
+ {
+  "id": 2360,
+  "type": "body",
+  "section": "CORE FUSION SEQUENCE",
+  "s": "{0|When the core fusion is triggered, a countdown timer is displayed, indicating the time remaining until the fusion process concludes.}"
+ },
+ {
+  "id": 2361,
+  "type": "heading",
+  "section": "CORE FUSION SEQUENCE",
+  "s": "{0|Decision Point}"
+ },
+ {
+  "id": 2362,
+  "type": "body",
+  "section": "CORE FUSION SEQUENCE",
+  "s": "{0|As the countdown progresses, players must decide between two options:}"
+ },
+ {
+  "id": 2363,
+  "type": "body",
+  "section": "CORE FUSION SEQUENCE",
+  "s": "{0|1.}{1|Attempt to Halt Fusion:}{2|Choosing this option involves engaging in a}"
+ },
+ {
+  "id": 2364,
+  "type": "body",
+  "section": "CORE FUSION SEQUENCE",
+  "s": "{0|challenging mini-game or series of tasks to reverse the fusion process. Success results in a prestige point reward and a bonus for all repairs conducted during the fusion event.}"
+ },
+ {
+  "id": 2366,
+  "type": "body",
+  "section": "CORE FUSION SEQUENCE",
+  "s": "{0|2.}{1|Escape via Train:}{2|Opting to escape via the train initiates a new game}"
+ },
+ {
+  "id": 2367,
+  "type": "body",
+  "section": "CORE FUSION SEQUENCE",
+  "s": "{0|with 50% of the player's points, experience, and level. This choice allows for a fresh start but with reduced progress.}"
+ },
+ {
+  "id": 2369,
+  "type": "heading",
+  "section": "HALTING FUSION",
+  "s": "{0|HALTING FUSION}"
+ },
+ {
+  "id": 2370,
+  "type": "body",
+  "section": "HALTING FUSION",
+  "s": "{0|If the player chooses to attempt to halt the fusion, they will face a mini-game that challenges their skills. Successful completion of the mini-game results in a reversal of the fusion process.}"
+ },
+ {
+  "id": 2373,
+  "type": "body",
+  "section": "HALTING FUSION",
+  "s": "{0|To successfully complete the mini game during the core fission sequence, players must achieve at least two out of the following three achievements:}"
+ },
+ {
+  "id": 2374,
+  "type": "body",
+  "section": "HALTING FUSION",
+  "s": "{0|1.}{1|Manual Control Rod Insertion:}{2|Successfully introducing all control}"
+ },
+ {
+  "id": 2375,
+  "type": "body",
+  "section": "HALTING FUSION",
+  "s": "{0|rods manually using the operational crane, with a minimum number of control rods remaining undamaged.}"
+ },
+ {
+  "id": 2377,
+  "type": "body",
+  "section": "HALTING FUSION",
+  "s": "{0|Players must manually operate the crane to introduce all control rods into the core. The challenge lies in ensuring precision and minimizing damage to the control rods during the insertion process.}"
+ },
+ {
+  "id": 2378,
+  "type": "body",
+  "section": "HALTING FUSION",
+  "s": "{0|2.}{1|Fuel Block Extraction and Storage:}{2|Accomplishing the extraction of}"
+ },
+ {
+  "id": 2379,
+  "type": "body",
+  "section": "HALTING FUSION",
+  "s": "{0|the fuel block and securely storing it in a final disposal capsule.}"
+ },
+ {
+  "id": 2381,
+  "type": "body",
+  "section": "HALTING FUSION",
+  "s": "{0|3.}{1|Actual Fuel Temperature Reduction:}{2|Successfully reducing the}"
+ },
+ {
+  "id": 2382,
+  "type": "body",
+  "section": "HALTING FUSION",
+  "s": "{0|actual temperature of the fuel during the fission sequence.}"
+ },
+ {
+  "id": 2384,
+  "type": "body",
+  "section": "HALTING FUSION",
+  "s": "{0|Meeting the requirements of at least two out of the three achievements demonstrates the player's proficiency in managing critical aspects of the core fission sequence. It ensures a successful outcome in the mini-game, contributing to the prevention of catastrophic consequences.}"
+ },
+ {
+  "id": 2386,
+  "type": "heading",
+  "section": "HALTING FUSION",
+  "s": "{0|Points and Prestige Reward}"
+ },
+ {
+  "id": 2387,
+  "type": "body",
+  "section": "HALTING FUSION",
+  "s": "{0|Successfully reversing the fusion not only prevents catastrophic consequences but also rewards the player with prestige points and a bonus for all repairs conducted during the fusion event.}"
+ }
+]

@@ -1,0 +1,608 @@
+[
+ {
+  "id": 812,
+  "type": "heading",
+  "section": "Indicators and controls in the game",
+  "s": "{0|Indicators and controls in the game}"
+ },
+ {
+  "id": 813,
+  "type": "heading",
+  "section": "Indicators and controls in the game",
+  "s": "{0|Fission Product Xenon Activity}"
+ },
+ {
+  "id": 814,
+  "type": "body",
+  "section": "Indicators and controls in the game",
+  "s": "{0|Radioactive activity of the xenon isotopes that are fission products from the nuclear fission of fuel in the reactor. The fission rate occurring in the reactor and the production of}"
+ },
+ {
+  "id": 815,
+  "type": "body",
+  "section": "Indicators and controls in the game",
+  "s": "{0|fission products. As the Xenon generation increases, the indicator will move to the red zone.}"
+ },
+ {
+  "id": 818,
+  "type": "heading",
+  "section": "Indicators and controls in the game",
+  "s": "{0|Xenon Concentration Monitor}"
+ },
+ {
+  "id": 819,
+  "type": "body",
+  "section": "Indicators and controls in the game",
+  "s": "{0|Measures the actual concentration levels of xenon isotopes, present in the reactor coolant and off-gas systems. Indicates the amount of Xenon inside the core in relation to the total capacity. Too high a value could indicate rector poisoning.}"
+ },
+ {
+  "id": 820,
+  "type": "body",
+  "section": "Indicators and controls in the game",
+  "s": "{0|One crucial aspect of xenon concentration is its effect on reactor operation, particularly its potential to cause reactor poisoning. Xenon is a strong neutron absorber, meaning it readily captures neutrons, which are crucial for sustaining the chain reaction within the reactor core. When xenon concentration increases, can absorb a significant portion of the neutrons, leading to a decrease in reactor power output. This buildup can occur because xenon is continuously being produced by fission reactions, while its decay is slower due to its short half-life.}"
+ },
+ {
+  "id": 821,
+  "type": "body",
+  "section": "Indicators and controls in the game",
+  "s": "{0|If the xenon concentration becomes too high, it can lead to reactor shutdown or instability. This phenomenon is known as xenon transients. During transient conditions, such as changes in reactor power level or reactor startup from shutdown, the xenon concentration can change rapidly, impacting reactor reactivity and stability.}"
+ },
+ {
+  "id": 823,
+  "type": "heading",
+  "section": "Indicators and controls in the game",
+  "s": "{0|Dissolved Gamma Iodine Activity}"
+ },
+ {
+  "id": 824,
+  "type": "body",
+  "section": "Indicators and controls in the game",
+  "s": "{0|Measures the radioactive gamma activity of iodine isotopes dissolved in the reactor coolant and primary coolant system. These iodine isotopes are fission products generated during the nuclear fission process in the reactor core.}"
+ },
+ {
+  "id": 827,
+  "type": "heading",
+  "section": "Iodine Concentration Monitor",
+  "s": "{0|Iodine Concentration Monitor}"
+ },
+ {
+  "id": 828,
+  "type": "body",
+  "section": "Iodine Concentration Monitor",
+  "s": "{0|Measures the actual concentration levels of iodine isotopes present in the reactor coolant or off-gas systems. Specifically quantifies the amount or concentration of these iodine atoms in the various systems.}"
+ },
+ {
+  "id": 833,
+  "type": "heading",
+  "section": "Iodine Concentration Monitor",
+  "s": "{0|Control Panel | Chemical Treatments}"
+ },
+ {
+  "id": 834,
+  "type": "body",
+  "section": "Iodine Concentration Monitor",
+  "s": "{0|Within the control panel located in the control room, you will find the following elements:}"
+ },
+ {
+  "id": 835,
+  "type": "bullet",
+  "section": "Iodine Concentration Monitor",
+  "s": "{0|Boric Acid Dosing Pump: This pump indicates the amount of boric acid to be supplied. The unit is grams per minute, based on the concentration of the acid. Note that boric acid is a liquid, therefore, there must be space within the primary circuit to add the necessary amount of liquid to reach the required grams.}"
+ },
+ {
+  "id": 837,
+  "type": "bullet",
+  "section": "Iodine Concentration Monitor",
+  "s": "{0|Boric Acid Filtration Pump: This pump redirects the coolant from the primary circuit to an ion exchange column to extract boron. Note that the extraction of boron from the coolant does not reduce the total volume, as it is a filtration process.}"
+ },
+ {
+  "id": 839,
+  "type": "bullet",
+  "section": "Iodine Concentration Monitor",
+  "s": "{0|\"Ion Exchange Capacity\" Indicator: This indicator allows you to monitor the status of the ion exchange columns and their absorption capacity. The ion exchange columns require maintenance to function properly. If they accumulate too much boron, they will lose their absorption capacity. To clean the ion exchange columns, you must use sodium hydroxide.}"
+ },
+ {
+  "id": 840,
+  "type": "body",
+  "section": "Iodine Concentration Monitor",
+  "s": "{0|The valves connecting the primary circuit to the chemical treatment building are manual, therefore, to add boron, filter the added boron, or clean the ion exchange columns, you will need to adjust them manually.}"
+ },
+ {
+  "id": 842,
+  "type": "bullet",
+  "section": "Iodine Concentration Monitor",
+  "s": "{0|Coolant pH Level: This indicator provides information on the pH level of the primary circuit coolant. pH plays a crucial role in determining the absorption capacity of boron within the coolant. The optimal operating range for pH falls between 7 and 9. If the pH deviates from this range and becomes excessively acidic, it can lead to increased corrosion of the pipes and other components within the system.}"
+ },
+ {
+  "id": 844,
+  "type": "heading",
+  "section": "Iodine Concentration Monitor",
+  "s": "{0|Corrosion}"
+ },
+ {
+  "id": 845,
+  "type": "body",
+  "section": "Iodine Concentration Monitor",
+  "s": "{0|The presence of corrosion within the primary circuit pipes deteriorates their structural integrity over time. This deterioration occurs due to the gradual wearing away of the metal surfaces, leading to thinning and weakening of the pipes.}"
+ },
+ {
+  "id": 846,
+  "type": "body",
+  "section": "Iodine Concentration Monitor",
+  "s": "{0|As corrosion progresses, it can compromise the functionality of hydraulic valves and circulation pumps connected to the primary circuit. Corrosion may cause valve components to become stuck or malfunction, hindering their ability to control the flow of coolant effectively.}"
+ },
+ {
+  "id": 847,
+  "type": "body",
+  "section": "Iodine Concentration Monitor",
+  "s": "{0|Similarly, corrosion-related damage to circulation pumps can reduce their efficiency and reliability, potentially impeding the proper circulation of coolant throughout the reactor system.}"
+ },
+ {
+  "id": 848,
+  "type": "heading",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|CITY RELATIONSHIP | APPROVAL SYSTEM}"
+ },
+ {
+  "id": 852,
+  "type": "heading",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|Startup Permission}"
+ },
+ {
+  "id": 854,
+  "type": "body",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|Before initiating power generation, the plant must request permission from the city. The city has the authority to approve or deny the request based on various factors like energy demand, safety considerations, and environmental impact. The plant receives information on the approved start time.}"
+ },
+ {
+  "id": 856,
+  "type": "heading",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|Shutdown Permission}"
+ },
+ {
+  "id": 858,
+  "type": "body",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|Similarly, when the plant decides to shut down, it must request permission from the city. The city provides a specified time window during which the shutdown is allowed. The plant cannot shut down outside of this approved timeframe. The city reserves the right to deny the shutdown request, especially if there are critical energy needs or other factors.}"
+ },
+ {
+  "id": 860,
+  "type": "heading",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|Emergency Shutdown}"
+ },
+ {
+  "id": 862,
+  "type": "body",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|In case of an emergency shutdown, where the operator declares an urgent need to stop operations, the city will not deny the request. However, the city will schedule an audit to investigate the reasons for the emergency shutdown.}"
+ },
+ {
+  "id": 864,
+  "type": "heading",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|Strategic Planning}"
+ },
+ {
+  "id": 865,
+  "type": "body",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|Players need to strategically plan their power generation and shutdown times based on city approvals. Balancing energy demand, city needs, and potential emergency situations becomes a crucial aspect of the game.}"
+ },
+ {
+  "id": 869,
+  "type": "heading",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|City Relationship}"
+ },
+ {
+  "id": 871,
+  "type": "body",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|The player's relationship with the city evolves based on the number of approvals and emergency shutdowns. A positive relationship might result in faster approvals or additional benefits, while a negative relationship could lead to stricter conditions.}"
+ },
+ {
+  "id": 873,
+  "type": "body",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|Emergency situations can arise randomly or due to specific in-game events, keeping players on their toes. Successfully handling emergencies contributes to the city's trust, but frequent emergencies might raise concerns.}"
+ },
+ {
+  "id": 875,
+  "type": "body",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|it's crucial to understand that the distribution network can accommodate up to a 10% excess in power generation over the demand. However, exceeding this threshold could potentially initiate a deterioration of the distribution network. On average, if the excess is slightly above 10%, the city may tolerate this condition for a period ranging from 4 to 8 hours. However, if the excess reaches a significantly high peak, the damage to the distribution network can be almost immediate, resulting in a disconnection between the power plant and the city.}"
+ },
+ {
+  "id": 877,
+  "type": "heading",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|Tolerance Threshold}"
+ },
+ {
+  "id": 879,
+  "type": "body",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|The distribution network is designed to handle a certain level of excess power generation, up to 10% above the demand. This is to ensure a balanced and reliable power supply to the city.}"
+ },
+ {
+  "id": 881,
+  "type": "heading",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|Deterioration Risk}"
+ },
+ {
+  "id": 883,
+  "type": "body",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|Beyond the 10% threshold, there is a risk of deterioration in the distribution network. This could lead to instability, potential equipment damage, and a decrease in the overall reliability of the power supply. If the excess is moderately above 10%, the city can typically tolerate this condition for a limited time, ranging from 4 to 8 hours. During this period, efforts may be made to address the imbalance and prevent further network degradation. In cases of exceptionally high peaks more than the tolerance threshold, the damage to the distribution network may occur almost immediately. This could result in a rapid disconnection between the power plant and the city.}"
+ },
+ {
+  "id": 885,
+  "type": "heading",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|Warning Alerts}"
+ },
+ {
+  "id": 887,
+  "type": "body",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|The city may, if possible, send warning alerts to the power plant before proceeding with disconnection. These alerts serve as a proactive measure to address the excess generation and maintain network stability. However, in situations where the excess over the demand is extremely high, a disconnection may occur without warning. This is done to prevent severe damage to the distribution network and ensure the overall safety of the power supply system.}"
+ },
+ {
+  "id": 889,
+  "type": "heading",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|Collaborative Approach}"
+ },
+ {
+  "id": 891,
+  "type": "body",
+  "section": "CITY RELATIONSHIP | APPROVAL SYSTEM",
+  "s": "{0|It's essential for the power plant and the city to work collaboratively to monitor and manage power generation levels. Effective communication, timely responses to alerts, and adherence to established protocols contribute to maintaining a stable and reliable power distribution system.}"
+ },
+ {
+  "id": 892,
+  "type": "heading",
+  "section": "OPERATING LICENSES",
+  "s": "{0|OPERATING LICENSES}"
+ },
+ {
+  "id": 894,
+  "type": "heading",
+  "section": "OPERATING LICENSES",
+  "s": "{0|Minimum Service Level}"
+ },
+ {
+  "id": 896,
+  "type": "body",
+  "section": "OPERATING LICENSES",
+  "s": "{0|The city sets a minimum service level that the player must maintain to retain their licenses. Failure to meet this minimum service level results in the loss of licenses. The service level could be based on factors like energy output, environmental impact, or safety measures.}"
+ },
+ {
+  "id": 901,
+  "type": "heading",
+  "section": "OPERATING LICENSES",
+  "s": "{0|Auditor Anomalies}"
+ },
+ {
+  "id": 903,
+  "type": "body",
+  "section": "OPERATING LICENSES",
+  "s": "{0|During audits following emergency shutdowns, auditors may detect anomalies or non-compliance issues. Anomalies could range from safety breaches to environmental concerns. Each anomaly detected leads to a reduction in operating licenses. Audits following emergency shutdowns may present challenges related to rectifying the detected anomalies, adding an extra layer of gameplay depth.}"
+ },
+ {
+  "id": 905,
+  "type": "heading",
+  "section": "OPERATING LICENSES",
+  "s": "{0|License Recovery}"
+ },
+ {
+  "id": 907,
+  "type": "body",
+  "section": "OPERATING LICENSES",
+  "s": "{0|To recover a lost license, the player must successfully operate the reactor and meet the city's minimum service level for a full in-game day. This emphasizes the importance of consistent and high-quality performance.}"
+ },
+ {
+  "id": 909,
+  "type": "heading",
+  "section": "OPERATING LICENSES",
+  "s": "{0|Strategic Decision-Making}"
+ },
+ {
+  "id": 911,
+  "type": "body",
+  "section": "OPERATING LICENSES",
+  "s": "{0|Players must balance the need for energy generation with maintaining a high service level to retain licenses. Strategic planning becomes crucial to avoid unnecessary license depletions.}"
+ },
+ {
+  "id": 913,
+  "type": "body",
+  "section": "OPERATING LICENSES",
+  "s": "{0|Handling emergency situations effectively is not only vital for immediate safety but also to prevent excessive license loss during audits. Successfully recovering lost licenses not only allows the player to continue operating but also contributes to building a positive reputation with the city.}"
+ },
+ {
+  "id": 917,
+  "type": "body",
+  "section": "OPERATING LICENSES",
+  "s": "{0|This Operating Licenses System adds a dynamic and challenging element to the game, encouraging players to maintain a delicate balance between operational efficiency, city relations, and emergency response.}"
+ },
+ {
+  "id": 921,
+  "type": "heading",
+  "section": "GENERATION AND DISTRIBUTION OF ELECTRICAL ENERGY",
+  "s": "{0|GENERATION AND DISTRIBUTION OF ELECTRICAL ENERGY}"
+ },
+ {
+  "id": 922,
+  "type": "body",
+  "section": "GENERATION AND DISTRIBUTION OF ELECTRICAL ENERGY",
+  "s": "{0|A power generation plant should meet demand rather than generating any arbitrary amount of energy for several key reasons:}"
+ },
+ {
+  "id": 923,
+  "type": "heading",
+  "section": "GENERATION AND DISTRIBUTION OF ELECTRICAL ENERGY",
+  "s": "{0|Operational Efficiency}"
+ },
+ {
+  "id": 924,
+  "type": "body",
+  "section": "GENERATION AND DISTRIBUTION OF ELECTRICAL ENERGY",
+  "s": "{0|Generating only the amount of energy required to meet current demand ensures efficient plant operation. Unnecessary overproduction can result in energy and resource losses.}"
+ },
+ {
+  "id": 925,
+  "type": "heading",
+  "section": "GENERATION AND DISTRIBUTION OF ELECTRICAL ENERGY",
+  "s": "{0|Economy}"
+ },
+ {
+  "id": 926,
+  "type": "body",
+  "section": "GENERATION AND DISTRIBUTION OF ELECTRICAL ENERGY",
+  "s": "{0|Generating more energy than needed involves additional costs associated with the production, transmission, and distribution of that surplus energy. Meeting demand adjusts operational costs and maintains economic efficiency.}"
+ },
+ {
+  "id": 927,
+  "type": "heading",
+  "section": "GENERATION AND DISTRIBUTION OF ELECTRICAL ENERGY",
+  "s": "{0|System Stability}"
+ },
+ {
+  "id": 928,
+  "type": "body",
+  "section": "GENERATION AND DISTRIBUTION OF ELECTRICAL ENERGY",
+  "s": "{0|Maintaining a balance between supply and demand is essential for the stability of the electrical system. Energy excess can lead to issues such as overvoltage and unstable frequencies, impacting the reliability of the electrical supply.}"
+ },
+ {
+  "id": 929,
+  "type": "heading",
+  "section": "GENERATION AND DISTRIBUTION OF ELECTRICAL ENERGY",
+  "s": "{0|Order of actions}"
+ },
+ {
+  "id": 930,
+  "type": "body",
+  "section": "GENERATION AND DISTRIBUTION OF ELECTRICAL ENERGY",
+  "s": "{0|1. Electric power generation}"
+ },
+ {
+  "id": 931,
+  "type": "body",
+  "section": "GENERATION AND DISTRIBUTION OF ELECTRICAL ENERGY",
+  "s": "{0|2. Absorption of excess energy}"
+ },
+ {
+  "id": 932,
+  "type": "body",
+  "section": "GENERATION AND DISTRIBUTION OF ELECTRICAL ENERGY",
+  "s": "{0|3. Transformation and distribution}"
+ },
+ {
+  "id": 934,
+  "type": "heading",
+  "section": "Excess energy generated",
+  "s": "{0|Excess energy generated}"
+ },
+ {
+  "id": 935,
+  "type": "body",
+  "section": "Excess energy generated",
+  "s": "{0|Excess energy generated in a power}"
+ },
+ {
+  "id": 937,
+  "type": "body",
+  "section": "Excess energy generated",
+  "s": "{0|generation plant refers to a situation where the energy production exceeds the current demand.}"
+ },
+ {
+  "id": 938,
+  "type": "body",
+  "section": "Excess energy generated",
+  "s": "{0|This can occur due to fluctuations in energy demand, operational conditions of the plant, or the intermittent nature of some energy sources, such as solar or wind. It is crucial to address this excess energy to maintain the stability of the electrical system.}"
+ },
+ {
+  "id": 939,
+  "type": "body",
+  "section": "Excess energy generated",
+  "s": "{0|Resistance banks are devices designed to absorb and dissipate the excess generated energy. When there is surplus energy in the grid, resistance banks are activated to convert the unused electrical energy}"
+ },
+ {
+  "id": 940,
+  "type": "body",
+  "section": "Excess energy generated",
+  "s": "{0|into heat. This process helps balance supply and demand, preventing issues such as overvoltage that could damage electrical equipment and ensuring system stability.}"
+ },
+ {
+  "id": 943,
+  "type": "heading",
+  "section": "Energy transformation",
+  "s": "{0|Energy transformation}"
+ },
+ {
+  "id": 944,
+  "type": "body",
+  "section": "Energy transformation",
+  "s": "{0|Transformers are used in power generation plant for several fundamental reasons. Firstly, they allow the adjustment of voltage levels to optimize the efficiency of electrical energy transmission and distribution.}"
+ },
+ {
+  "id": 946,
+  "type": "body",
+  "section": "Energy transformation",
+  "s": "{0|By stepping up the voltage using transformers before long-distance transmission, energy losses on transmission lines are reduced, as power is proportional to the square of the current, and increasing voltage decreases current.}"
+ },
+ {
+  "id": 947,
+  "type": "body",
+  "section": "Energy transformation",
+  "s": "{0|Secondly, transformers facilitate the adaptation of voltage levels across different stages of the electrical system. In power generation, electricity is often generated at relatively low voltages, and}"
+ },
+ {
+  "id": 948,
+  "type": "body",
+  "section": "Energy transformation",
+  "s": "{0|step-up transformers increase this voltage to levels suitable for efficient transmission.}"
+ },
+ {
+  "id": 949,
+  "type": "body",
+  "section": "Energy transformation",
+  "s": "{0|Subsequently, in substations near consumption centers, step-down transformers are used to decrease the voltage to safe and practical levels for domestic and industrial distribution.}"
+ },
+ {
+  "id": 950,
+  "type": "body",
+  "section": "Energy transformation",
+  "s": "{0|Voltage Adjustment:}{1|Nuclear power plant generators produce electricity at a relatively high voltage. To efficiently transmit this energy over long distances and distribute it to end consumers, a transformer is used to adjust the voltage to appropriate levels.}"
+ },
+ {
+  "id": 951,
+  "type": "body",
+  "section": "Energy transformation",
+  "s": "{0|Reduction of Transmission Losses:}{1|Transmitting electricity at higher voltages reduces energy losses during transmission. According to Ohm's Law, power lost in a transmission line is proportional to the square of the current. By increasing the voltage, the current is reduced, and thus energy losses are minimized.}"
+ },
+ {
+  "id": 952,
+  "type": "body",
+  "section": "Energy transformation",
+  "s": "{0|Integration with the Electrical Grid:}{1|Transformers enable the connection of the nuclear power plant to the electrical grid efficiently. They adapt the energy generated in the plant to the grid's characteristics, ensuring smooth and secure integration.}"
+ },
+ {
+  "id": 953,
+  "type": "body",
+  "section": "Energy transformation",
+  "s": "{0|Circuit Separation:}{1|Transformers are also used to separate circuits within the plant. For example, there can be transformers connecting the generators to the electrical grid and others supplying power to internal plant systems, ensuring the stability and safety of the internal power supply.}"
+ },
+ {
+  "id": 954,
+  "type": "body",
+  "section": "Energy transformation",
+  "s": "{0|Phase Isolation:}{1|In nuclear plants, where safety is paramount, transformers are used to isolate the phases of the electrical system. This helps prevent short circuits and enhances the safety of the electrical system.}"
+ },
+ {
+  "id": 955,
+  "type": "body",
+  "section": "Energy transformation",
+  "s": "{0|Voltage and Frequency Control:}{1|Transformers allow for the control of voltage and frequency of the generated energy, ensuring it meets the standards and requirements of the connected electrical grid.}{2|It is not implemented in the game.}"
+ },
+ {
+  "id": 956,
+  "type": "body",
+  "section": "Energy transformation",
+  "s": "{0|Adaptation to Variable Loads:}{1|Transformers facilitate the adaptation of the plant to variations in electrical load. They can adjust the voltage as needed to maintain system stability, especially during abrupt changes in demand.}{2|It is not implemented in the game.}"
+ },
+ {
+  "id": 962,
+  "type": "heading",
+  "section": "Resistance Banks",
+  "s": "{0|Resistance Banks}"
+ },
+ {
+  "id": 963,
+  "type": "body",
+  "section": "Resistance Banks",
+  "s": "{0|Each resistor bank contains four resistance blocks and a cooling system. The absorbed energy is transformed into heat and then dissipated by the}{1|cooling system. If the bank fails to dissipate the heat from the absorbed energy, it will degrade, and the resistance blocks could burn out.}"
+ },
+ {
+  "id": 966,
+  "type": "body",
+  "section": "Resistance Banks",
+  "s": "{0|The absorption capacity of a resistance bank is given by the number of resistance blocks installed and in good condition. A burned resistance block decreases the absorption power by 25%.}"
+ },
+ {
+  "id": 967,
+  "type": "body",
+  "section": "Resistance Banks",
+  "s": "{0|Attention: AO can repair the resistor bank, but cannot replace the burned resistance blocks. That is an exclusive task of the plant operator.}"
+ },
+ {
+  "id": 968,
+  "type": "body",
+  "section": "Resistance Banks",
+  "s": "{0|Resistance banks serve as emergency devices for load control within the power plant. During periods of high demand or unforeseen circumstances, these banks can be activated to absorb excess electrical energy, preventing overloading of the system.}"
+ },
+ {
+  "id": 969,
+  "type": "heading",
+  "section": "Resistance Banks",
+  "s": "{0|Importance of Resistance Banks}"
+ },
+ {
+  "id": 970,
+  "type": "body",
+  "section": "Resistance Banks",
+  "s": "{0|Load Balancing:}{1|Resistance banks assist in balancing the electrical load within the system. During peak demand, they provide a means to absorb excess energy and prevent strain on the grid.}{2|Grid Stability:}{3|Utilizing resistance banks helps maintain grid stability by preventing overloads and ensuring a consistent and reliable power supply to consumers.}{4|Emergency Control:}{5|These devices serve as emergency load control measures, activated only when necessary to address sudden spikes in demand or unexpected events.}"
+ },
+ {
+  "id": 971,
+  "type": "heading",
+  "section": "Resistance Banks",
+  "s": "{0|Reasons for Controlled Usage}"
+ },
+ {
+  "id": 972,
+  "type": "body",
+  "section": "Resistance Banks",
+  "s": "{0|Preventing Wear and Tear:}{1|Continuous use of resistance banks can lead to wear and tear. Therefore, they are designed for occasional and controlled activation to preserve their effectiveness during emergencies.}{2|Thermal Stress:}{3|Excessive heating due to prolonged usage can cause thermal stress on the resistance elements, affecting their longevity and performance.}{4|Efficient Emergency Response:}{5|Limiting the use of resistance banks to emergency situations ensures their availability and effectiveness when urgently needed, contributing to a more efficient emergency response.}"
+ },
+ {
+  "id": 973,
+  "type": "heading",
+  "section": "Resistance Banks",
+  "s": "{0|Safety Considerations}"
+ },
+ {
+  "id": 974,
+  "type": "body",
+  "section": "Resistance Banks",
+  "s": "{0|Ensures that the resistance bank operates within safe temperature limits, minimizing the risk of overheating and potential damage.}"
+ },
+ {
+  "id": 975,
+  "type": "body",
+  "section": "Resistance Banks",
+  "s": "{0|Emergency Use Only: It's emphasized that resistance banks are devices of emergency use and should not be activated routinely. This approach ensures their readiness and reliability during critical situations.}"
+ },
+ {
+  "id": 976,
+  "type": "bullet",
+  "section": "Resistance Banks",
+  "s": "{0|The energy generated must not exceed the demand: to achieve this, reduce the power of the reactor or divert the surplus to the resistor banks.}"
+ },
+ {
+  "id": 978,
+  "type": "bullet",
+  "section": "Resistance Banks",
+  "s": "{0|The energy generated must be transformed before being delivered to the electrical grid: to achieve this, it uses energy transformers.}"
+ },
+ {
+  "id": 980,
+  "type": "bullet",
+  "section": "Resistance Banks",
+  "s": "{0|The energy generated that cannot be delivered or absorbed by the resistor banks will seriously damage the generating turbine, the intermediate hubs and the internal and distribution cables of the plant.}"
+ }
+]

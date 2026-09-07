@@ -1,0 +1,32 @@
+[
+ {
+  "id": 2389,
+  "type": "heading",
+  "section": "ESCAPE VIA TRAIN",
+  "s": "{0|ESCAPE VIA TRAIN}"
+ },
+ {
+  "id": 2390,
+  "type": "body",
+  "section": "ESCAPE VIA TRAIN",
+  "s": "{0|Opting to escape via the train concludes the current game, and the player can start anew in the next round. However, they begin with 50% of their accumulated points, experience, and level.}"
+ },
+ {
+  "id": 2393,
+  "type": "heading",
+  "section": "ESCAPE VIA TRAIN",
+  "s": "{0|Fresh Start or Prestige Points}"
+ },
+ {
+  "id": 2394,
+  "type": "body",
+  "section": "ESCAPE VIA TRAIN",
+  "s": "{0|Players must weigh the risk and reward of their decision. Choosing to escape via the train provides a chance to start over with a fresh perspective with 50% of the player's points, experience, and level. This choice allows for a fresh start but with reduced progress.}"
+ },
+ {
+  "id": 2395,
+  "type": "body",
+  "section": "ESCAPE VIA TRAIN",
+  "s": "{0|In summary, the core fusion sequence introduces a critical moment in the game where players must decide between attempting to halt the fusion for prestige points and repair bonuses or escaping via the train for a new beginning with reduced progress.}"
+ }
+]

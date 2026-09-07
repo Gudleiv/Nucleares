@@ -1,0 +1,470 @@
+[
+ {
+  "id": 1544,
+  "type": "heading",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|CONTROL PANEL: INTERNAL SUPPLY | SWITCHES}"
+ },
+ {
+  "id": 1547,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|External Energy Supplier}"
+ },
+ {
+  "id": 1549,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|This switch allows connecting the plant to the external power provider to supply the internal energy requirement. Electricity consumption must be paid daily on a day-to-day basis. Invoices can be consulted in the tablet's Bank app.}"
+ },
+ {
+  "id": 1551,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|Generator Group Mode Selector}"
+ },
+ {
+  "id": 1553,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|1. Manual Mode:}{1|In Manual Mode, the operator has direct}"
+ },
+ {
+  "id": 1554,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|control over the generator group's operation. In emergency situations, the Manual mode ensures that the operator has immediate control over the generator's startup and shutdown. This can be crucial for responding rapidly to unforeseen events or quickly addressing power demand fluctuations.}"
+ },
+ {
+  "id": 1556,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|Start Operation:}{1|The operator initiates the generator by pressing the \"Start\" button. This action activates the generator and begins the power generation process.}"
+ },
+ {
+  "id": 1558,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|Stop Operation:}{1|To cease generator operation, the operator presses the \"Stop\" button. This action halts the generator, bringing it to a complete stop.}"
+ },
+ {
+  "id": 1560,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|2. Automatic Mode:}{1|In Automatic Mode, the generator group}"
+ },
+ {
+  "id": 1561,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|operates based on internal plant requirements and predefined criteria. The mode offers a more hands-free approach, and the system manages the generator's status without continuous manual intervention.}"
+ },
+ {
+  "id": 1563,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|Automatic Startup:}{1|The generator automatically starts when specific conditions or internal demands within the plant necessitate additional power. These conditions might include high energy demand, unexpected power loss, or other triggers configured in the system.}"
+ },
+ {
+  "id": 1565,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|Automatic Shutdown:}{1|Similarly, the generator automatically shuts down when the plant's internal systems determine that additional power is no longer required. This could be in response to decreased demand or the availability of alternative power sources.}"
+ },
+ {
+  "id": 1567,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|Emergency Battery Rack Mode Selector}"
+ },
+ {
+  "id": 1569,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|The Emergency Battery Rack Mode Selector is a crucial component that allows operators to choose between manual and automatic modes for the emergency battery rack.}"
+ },
+ {
+  "id": 1571,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|1.  Manual Mode:}{1|In Manual Mode, operators have direct control}"
+ },
+ {
+  "id": 1572,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|over the emergency battery rack's operation.}"
+ },
+ {
+  "id": 1574,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|Use Mode:}{1|The operator selects the \"Use\" mode, making the battery rack available for immediate use to supply internal power within the plant. In this mode, the batteries are ready to provide energy whenever needed.}"
+ },
+ {
+  "id": 1576,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|Charge Mode:}{1|If the operator switches to \"Charge\" mode, the battery rack is configured to solely charge the batteries. While in Charge mode, the batteries do not supply energy to the plant but focus on recharging for future use.}"
+ },
+ {
+  "id": 1578,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|2.  Automatic Mode:}{1|In Automatic Mode, the emergency battery}"
+ },
+ {
+  "id": 1579,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|rack operates based on dynamic plant conditions and energy demand. The mode allows the system to manage the battery rack's status automatically, optimizing charging and discharging based on real-time requirements.}"
+ },
+ {
+  "id": 1581,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|Automatic Charging:}{1|The battery rack automatically enters charging mode when the system detects a need for replenishing the battery capacity. This ensures that the batteries are maintained at optimal levels to respond to potential power outages or high demand periods.}"
+ },
+ {
+  "id": 1583,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|Automatic Power Supply:}{1|In response to increased energy demand or specific triggers within the plant, the battery rack automatically switches to \"Use\" mode, supplying power internally. This occurs without manual intervention, contributing to seamless and responsive energy management.}"
+ },
+ {
+  "id": 1585,
+  "type": "bullet",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|Seamless Energy Transition}"
+ },
+ {
+  "id": 1587,
+  "type": "body",
+  "section": "CONTROL PANEL: INTERNAL SUPPLY | SWITCHES",
+  "s": "{0|The Automatic mode facilitates a seamless transition between charging and supplying power based on plant requirements. This adaptability contributes to uninterrupted energy supply and efficient energy management during varying operational scenarios.}"
+ },
+ {
+  "id": 1591,
+  "type": "heading",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|CONTROL PANEL: PRESSURIZER}"
+ },
+ {
+  "id": 1592,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|The Pressurizer Control Panel is a critical component located in the control room, responsible for managing and regulating the pressurized water reactor (PWR) system's pressurizer.}"
+ },
+ {
+  "id": 1595,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|The Pressurizer Control Panel allows operators to monitor and control the pressure inside the pressurizer vessel. Maintaining the correct pressure is essential for the safe and efficient operation of the nuclear reactor.}"
+ },
+ {
+  "id": 1596,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Level:}{1|The primary purpose of the Level Meter is to offer a visual representation of the coolant level inside the pressurizer, allowing operators to monitor and maintain the proper volume of coolant.}{3|The Level Meter includes a scale with gradations that helps operators interpret the coolant level. This scale is divided into different zones to provide a clear indication of whether the coolant volume is within the desired range.}"
+ },
+ {
+  "id": 1598,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Midpoint (}{1|Green Zone}{2|):}{3|The midpoint of the scale, often represented by a green zone, signifies the optimal coolant level. If the needle aligns with this midpoint, it indicates that the pressurizer contains the correct volume of coolant for normal operation.}"
+ },
+ {
+  "id": 1600,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|High}{1|and}{2|Low}{3|Zones:}{4|The scale extends beyond the midpoint, featuring high and low zones. If the needle moves towards the high zone, it suggests an excess of coolant, while movement towards the low zone indicates a potential deficit.}"
+ },
+ {
+  "id": 1602,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|The Level Meter provides operators with immediate visual feedback on the pressurizer's coolant level. This enables quick assessments and timely interventions to ensure that the reactor operates within safe parameters.}"
+ },
+ {
+  "id": 1604,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Changes in the pressurizer conditions, such as temperature adjustments or alterations in pressure, may influence the coolant volume. The Level Meter responds dynamically to these changes, keeping operators informed about the evolving status of the pressurizer.}"
+ },
+ {
+  "id": 1606,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Pressure:}{1|The primary purpose of the Pressure Gauge is to provide operators with a visual indication of the pressure conditions inside the pressurizer. Monitoring pressure is crucial for maintaining the safe and efficient operation of the pressurized water reactor system. The gauge responds dynamically to changes in pressurizer conditions. Adjustments to temperature, coolant volume, or reactor power can influence pressure, and the gauge provides immediate feedback on these changes.}"
+ },
+ {
+  "id": 1608,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Temperature:}{1|The primary purpose of the Temperature Gauge is to offer operators a visual representation of the temperature conditions within the pressurizer. Monitoring temperature is essential for ensuring the safe and efficient operation of the pressurized water reactor system. The Temperature Gauge responds dynamically to changes in pressurizer conditions. Variations in reactor power, coolant volume, or external factors can influence temperature, and the gauge provides immediate feedback on these changes.}"
+ },
+ {
+  "id": 1610,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Heating Power:}{1|The primary purpose of the Heating Power Meter is to offer operators a visual representation of the power generated by the internal heaters in the pressurizer. Monitoring heating power is essential for controlling the temperature and pressure conditions within the pressurized water reactor system.}"
+ },
+ {
+  "id": 1612,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Heating power is directly linked to temperature control within the pressurizer. The Heating Power Meter is integrated into the overall control systems, working in tandem with temperature and pressure indicators to ensure coordinated responses for maintaining optimal reactor conditions.}"
+ },
+ {
+  "id": 1614,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Operators can adjust the heating power based on the desired temperature conditions. The Heating Power Meter provides operators with a clear indication of the power level, enabling them to make real-time adjustments to meet operational requirements.}"
+ },
+ {
+  "id": 1616,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Pressurizer Indicator Lights}"
+ },
+ {
+  "id": 1618,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Heaters On}{1|: Activates when the internal heaters within the pressurizer are actively heating. It confirms that the heating system is operational and working to maintain the desired temperature within the pressurizer.}"
+ },
+ {
+  "id": 1620,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|The \"Heaters On\" light assures operators that the pressurizer's heating elements are engaged and contributing to the controlled environment necessary for reactor operation.}"
+ },
+ {
+  "id": 1622,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Dry Heaters}{1|: Activates when there is a risk of the heaters operating without adequate coolant. It signals a potential issue where the heating elements might be at risk of overheating due to insufficient coolant coverage.}"
+ },
+ {
+  "id": 1624,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|This warning is critical, prompting operators to address the coolant levels promptly to prevent damage to the heating elements and maintain safe pressurizer conditions.}"
+ },
+ {
+  "id": 1626,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Required Maintenance:}{1|Signals that the pressurizer is due for scheduled maintenance. It may be triggered based on operating hours, cycles, or other predefined criteria to ensure the ongoing reliability of the pressurizer system.}"
+ },
+ {
+  "id": 1628,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|This indicator prompts operators to schedule and perform necessary maintenance tasks, preventing potential issues and ensuring the continued efficient operation of the pressurizer.}"
+ },
+ {
+  "id": 1629,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Operating Pressure Reached:}{1|When the pressure inside the pressurizer reaches the desired operating level, the \"Operating Pressure Reached\" light illuminates. It indicates that the pressurizer has achieved the intended pressure conditions for normal reactor operation.}"
+ },
+ {
+  "id": 1631,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|This light assures operators that the pressurizer is functioning within the specified pressure range, contributing to stable reactor conditions.}"
+ },
+ {
+  "id": 1633,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Operating Temperature Reached:}{1|Activates when the temperature within the pressurizer reaches the desired operating level. It signals that the heating system has effectively achieved the required temperature conditions.}"
+ },
+ {
+  "id": 1635,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|This light provides confirmation to operators that the pressurizer has attained the necessary temperature for optimal reactor performance.}"
+ },
+ {
+  "id": 1637,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Overpressurized:}{1|Activates when the pressure inside the pressurizer exceeds safe operational limits. It signals a critical situation where immediate corrective actions are necessary to avoid potential safety hazards.}"
+ },
+ {
+  "id": 1639,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|This warning is a crucial safety feature, alerting operators to intervene promptly and implement measures to bring the pressurizer back to within acceptable pressure levels.}"
+ },
+ {
+  "id": 1641,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|In summary, the pressurizer indicator lights play a vital role in providing real-time feedback to operators, ensuring the safe and efficient operation of the pressurized water reactor system. Each light serves a specific purpose, from confirming normal operation to signaling potential issues that require immediate attention or scheduled maintenance.}"
+ },
+ {
+  "id": 1642,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Pressurizer Control Panel Diagram}"
+ },
+ {
+  "id": 1644,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|The Pressurizer Control Panel features a graphical representation of the pressurizer system, including two essential connections: the Vent Valve for releasing steam and pressure, and the Spray Valve for injecting coolant to cool the pressurizer.}"
+ },
+ {
+  "id": 1646,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|The color scheme is used to indicate the status of each valve:}"
+ },
+ {
+  "id": 1648,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Red Color: Valve Closed}"
+ },
+ {
+  "id": 1649,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Yellow Color: Valve in Transition}"
+ },
+ {
+  "id": 1650,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|Green Color: Valve Open}"
+ },
+ {
+  "id": 1651,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|The color changes in real-time based on the operational status of each valve. Operators can observe the graphical representation to assess whether the valves are closed, in transition, or fully open.}"
+ },
+ {
+  "id": 1652,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER",
+  "s": "{0|As operators manipulate the valves or as the system responds to changing conditions, the colors on the diagram dynamically update to reflect the status of each valve.}"
+ },
+ {
+  "id": 1654,
+  "type": "heading",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|CONTROL PANEL: PRESSURIZER | SWITCHES}"
+ },
+ {
+  "id": 1657,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|Heaters switch:}{1|The Pressurizer Internal Heaters Switch is a critical component on the control panel, allowing operators to control the activation or deactivation of the internal heaters within the pressurizer vessel. The switch serves as a manual control mechanism to turn the internal heaters of the pressurizer on or off.}"
+ },
+ {
+  "id": 1659,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|ON}{1|Position: When the switch is moved to the ON position, it signals the system to activate the internal heaters within the pressurizer. Heating Power: The internal heaters start generating heat, contributing to an increase in temperature within the pressurizer vessel.}"
+ },
+ {
+  "id": 1661,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|OFF}{1|Position: Moving the switch to the OFF position instructs the system to deactivate the internal heaters. Heating Power Cessation: The internal heaters cease generating heat, allowing the pressurizer to cool down if necessary.}"
+ },
+ {
+  "id": 1663,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|The switch provides operators with direct control over the heating function, allowing them to adjust the temperature conditions within the pressurizer based on operational requirements. The activation of heaters helps in maintaining the desired temperature within the pressurizer, a crucial factor for ensuring stable reactor conditions. Turning off the heaters allows for natural cooling or other cooling mechanisms to take effect, regulating the temperature as needed.}"
+ },
+ {
+  "id": 1665,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|Thermostat switch:}{1|A thermostat operates within the pressurizer to regulate the water temperature. However, it's important to note that the thermostat solely monitors the temperature and doesn't directly control or measure pressure or volume within the pressurizer. When the water temperature reaches a predetermined level, the thermostat detects this change and triggers a control mechanism to maintain the operating temperature.}{2|It's crucial to emphasize that the thermostat's role is limited to temperature regulation; it does not directly influence pressure or volume.}"
+ },
+ {
+  "id": 1667,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|Heating Power Selector:}{1|The regulator acts as a control mechanism to adjust the power output of the internal heaters within the pressurizer. Features a range of power settings that operators can adjust, influencing the amount of heat generated by the internal heaters.}"
+ },
+ {
+  "id": 1669,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|Operators can make real-time adjustments to the heating power, responding to changes in operational demands, temperature requirements, or emergency scenarios.}"
+ },
+ {
+  "id": 1671,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|The power regulator is integrated into the overall control systems of the pressurized water reactor, ensuring coordination with temperature, pressure, and safety systems.}"
+ },
+ {
+  "id": 1673,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|Vent Valve Selector:}{1|The Pressurizer Steam Vent Valve Control Panel is a critical component in the control system, enabling operators to manage the steam vent valve on the pressurizer. The panel features a selector with three positions:}"
+ },
+ {
+  "id": 1675,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|Open}{1|: Selecting the Open position activates the hydraulic motor associated with the steam vent valve. The hydraulic motor works to open the steam vent valve, allowing the controlled release of steam and pressure from the}{2|pressurizer. This position is utilized when controlled venting}{3|of steam is required to manage pressure within the}{4|pressurizer.}"
+ },
+ {
+  "id": 1677,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|Close}{1|: Choosing the Close position triggers the hydraulic motor linked to the steam vent valve. The hydraulic motor functions to close the steam vent valve, restricting the release}{2|of steam and pressure. This position is employed to cease}{3|venting and maintain desired pressure levels within the}{4|pressurizer.}"
+ },
+ {
+  "id": 1679,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|Off:}{1|Opting for the Off position deactivates the hydraulic motor associated with the steam vent valve. The hydraulic motor stops, halting any ongoing opening or closing activity}{2|of the steam vent valve. This position is chosen when it is}{3|necessary to keep the steam vent valve in a stable, non-}{4|operational state.}"
+ },
+ {
+  "id": 1681,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|The selector provides operators with direct control over the hydraulic motor of the steam vent valve, allowing them to initiate specific actions based on operational requirements. Operators can swiftly respond to changing conditions within the pressurizer, adjusting the steam vent valve as needed.}"
+ },
+ {
+  "id": 1683,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|Cooling Valve Selector:}{1|The Pressurizer Spray (or cooling) Valve Control Panel is a critical component in the control system, allowing operators to manage the spray valve off the pressurizer. The panel features a selector with three positions:}"
+ },
+ {
+  "id": 1685,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|Open:}{1|Selecting the Open position activates the hydraulic motor associated with the spray valve. The hydraulic motor works to open the spray valve, allowing the injection of}{2|coolant into the pressurizer for the purpose of cooling. This}{3|position is utilized when controlled cooling is required to}{4|manage temperature levels within the pressurizer.}"
+ },
+ {
+  "id": 1687,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|Close:}{1|Choosing the Close position triggers the hydraulic motor linked to the spray valve. The hydraulic motor functions to close the spray valve, stopping the injection of}{2|coolant. This position is employed to cease cooling and}{3|maintain desired temperature levels within the pressurizer.}"
+ },
+ {
+  "id": 1689,
+  "type": "bullet",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|Off:}{1|Opting for the Off position deactivates the hydraulic motor associated with the spray valve. The hydraulic motor stops, halting any ongoing opening or closing activity of the}{2|spray valve. This position is chosen when it is necessary to keep the spray valve in a stable, non-operational state.}"
+ },
+ {
+  "id": 1691,
+  "type": "body",
+  "section": "CONTROL PANEL: PRESSURIZER | SWITCHES",
+  "s": "{0|The selector provides operators with direct control over the hydraulic motor of the spray valve, allowing them to initiate specific actions based on operational requirements. Operators can swiftly respond to changing conditions within the pressurizer, adjusting the spray valve as needed for temperature control.}"
+ }
+]

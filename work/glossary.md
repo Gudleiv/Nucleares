@@ -1,0 +1,458 @@
+# Глоссарий: официальная локализация игры NUCLEARES (EN -> RU)
+
+Составлен автоматически из EN.dat/RU.dat и Principal*.xml по совпадающим ID.
+Проверяй по контексту: часть строк взята из несвязанных мест интерфейса.
+
+## Термины и названия элементов интерфейса
+
+- % FUEL / HOUR — % ТОПЛИВА В ЧАС
+- ABSORBED ENERGY — ОТВОДИМАЯ ЭНЕРГИЯ
+- ABSORPTION CAPACITY — Ионообменная ёмкость
+- Active alarms — Активные тревоги
+- Active Alarms — Активные тревоги
+- ALL SET — ВСЁ ГОТОВО
+- BATTERY CAPACITY — ЁМКОСТЬ\\nАККУМУЛЯТОРОВ
+- BATTERY RACK — СТЕЛЛАЖ АККУМУЛЯТОРОВ
+- BORIC ACID — БАК БОРА  | варианты: Борная кислота, ЗАПАС БОРНОЙ КИСЛОТЫ
+- Boric Acid — Пополнение борной кислоты
+- BYPASS VALVE LINK — Связь байпасных клапанов
+- CHARGE LEVEL — УРОВЕНЬ ЗАРЯДА
+- CHEMICAL TREATMENT — Химическая обработка
+- Chemical treatments — Химическая обработка
+- CIRCUIT BREAKER CLOSE — ЦЕПЬ ЗАМКНУТА
+- CIRCUIT BREAKER OPEN — ВЫКЛЮЧАТЕЛЬ РАЗОМКНУТЬ
+- Circulation Pump — ЦИРКУЛЯЦИОННЫЙ НАСОС
+- CIRCULATION PUMP — ЦИРКУЛЯЦИОННЫЙ НАСОС
+- Circulation Pumps — Циркуляционные насосы
+- CIRCULATION PUMPS — ЦИРКУЛЯЦИОННЫЕ НАСОСЫ
+- Circulation pumps — Циркуляционные насосы
+- CLOSE HATCH — ЗАКРЫТЬ ЛЮК
+- Condensate Flow Rate — Расход конденсата
+- Condensate Return Valve — Возвратный клапан конденсата
+- CONDENSER COOLING CIRCUIT — КОНТУР ТЕПЛОНОСИТЕЛЯ КОНДЕНСАТОРА
+- Condenser Suction Valve — Всасывающий клапан конденсатора
+- CONNECTED TRANSFORMERS — ПОДКЛЮЧЁННЫЕ СИЛОВЫЕ ТРАНСФОРМАТОРЫ
+- CONTAINMENT BUILDING — ЗДАНИЕ ЗАЩИТНОЙ ОБОЛОЧКИ
+- CONTROL ROD — РЕГУЛИРУЮЩИЙ СТЕРЖЕНЬ
+- CONTROL ROD MOTOR — ГИДРАВЛИЧЕСКИЙ ДВИГАТЕЛЬ СТЕРЖНЕЙ
+- CONTROL RODS — РЕГУЛИРУЮЩИЕ СТЕРЖНИ  | варианты: Регулирующие стержни
+- Control rods — Регулирующие стержни
+- Control room — Диспетчерская
+- CONTROL ROOM — ДИСПЕТЧЕРСКАЯ
+- Control the reactor — Управлять реактором
+- COOLANT FLOW — ПОТОК ТЕПЛОНОСИТЕЛЯ
+- COOLANT FLOW SPEED — СКОРОСТЬ ПОТОКА ТЕПЛОНОСИТЕЛЯ
+- COOLANT SYSTEM — СИСТЕМА ТЕПЛОНОСИТЕЛЯ
+- COOLANT VOLUME — ОБЪЁМ ТЕПЛОНОСИТЕЛЯ
+- Cooling Circuit — ПЕТЛЯ 3 (охлаждающая)
+- COOLING CIRCUIT — КОНТУР ТЕПЛОНОСИТЕЛЯ
+- Cooling tower — Градирня
+- COOLING TOWERS — ГРАДИРНИ
+- Cooling towers — Градирни
+- CORE INLET — ВХОД В АКТИВНУЮ ЗОНУ
+- CORE OUTER VESSEL — ВНЕШНИЙ КОРПУС АКТИВНОЙ ЗОНЫ
+- CORE POOL — ВНЕШНЯЯ АКТИВНАЯ ЗОНА
+- CORE VESSEL — КОРПУС АКТИВНОЙ ЗОНЫ
+- CRITICAL MASS — КРИТИЧЕСКАЯ МАССА
+- CURRENT POWER — ТЕКУЩАЯ МОЩНОСТЬ
+- Demand Exceeded — Потребление превышено
+- DISCHARGING % / hour — РАЗРЯДКА: % В ЧАС
+- DIVERT SURPLUS FROM — ОТВОД ИЗБЫТКА НАЧИНАЯ С:
+- DOSING PUMP — НАСОС-ДОЗАТОР
+- DRY HEATERS — СУХИЕ НАГРЕВАТЕЛИ
+- EFFICIENCY FACTOR — КОЭФФИЦИЕНТ ЭФФЕКТИВНОСТИ
+- ELECTRIC POWER — ЭЛЕКТРИЧ. МОЩНОСТЬ
+- EMERGENCY BATTERIES — АККУМУЛЯТОРЫ АВАРИЙНОГО ПИТАНИЯ
+- Emergency Stop — Аварийная остановка  | варианты: Запуск протокола аварийной остановки.
+- EMERGENCY STOP — АВАРИЙНАЯ ОСТАНОВКА
+- Emergency stop — Аварийная остановка
+- ENERGY DISTRIBUTION — РАСПРЕДЕЛЕНИЕ ЭНЕРГИИ
+- ENERGY GENERATED — ВЫРАБОТАННАЯ ЭНЕРГИЯ
+- Excess power generation — Избыточная энергия
+- EXTERNAL FREIGHT PUMP — ВНЕШНИЙ ПЕРВИЧНЫЙ НАСОС
+- External Freight Pump — ГРУЗОВОЙ НАСОС ВНЕШНЕГО РЕЗЕРВУАРА
+- EXTERNAL RESERVOIR — ВНЕШНИЙ РЕЗЕРВУАР  | варианты: ВНЕШНИЙ РЕЗЕРВУАР ТЕПЛОНОСИТЕЛЯ, Внешний резервуар
+- Extraction Flow — Выходной поток
+- FIELD EXCITATION — ВОЗБУЖДЕНИЕ ПОЛЯ
+- FREIGHT PUMP — ГРУЗОВОЙ НАСОС
+- Freight Pump — ГРУЗОВОЙ НАСОС
+- Freight Pumps — Грузовые насосы
+- Freight pumps — Грузовые насосы
+- GENERATED ENERGY — ВЫРАБОТАННАЯ ЭНЕРГИЯ
+- Generated Power — Вырабатываемая энергия
+- GENERATING ENERGY — ВЫРАБОТКА ЭНЕРГИИ
+- Generating turbine — Генераторная турбина
+- GROUND FLOOR — НУЛЕВОЙ ЭТАЖ
+- HEATERS ON — НАГРЕВАТЕЛИ ВКЛЮЧЕНЫ
+- HEATING POWER — МОЩНОСТЬ НАГРЕВА
+- High pressure — Высокое давление
+- HIGH PRESSURE — ВЫСОКОЕ ДАВЛЕНИЕ
+- High temperature — Высокая температура
+- High wear — большой износ
+- HYDRAULIC VALVES — ГИДРАВЛИЧЕСКИЙ КЛАПАН
+- IN-GAME HELP — Помощь:
+- INSUFFICIENT PRESTIGE POINTS — НЕДОСТАТОЧНО ОЧКОВ ПРЕСТИЖА
+- INTERNAL FREIGHT PUMP — ВНУТРЕННИЙ ПЕРВИЧНЫЙ НАСОС  | варианты: ГРУЗОВОЙ НАСОС ВНУТРЕННЕГО РЕЗЕРВУАРА
+- Internal Freight Pump — ГРУЗОВОЙ НАСОС ВНУТРЕННЕГО РЕЗЕРВУАРА
+- INTERNAL POWER DISTRIBUTION — Генераторы и аккумуляторы аварийного питания
+- Internal reservoir — Внутренний резервуар
+- INTERNAL RESERVOIR — ВНУТРЕННИЙ РЕЗЕРВУАР
+- INTERNAL SUPPLY — ВНУТРЕННЕЕ СНАБЖЕНИЕ
+- Internal supply — Внутреннее снабжение
+- INTERNAL TEMPERATURE — ВНУТРЕННЯЯ ТЕМПЕРАТУРА
+- Iodine Activity — Активность растворённого гамма-излуч. йода
+- ION EXCHANGE — СКОРОСТЬ НАСОСА ФИЛЬТРА
+- Logistics and deliveries — Логистика и поставки
+- LOOP 1 — ПЕТЛЯ 1
+- LOOP 2 — ПЕТЛЯ 2
+- LOOP 3 — ПЕТЛЯ 3
+- LOW INTEGRITY — НИЗКАЯ ЦЕЛОСТНОСТЬ
+- Low integrity — Низкая целостность  | варианты: низкая целостность
+- Main Steam Control Valves — Главные регулирующие клапаны пара
+- MAIN STEAM CONTROL VALVES — Главный регулирующий клапан пара
+- Maintenance Report — Отчёт о техобслуживании
+- MAINTENANCE REQUIRED — ТРЕБУЕТСЯ ОБСЛУЖИВАНИЕ
+- Maintenance tasks — Выберите задачи на техобслуживание
+- MAINTENANCE TASKS — Техобслуживание | Задачи
+- MAXIMUM CAPACITY — Суммарная мощность трансформаторов
+- Maximum Mode — Максимальный режим
+- Minimum Torque Reached — Достигнут минимальный крутящий момент
+- MODERATION LEVEL — УРОВЕНЬ ЗАМЕДЛЕНИЯ
+- NEW GAME — НОВАЯ ИГРА  | варианты: НОВОЕ
+- No Power — Кран обесточен или выключен.
+- Nominal Mode — Номинальный режим
+- Open / Close — Открыть/закрыть
+- OPEN HATCH — ОТКРЫТЬ ЛЮК
+- Operating Assistant — Операционный помощник
+- OPERATING ASSISTANT — Операционный помощник
+- Operating Licenses — Лицензии на эксплуатацию
+- OPERATING MODE — РЕЖИМ РАБОТЫ
+- Operating mode — Режим работы
+- OPERATING TEMPERATURE — РАБОЧАЯ ТЕМПЕРАТУРА
+- OPERATING TEMPERATURE REACHED — ДОСТИГНУТА РАБОЧАЯ ТЕМПЕРАТУРА
+- OPERATIONAL ASSISTANCE — ЗАПРОСИТЬ ПОМОЩЬ В УПРАВЛЕНИИ РЕАКТОРОМ
+- Operational Mode — Рабочий режим
+- Operational Motive Steam Inlet — Входной клапан рабочего пара
+- Operational Motive Steam Inlet Valve — Входной клапан рабочего пара
+- Operational Tasks — Операционные задачи
+- OPERATIONAL TASKS — ОПЕРАЦИОННЫЕ ЗАДАЧИ
+- OPTIMAL TEMPERATURE — ОПТИМАЛЬНАЯ ТЕМПЕРАТУРА
+- Power capacity — Мощность
+- POWER DELIVERED — Поставляемая энергия
+- POWER GENERATED — ВЫРАБАТЫВАЕМАЯ ЭНЕРГИЯ
+- POWER REGULATOR — РЕГУЛЯТОР МОЩНОСТИ
+- POWER SELECTOR — ПЕРЕКЛЮЧАТЕЛЬ МОЩНОСТИ
+- PRESSURIZER HEATERS — НАГРЕВАТЕЛИ КОМПЕНСАТОРА ДАВЛЕНИЯ  | варианты: Нагреватели компенсатора давления
+- PRESSURIZER TEMPERATURE — ТЕМПЕРАТУРА КОМПЕНСАТОРА ДАВЛЕНИЯ
+- Prestige Points — Очки престижа
+- Preventive Maintenance Analysis — Анализ профилактического техобслуживания
+- Primary Circuit — ПЕТЛЯ 1 (первичная)
+- PRIMARY CIRCUIT FREIGHT PUMP — ЗАПРАВКА ТЕПЛОНОСИТЕЛЯ
+- PRIMARY CIRCUIT PUMP — НАСОС ПИТАТЕЛЬНОЙ ВОДЫ
+- PRIMARY CIRCUIT PUMP SPEED — СКОРОСТЬ ЦИРКУЛЯЦИИ В КОНТУРЕ ТЕПЛОНОСИТЕЛЯ  | варианты: СКОРОСТЬ ЦИРКУЛЯЦИИ ТЕПЛОНОСИТЕЛЯ АКТИВНОЙ ЗОНЫ
+- RADIOACTIVE WASTE — РАДИОАКТИВНЫЕ ОТХОДЫ
+- Reactor Control — Управление реактором
+- REACTOR CORE — АКТИВНАЯ ЗОНА РЕАКТОРА  | варианты: Активная зона, Р (Реактор)
+- Reactor start-up protocol — Протокол запуска реактора
+- Reactor startup — Запуск реактора
+- Reactor startup protocol — Протокол запуска реактора
+- Request Assistance — Запросить помощь
+- Resistor Bank — ГРУППА РЕЗИСТОРОВ  | варианты: Группа резисторов
+- RESISTOR BANK — ГРУППА РЕЗИСТОРОВ
+- RESISTOR BANK SWITCHES — Выключатели групп резисторов
+- Resistor Banks — Контроль и обслуживание групп резисторов
+- Retention Tank — Накопительный бак
+- Retention Tank Vent — Вент. клапан накопительного бака
+- ROD HEIGHT — ВЫСОТА СТЕРЖНЯ
+- ROD MOTOR — ГРУППА РЕГУЛИРУЮЩИХ СТЕРЖНЕЙ
+- RPM LOWER — ОБ/МИН ПОНИЗИТЬ
+- Saturation Temperature — ТМП НАСЫЩЕНИЯ
+- Secondary Circuit — ПЕТЛЯ 2 (вторичная)
+- Service Compliance — Соответствие регламенту
+- Service compliance — Соответствие регламенту
+- SERVICE COMPLIANCE — СООТВЕТСТВИЕ РЕГЛАМЕНТУ
+- SHUT DOWN — ОТКЛЮЧИТЬ
+- Shutdown Mode — Режим останова
+- Shutting down — Останов
+- Sodium Hydroxide — Пополнение гидроксида натрия
+- SODIUM HYDROXIDE — БАК NaOH  | варианты: Гидроксид натрия, ЗАПАС ГИДРОКСИДА НАТРИЯ, Запас гидроксида натрия
+- SPRAY VALVE — РАСПЫЛИТЕЛЬНЫЙ КЛАПАН
+- Stabilization Protocol — Протокол стабилизации
+- Stable RPM — Стабил. об/мин
+- Start maintenance — Начать техобслуживание
+- START MAINTENANCE TASKS — НАЧАТЬ ТЕХОБСЛУЖИВАНИЕ
+- Startup Mode — Пусковой режим
+- Startup Motive Steam Inlet — Входной клапан пускового пара
+- Startup Motive Steam Inlet Valve — Входной клапан пускового пара
+- Status report — Отчёт о состоянии
+- Steam Generator — ПАРОГЕНЕРАТОР
+- STEAM GENERATOR — ПАРОГЕНЕРАТОР
+- Steam Generators — Парогенераторы
+- STEAM GENERATORS — Парогенератор
+- Steam Jet Ejector — Пароструйный эжектор
+- Steam level — Уровень пара
+- steam-water flow balance — баланс пароводяного потока
+- Suction Intake Valve — Всасывающий впускной клапан
+- Supplies and spare parts — Расходные материалы и запчасти
+- the Reactor Core. — Активная зона реактора.
+- THERMAL BALANCE — Тепловой баланс
+- THERMAL EFFICIENCY — ТЕПЛОВОЙ КПД
+- TOO FAST — СЛИШКОМ БЫСТРО
+- TOO SLOW — СЛИШКОМ МЕДЛЕННО
+- TOP FLOOR — ВЕРХНИЙ ЭТАЖ
+- TOTAL ENERGY GENERATED — ВСЕГО ВЫРАБОТАНО ЭНЕРГИИ
+- Turbine Generator — ГЕНЕРАТОРНАЯ ТУРБИНА
+- Turbine Generators — генераторные турбины
+- TURBINE GENERATORS — ТУРБОГЕНЕРАТОРЫ
+- TURBINE HALL — МАШИННЫЙ ЗАЛ
+- TURBINE TRIP — АВАР. ОСТАНОВ ТУРБИНЫ  | варианты: АВАРИЙНАЯ ОСТАНОВКА ТУРБИНЫ
+- TURN ON — ВКЛЮЧЕНИЕ  | варианты: ВКЛЮЧИТЬ
+- TURNING OFF — ВЫКЛЮЧЕНИЕ
+- TURNING ON — ВКЛЮЧЕНИЕ
+- URANIUM DIOXIDE — ДИОКСИД УРАНА
+- Vacuum pump — Вакуумный насос
+- VALVE OPEN — КЛАПАН ОТКРЫТ
+- VALVES PANEL — ПАНЕЛЬ КЛАПАНОВ
+- VENT VALVE — ВЕНТИЛЯЦИОННЫЙ КЛАПАН
+- Very high — Очень высокий  | варианты: Очень высокое
+- Very low — Очень низкое
+- VOLTAGE LOWER — НАПРЯЖЕНИЕ ПОНИЗИТЬ
+- VOLTAGE RAISE — НАПРЯЖЕНИЕ ПОВЫСИТЬ
+- WATER IN — Возвратный поток
+- Water Temperature — ТМП ВОДЫ
+- Wear and tear — Износ
+- Xenon Activity — Активность ксенона (продукта деления)
+
+## Отдельные слова (справочно)
+
+- Absorption — Поглощение
+- Accept — Принять
+- ACCEPT — ПРИНЯТЬ
+- ACHIEVEMENT — ДОСТИЖЕНИЕ
+- ACTIONS — ДЕЙСТВИЯ
+- Activate — Активировать
+- ACTIVATE — АКТИВИРОВАТЬ
+- Activated — Включена
+- ACTIVE — АКТИВНО
+- ACTIVITY — ДЕЙСТВИЕ
+- Adjust — Отрегулировать
+- ALARM — ТРЕВОГА
+- ALARMS — ТРЕВОГИ
+- Alarms — Тревоги
+- AMOUNT — СУММА
+- ANALYZE — АНАЛИЗ
+- ASSISTANT — ПОМОЩНИК
+- AUTOMATIC — АВТОМАТИЧЕСКИ
+- AVAILABLE — ДОСТУПНО
+- balance — Баланс
+- Balanced — БАЛАНС
+- Basic — ВЫСОКАЯ ПРОИЗВОДИТЕЛЬНОСТЬ
+- BATTERIES — АККУМУЛЯТОРЫ
+- BATTERY — АККУМУЛЯТОР
+- BONUS — БОНУС
+- BORON — БОР
+- Buildup — Концентрация
+- BUTTON — КНОПКА
+- BYPASS — БАЙПАС
+- CAPACITY — ПОГЛОЩАЮЩАЯ СПОСОБНОСТЬ
+- Cavitation — Кавитация
+- CHARGE — ЗАРЯД
+- CHARGING — ЗАРЯДКА
+- CIRCULATING — ТЕЧЁТ
+- Clamp — Захват
+- Close — Закрыть
+- CLOSE — ЗАКРЫТО
+- CLOSING — ЗАКРЫТИЕ
+- COMPLETED — ВЫПОЛНЕНО
+- COMPLIANCE — СООТВЕТСТВИЕ
+- Compliance: — Соответствие:
+- CONDENSER — КОНДЕНСАТОР
+- Condenser — КОНДЕНСАТОР
+- CONFIRM — ПОДТВЕРДИТЬ
+- CONNECT — ПОДКЛЮЧЕНИЕ
+- Connected — Есть подключение
+- CONNECTING — ПОДКЛЮЧЕНИЕ
+- CONSTANT — КРИТИЧЕСКАЯ
+- CONSUMED — ПОТРЕБЛЕНО
+- CONSUMING — ПОТРЕБЛЕНИЕ
+- CONSUMPTION — ПОТРЕБЛЕНИЕ
+- CONTAINER — КОНТЕЙНЕР
+- CONTAINMENT — Защитные экраны
+- Continue — Продолжить
+- CONTINUE — ПРОДОЛЖИТЬ
+- CONTROL — КОНТРОЛЬ
+- Controls — Управление
+- Coolant — Теплоноситель
+- COOLANT — Первичный теплоноситель
+- COOLING — ОХЛАЖДЕНИЕ
+- Crane — Кран
+- CREATE — СОЗДАТЬ
+- Critical — критическая
+- CURRENT — СЕЙЧАС
+- Current — Сейчас
+- DANGER — ОПАСНОСТЬ
+- Deactivate — Деактивировать
+- Deactivated — Выключено
+- DELIVERED — ДОСТАВЛЕНО
+- Deliveries — Логистика и поставки
+- Demand: — Потребление:
+- DEMAND: — ПОТРЕБЛЕНИЕ:
+- Destroyed — Уничтожено
+- DETECTED — ОБНАРУЖЕНО
+- DETERIORATION — ИЗНОС
+- DEVICE — УСТРОЙСТВО
+- DIFFICULT — ЧРЕЗВЫЧАЙНОЕ
+- DISCARD — УТИЛИЗАЦИЯ
+- Discard — Утилизировать
+- Disconnected — Нет подключения
+- DISPOSE — УТИЛИЗАЦИЯ
+- EFFICIENCY — ЭФФЕКТИВНОСТЬ
+- EMERGENCY — АВАРИЯ
+- EMPTY — ПУСТО
+- Empty — Пусто
+- ENABLE — ВКЛЮЧИТЬ
+- ENERGY — ЭНЕРГИЯ
+- Energy — Энергия
+- ENGINE — ДВИГАТЕЛЬ
+- ESCAPE — аварийный выход
+- EXCESS — ИЗБЫТОЧНЫЙ — 3
+- EXPLOSION — ВЗРЫВ
+- FACTOR — КОЭФФИЦИЕНТ
+- FAILED — ПРОВАЛЕНО
+- Fails — несоответствия
+- FILTER — ФИЛЬТР
+- FISSION — ДЕЛЕНИЕ ЯДЕР
+- FIXED — ПОСТОЯННОЕ
+- Force — Сила
+- Generated — Выработано
+- GENERATING — ВЫРАБОТКА
+- GENERATOR — ГЕНЕРАТОР
+- Generator — ЭЛЕКТРОГЕНЕРАТОР
+- HATCH — ЛЮК
+- Hazard — угроза
+- HEATERS — НАГРЕВАТЕЛИ
+- Highest — Максимальное качество
+- HOURS — Ч.
+- INITIATED — ЗАПУЩЕНО
+- INLET — ВХОД
+- Integrity — Целостность
+- INTEGRITY — ЦЕЛОСТНОСТЬ
+- INTERNAL — ВНУТРЕННЕЕ
+- INTRODUCED — ВВЕДЕНО
+- INVENTORY — ИНВЕНТАРЬ
+- IODINE-135 — ЙОД
+- LEVEL — УРОВЕНЬ
+- LEVER — РЫЧАГ
+- LIGHTS — ОСВЕЩЕНИЕ
+- LOADED — ЗАГРУЖЕНО
+- LOADING — ЗАГРУЗКА
+- LOANS — КРЕДИТЫ
+- LOCKED — ЗАБЛОКИРОВАНО
+- MAINTENANCE — ТЕХОБСЛУЖИВАНИЕ
+- Maintenance — Техобслуживание
+- MANUAL — ВРУЧНУЮ
+- MAXIMUM — МАКСИМУМ
+- Maximum — Максимум
+- MEASURE — ИЗМЕРЕНИЕ
+- Medium — Среднее
+- MEDIUM — СРЕДНЕ
+- Minimum — Минимум
+- MINUTE — МИН.
+- MINUTES — МИН.
+- Moderator — Замедлитель
+- MODERATOR — ЗАМЕДЛИТЕЛЬ
+- MONITOR — ОТСЛЕЖИВАТЬ
+- MOVING — ПЕРЕМЕЩЕНИЕ
+- NOMINAL — Номинальный
+- NORMAL — ЗНАТОК
+- Normal — средняя
+- NUCLEARES — NUCLEARES
+- OFFLINE — НЕ РАБОТАЕТ
+- ONLINE — КОМЦ
+- OPENING — ОТКРЫТИЕ
+- OPERATIONAL — В РАБОТЕ
+- OPERATIONS — ОПЕРАЦИИ
+- OPERATOR — ОПЕРАТОР
+- OPTIONS — НАСТРОЙКИ
+- ORDERED — ЗАДАНО
+- Others — Прочее
+- OUTLET — ВЫХОД
+- OVERALL — ОБЩЕЕ
+- OVERLOAD — ПЕРЕГРУЗКА
+- OVERPRESSURIZED — ИЗБЫТОЧНОЕ ДАВЛЕНИЕ
+- PENALTY — ШТРАФ
+- Performance: — Производительность:
+- PLAYER — ИГРОК
+- POSITION — ПОЗИЦИЯ
+- POWER — МОЩНОСТЬ
+- PRESSURE — ДАВЛЕНИЕ
+- PRESSURIZER — КОМПЕНСАТОР ДАВЛЕНИЯ
+- Pressurizer — Компенсатор давления
+- PROCESSING — ОБРАБОТКА
+- PROGRESS — ПРОГРЕСС
+- Pumps — Насосы
+- RADIATION — РАДИАЦИЯ
+- RANGE — ДИАПАЗОН
+- REACHED — ДОСТИГНУТО
+- REACTIVE — РЕАКТИВНОСТЬ
+- REACTIVITY — РЕАКТИВНОСТЬ
+- Reactor — Reactor
+- REDUCE — СНИЖЕНИЕ
+- RELEASE — ВЫБРОС
+- REMOVE — ИЗВЛЕЧЬ
+- REPAIR — РЕМОНТ
+- REQUEST — ЗАПРОС
+- REQUIRED — ТРЕБУЕТСЯ
+- Reservoir — Резервуары
+- Resistor — Резистор
+- RESPONDING — РЕАГИРУЮ
+- RESTORE — ВОССТАНОВИТЬ
+- SAFETY — БЕЗОПАСНОСТЬ
+- SCENARIOS — СЦЕНАРИИ
+- SCRAM — АВАРИЙНАЯ ЗАЩИТА
+- SECONDARY — ВТОРИЧНОЕ
+- SELECT — ВЫБРАТЬ
+- SENSOR — ДАТЧИК
+- SETUP — УСТАНОВКА
+- SHUTDOWN — Останов
+- Simulator — Симулятор
+- SPEED — СКОРОСТЬ
+- Speed: — Скорость:
+- STABILIZATION — СТАБИЛИЗАЦИЯ
+- START — СТАРТ
+- STARTING — ЗАПУСК
+- Starting — Запуск
+- Status — Состояние
+- STATUS — СОСТОЯНИЕ
+- STEAM — ПАР
+- Stored — Stored
+- STRENGTH — ПРОЧНОСТЬ
+- STRONG — СИЛЬНО
+- Stuck — Заклинило
+- SWITCH — ПЕРЕКЛЮЧАТЕЛЬ
+- SYNCHROSCOPE — СИНХРОНОСКОП
+- Taken — Занято
+- TEMPERATURE — ТЕМПЕРАТУРА
+- Temperature: — Температура:
+- TORQUE — КРУТЯЩИЙ МОМЕНТ
+- TOWER — ГРАДИРНЯ
+- TRAIN — ПОЕЗД
+- TRAINING — ОБУЧЕНИЕ
+- Transformer — СИЛОВОЙ ТРАНСФОРМАТОР
+- Transformers — Распределение энергии
+- TRANSFORMERS — СИЛОВОЙ ТРАНСФОРМАТОР
+- TURBINE — ГЕНЕРАТОРНАЯ ТУРБИНА
+- Turbines — Генераторные турбины
+- UNLOAD — ВЫГРУЗИТЬ
+- UNREACHABLE — НЕДОСТУПНО
+- UPGRADE — УЛУЧШЕНИЕ
+- URANIUM — УРАН
+- VACUUM — ВАКУУМ
+- VALVE — КЛАПАН
+- VESSEL — КОРПУС
+- VOLTAGE — НАПРЯЖЕНИЕ
+- VOLUME — ГРОМКОСТЬ
+- WARNING — ВНИМАНИЕ
+- WASTE — ОТХОДЫ
+- Xenon — Ксенон
+- XENON-135 — КСЕНОН

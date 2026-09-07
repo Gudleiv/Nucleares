@@ -1,0 +1,500 @@
+[
+ {
+  "id": 1696,
+  "type": "heading",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|CONTROL PANEL: STEAM GENERATOR}"
+ },
+ {
+  "id": 1697,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|The Steam Generators panel, situated in the control room, is a critical interface that provides comprehensive control over the steam generation process within the nuclear reactor.}"
+ },
+ {
+  "id": 1700,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|This panel plays a pivotal role in managing the transfer of heat from the primary coolant to the secondary side, eventually producing steam to drive the turbines.}"
+ },
+ {
+  "id": 1701,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Temperature:}{1|The meter provides operators with real-time readings of the temperature within each steam generator. This information is crucial for ensuring that the operating temperature remains within the specified safe and efficient range.}"
+ },
+ {
+  "id": 1703,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|The Temperature meter serves as an early warning system by indicating any deviations from the normal temperature range. If the temperature surpasses or falls below the predetermined thresholds, alarms may be triggered to alert operators of potential issues.}"
+ },
+ {
+  "id": 1705,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|As there are three separate meters corresponding to each steam generator, operators can individually monitor the temperature of each unit. This granularity is essential for identifying specific issues within a particular steam generator and taking targeted corrective actions.}"
+ },
+ {
+  "id": 1706,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Pressure:}{1|The Pressure meter provides operators with real-time readings of the pressure levels within each steam generator. This information is essential for ensuring that the pressure remains within the designated safe operational range.}"
+ },
+ {
+  "id": 1708,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Maintaining optimal pressure is crucial for the safe and efficient operation of steam generators. The Pressure meter serves as a critical parameter for safety control, alerting operators to any deviations from the recommended pressure levels.}"
+ },
+ {
+  "id": 1710,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|With three separate meters corresponding to each steam generator, operators can individually monitor the pressure levels of each unit. This granularity is crucial for identifying specific issues within a particular steam generator and taking targeted corrective actions.}"
+ },
+ {
+  "id": 1712,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Level:}{1|The Level meter provides real-time readings of the coolant volume within each steam generator. It is designed to measure the level of water, ensuring that an adequate amount of coolant is maintained to facilitate the steam generation process.}"
+ },
+ {
+  "id": 1714,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Maintaining the coolant at the optimum level is essential for the safe and efficient operation of steam generators. The Level meter helps operators ensure that the coolant volume remains within the designated safe operational range.}"
+ },
+ {
+  "id": 1716,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|With three separate meters corresponding to each steam generator, operators can individually monitor the coolant levels of each unit. This granularity is crucial for identifying specific issues within a particular steam generator and taking targeted corrective actions.}"
+ },
+ {
+  "id": 1717,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Thermal Balance | Steam-Water Flow Balance:}{1|Refers to the balance between the steam generated in the steam generator and the steam exiting the system. This equilibrium ensures that the steam produced aligns with the water returning from the condenser, sustaining a consistent and efficient cycle.}"
+ },
+ {
+  "id": 1721,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Steam Generated:}{1|It is the steam generation factor of the evaporator, used to compare with the steam outlet and coolant inlet factors to determine internal equilibrium.}"
+ },
+ {
+  "id": 1723,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|The amount of steam generated is directly proportional to the reactor's power output. To increase the steam generation, one of the following actions must be taken:}"
+ },
+ {
+  "id": 1724,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Increase Reactor Power: Boosting the reactor's power raises the heat transferred to the coolant, which in turn increases the rate of steam production.}"
+ },
+ {
+  "id": 1726,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Increase Circulation Pump Speed: Increasing the speed of the circulation pump enhances the flow rate of the coolant through the reactor core. This results in more efficient heat transfer and subsequently higher steam generation.}"
+ },
+ {
+  "id": 1728,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Adjustments to reactor power or pump speed must be made gradually and with careful monitoring to maintain operational safety and efficiency. Overloading the system can lead to overheating or an imbalance in the steam-water flow cycle, potentially compromising the reactor's stability.}"
+ },
+ {
+  "id": 1730,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Steam Outlet:}{1|It is the steam propulsion factor toward the turbines, used to compare with the steam generated and coolant inlet factors to determine internal equilibrium.}"
+ },
+ {
+  "id": 1732,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|The amount of steam discharged from the evaporator is directly influenced by two key factors:}"
+ },
+ {
+  "id": 1734,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Internal Pressure: Higher internal pressure increases the driving force that pushes the steam through the system, thereby raising the amount of steam expelled.}"
+ },
+ {
+  "id": 1735,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Opening of the Main Steam Control Valves: The degree to which the Main Steam Control Valves are open determines the flow rate of steam leaving the evaporator. Wider valve openings allow for greater steam discharge.}"
+ },
+ {
+  "id": 1737,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|How to increase the amount of steam expelled:}"
+ },
+ {
+  "id": 1739,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Increase the internal pressure within the evaporator by adjusting operational parameters, such as reactor power or heat input.}"
+ },
+ {
+  "id": 1741,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Ensure that the Main Steam Control Valves are opened to the appropriate degree to handle the desired flow rate.}"
+ },
+ {
+  "id": 1742,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Increasing pressure must be carefully managed to prevent system instability or over-pressurization, which could trigger safety mechanisms such as the pressure relief valve.}"
+ },
+ {
+  "id": 1744,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Valve adjustments should be gradual and monitored in real time to avoid abrupt changes in the steam-water balance.}"
+ },
+ {
+  "id": 1745,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Coolant Inlet:}{1|It is the coolant return factor from the condenser, used to compare with the steam generated and steam outlet factors to determine internal equilibrium. If the factor is very low or zero, check whether there is sufficient power in the circulation pump or if the evaporator pressure is too high, preventing coolant return.}"
+ },
+ {
+  "id": 1747,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|The amount of coolant returning to the evaporator is influenced by two primary factors:}"
+ },
+ {
+  "id": 1749,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Internal Pressure of the Evaporator: Higher internal pressure can reduce the pressure differential between the evaporator and the condenser, making it more difficult for coolant to return efficiently.}"
+ },
+ {
+  "id": 1751,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Circulation Pump Speed of the Condenser: Faster pump speeds increase the flow rate of coolant back into the evaporator, facilitating a more robust return cycle.}"
+ },
+ {
+  "id": 1753,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|How to increase the volume of coolant returning to the evaporator:}"
+ },
+ {
+  "id": 1755,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Increase the speed of the condenser circulation pumps to boost the coolant flow rate.}"
+ },
+ {
+  "id": 1757,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Reduce the internal pressure of the evaporator if it is excessively high and restrict coolant reentry. Adjusting operational parameters or venting excess steam may help achieve this.}"
+ },
+ {
+  "id": 1759,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Maintaining an optimal balance between pressure and pump speed is critical to ensuring efficient coolant return and stable system operation. Excessively high internal pressure not only impedes coolant return but also increases the risk of triggering safety systems such as the pressure relief valve. Adjustments should be performed gradually and under careful monitoring to avoid introducing system instabilities.}"
+ },
+ {
+  "id": 1760,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|Important:}{1|Maintaining this balance is essential for the safe and efficient operation of the reactor. However, in situations where the pressure inside the steam generator is very high, the water may not return in sufficient quantities due to the reduced pressure difference between the condenser and the generator.}{2|This imbalance can lead to a reduction in reactor efficiency and even jeopardize its operation if not properly controlled.}"
+ },
+ {
+  "id": 1765,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|The balance gauges provide a quick understanding of whether the current equilibrium situation will cause the evaporator to empty or become overpressurized.}"
+ },
+ {
+  "id": 1767,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|If the needle moves to the left, it means the evaporator is receiving more water than it can evaporate or expel, leading to an increase in the coolant level inside the evaporator. Conversely,}"
+ },
+ {
+  "id": 1769,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|If the needle moves to the right, the evaporator is generating more steam than it can recover, resulting in a decrease in its coolant volume.}"
+ },
+ {
+  "id": 1771,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR",
+  "s": "{0|The reactor's control system continuously monitors these variables and adjusts operational conditions to ensure that water and steam flow remain balanced, minimizing risks and optimizing energy generation.}"
+ },
+ {
+  "id": 1773,
+  "type": "heading",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|CONTROL PANEL: STEAM GENERATOR - SWITCHES}"
+ },
+ {
+  "id": 1776,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|Switches:}{1|The panel houses individual switches corresponding to each circulation pump in the secondary circuit. These switches control the activation or deactivation of the pumps. When the operator activates a switch (turning it from \"off\" to \"on\"), the associated circulation pump starts operating.}"
+ },
+ {
+  "id": 1778,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|Activating the pumps is crucial for maintaining a continuous flow of coolant within the secondary circuit, ensuring efficient heat transfer and preventing overheating. If needed, the operator can deactivate a pump by switching it from \"on\" to \"off”.}"
+ },
+ {
+  "id": 1780,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|Deactivating pumps might be necessary for maintenance, troubleshooting, or adjusting the system's operational parameters.}"
+ },
+ {
+  "id": 1782,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|In emergency scenarios or when rapid shutdown is required, the switches can be turned off collectively to shut down all circulation pumps simultaneously. Emergency shutdowns may be implemented in response to critical situations to prevent potential damage or hazards.}"
+ },
+ {
+  "id": 1784,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|Secondary Circuit Coolant Flow Speed:}{1|Is a critical component in controlling the speed of circulation pumps within the secondary circuit of the nuclear reactor. The panel features a regulator responsible for controlling the speed of all circulation pumps in the secondary circuit. The regulator is equipped with a dedicated display that provides real-time information on the average speed of all pumps and the total speed requested.}"
+ },
+ {
+  "id": 1786,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|Average Speed Display}{1|: The display on the regulator indicates the average speed of all circulation pumps currently in operation within the secondary circuit. This information allows operators to assess the overall performance of the circulation system immediately.}"
+ },
+ {
+  "id": 1788,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|Total Requested Speed Display:}{1|The regulator also displays the total speed requested for all circulation pumps combined. This value represents the collective speed that the system is expected to achieve, considering the demands of the operational conditions or specific requirements.}"
+ },
+ {
+  "id": 1790,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|Speed Adjustment:}{1|The operator can use the regulator to adjust the speed of all circulation pumps collectively. Turning the regulator dial or adjusting the control settings allows for precise control over the coolant flow speed within the secondary circuit.}"
+ },
+ {
+  "id": 1792,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|The regulator is designed to operate within the safety parameters of the nuclear reactor. Adjustments made through the regulator are subject to safety limits to prevent potential issues such as overheating or system instability.}"
+ },
+ {
+  "id": 1793,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|Operators continuously monitor the regulator's display to ensure that the average speed aligns with the desired operational parameters and that the total requested speed meets the reactor's current demands.}"
+ },
+ {
+  "id": 1794,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|Individual Secondary Circuit Coolant Flow Speed:}{1|Are essential components for controlling the speed of individual circulation pumps within the secondary circuit of the nuclear reactor. Each regulator is dedicated to controlling the speed of an individual circulation pump within the secondary circuit. The presence of three regulators corresponds to the three circulation pumps in the system.}"
+ },
+ {
+  "id": 1796,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|Each regulator is equipped with a display that provides real-time information on the speed of the associated pump. The display shows the current speed of the specific pump, allowing operators to monitor its performance.}"
+ },
+ {
+  "id": 1798,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|Additionally, the display features an average speed reading that represents the collective speed of all three pumps combined. This average speed value is calculated based on the individual speeds of each pump, providing an overview of the overall system performance.}"
+ },
+ {
+  "id": 1799,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|Each regulator allows operators to adjust the speed of the associated circulation pump independently. Fine-tuning the speed of individual pumps is crucial for maintaining balance and efficiency within the secondary circuit.}"
+ },
+ {
+  "id": 1800,
+  "type": "bullet",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|Pressure Relief Valve Controls:}{1|This control activates the evaporator's manual relief valve to release excess steam and reduce internal pressure. The relief valve is a critical safety component, manually operated to prevent overpressure conditions that could compromise the integrity of the evaporator or other connected systems.}"
+ },
+ {
+  "id": 1804,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|When the operator identifies that the internal pressure of the evaporator is approaching or exceeding safe limits, the relief valve can be opened manually to discharge steam into a designated containment or vent system. This action helps reduce pressure and protects the equipment from potential damage caused by overpressurization.}"
+ },
+ {
+  "id": 1806,
+  "type": "body",
+  "section": "CONTROL PANEL: STEAM GENERATOR - SWITCHES",
+  "s": "{0|Important:}{1|The operator must monitor system conditions carefully while using the relief valve, as improper or excessive use can lead to unstable pressure levels. Regular activation may indicate a failure in primary pressure control mechanisms, which should be investigated and resolved to maintain safe reactor operation.}"
+ },
+ {
+  "id": 1808,
+  "type": "heading",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|CONTROL PANEL: REACTOR FUEL}"
+ },
+ {
+  "id": 1809,
+  "type": "body",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|The Fuel Control Panel in the control room is a vital component for managing the nuclear reactor's fuel system. This panel provides the operator with a comprehensive interface to monitor, control, and ensure the proper functioning of the reactor's fuel configuration.}"
+ },
+ {
+  "id": 1813,
+  "type": "body",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|The Fuel Control Panel serves as a central hub for managing the reactor's fuel system, ensuring operational efficiency, safety, and adherence to protocol throughout the fuel transfer and placement processes.}"
+ },
+ {
+  "id": 1814,
+  "type": "body",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|The reactor core is equipped with}{1|9 fuel-loading bays}{2|, each designed with an integrated safety system that allows fuel blocks to be inserted or removed even while the reactor is active. These bays play a crucial role in managing the reactor's energy production and ensuring operational safety.}"
+ },
+ {
+  "id": 1815,
+  "type": "heading",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|Fuel Bay Representation}"
+ },
+ {
+  "id": 1816,
+  "type": "body",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|On the control panel, each fuel bay is represented by a circular icon with a number in its center:}"
+ },
+ {
+  "id": 1817,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|Black Icon:}{1|Indicates the bay is empty, with no fuel block loaded.}"
+ },
+ {
+  "id": 1818,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|Red or Yellow Icon:}{1|Indicates the bay contains a fuel block.}"
+ },
+ {
+  "id": 1819,
+  "type": "body",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|A}{1|white arrow-shaped indicator}{2|is used to show which bay is currently selected to receive operator commands.}{3|It is important to confirm the selected bay}{4|before executing any action, such as opening a hatch or moving a fuel block.}"
+ },
+ {
+  "id": 1820,
+  "type": "body",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|Each fuel bay is divided into two distinct sections:}"
+ },
+ {
+  "id": 1821,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|Upper Section (Safe Zone):}{1|Known as the expulsion or safety zone, this is where fuel blocks can be safely introduced or stored without being actively used for energy generation.}"
+ },
+ {
+  "id": 1822,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|Lower Section (Decomposition Zone):}{1|In this section, the fuel block is actively utilized to generate energy.}"
+ },
+ {
+  "id": 1823,
+  "type": "heading",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|Hatch Indicators: Open / Close / Secure}"
+ },
+ {
+  "id": 1824,
+  "type": "body",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|Each fuel bay hatch is equipped with three indicators that provide information about its current state:}"
+ },
+ {
+  "id": 1825,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|Open}{1|: Indicates that the hatch is open, allowing access between the Safe Zone and the Decomposition Zone. In this state, fuel block movement is not possible, as the hatch must be closed to ensure proper operation and safety.}"
+ },
+ {
+  "id": 1826,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|Close}{1|: Indicates that the hatch is closed, but the area is not yet fully sealed. This is a transitional state that allows for safe movement of fuel blocks between zones.}"
+ },
+ {
+  "id": 1827,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|Secure}{1|: Indicates that the hatch is closed, and the piston is in the upper position, fully sealing the exchange area. In this state, it is considered safe to open the hatch, as the sealed compartment prevents coolant or other materials from contaminating the safety zone during operations.}"
+ },
+ {
+  "id": 1828,
+  "type": "heading",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|Operational Notes}"
+ },
+ {
+  "id": 1829,
+  "type": "body",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|The}{1|Secure}{2|state is critical for maintaining safety during fuel handling. Operators must confirm that the hatch is in the}{3|Secure}{4|state before initiating any action that requires opening the hatch. Failing to do so can compromise the integrity of the system and lead to operational risks.}"
+ },
+ {
+  "id": 1830,
+  "type": "body",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|By monitoring these indicators, operators can ensure proper procedures are followed during reactor core operations, minimizing potential hazards and maintaining system integrity.}"
+ },
+ {
+  "id": 1831,
+  "type": "heading",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|Fuel Block Movement}"
+ },
+ {
+  "id": 1832,
+  "type": "body",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|To move a fuel block between the}{1|Safe Zone}{2|and the}{3|Decomposition Zone}{4|, the bay’s}{5|hatch must be closed}{6|. This is a fundamental safety protocol to prevent accidental exposure or contamination.}"
+ },
+ {
+  "id": 1833,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|Hatch Opening Requirements:}{1|The external vessel containing the core, which is submerged in coolant, must either be emptied or have its coolant level below the designated safety threshold. This precaution prevents coolant from entering the safety compartments when the hatch is opened.}"
+ },
+ {
+  "id": 1834,
+  "type": "bullet",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|Hatch Closing Requirement:}{1|The hatch must remain securely closed during any movement of fuel blocks to ensure the integrity of the process and avoid risks such as coolant leaks or uncontrolled reactions.}"
+ },
+ {
+  "id": 1835,
+  "type": "body",
+  "section": "CONTROL PANEL: REACTOR FUEL",
+  "s": "{0|By following these safety measures, operators can efficiently manage fuel handling while maintaining the stability and safety of the reactor system.}"
+ }
+]

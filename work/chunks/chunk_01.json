@@ -1,0 +1,332 @@
+[
+ {
+  "id": 25,
+  "type": "heading",
+  "section": "Disclaimer",
+  "s": "{0|Disclaimer}"
+ },
+ {
+  "id": 26,
+  "type": "body",
+  "section": "Disclaimer",
+  "s": "{0|This manual is intended solely for use in conjunction with NUCLEARES game. Under no circumstances should the information provided in this manual be considered applicable or authoritative for any real-world applications or activities. The simulation within the game incorporates modified laws of physics and chemistry to enhance gameplay, and as such, it does not strive for exact replication of real-world reactor operation.}"
+ },
+ {
+  "id": 27,
+  "type": "body",
+  "section": "Disclaimer",
+  "s": "{0|The content presented here is designed exclusively to assist players in understanding the mechanics and dynamics of the simulation game. Any resemblance to real-world nuclear operations is purely coincidental, and the simulation should not be regarded as a substitute for proper training, education, or professional guidance in the field of nuclear energy.}"
+ },
+ {
+  "id": 28,
+  "type": "body",
+  "section": "Disclaimer",
+  "s": "{0|The creators of the simulation game have taken creative liberties to balance realism with gameplay enjoyment. Therefore, users should be aware that the information presented in this manual is fictionalized and may deviate from actual nuclear reactor operations.}"
+ },
+ {
+  "id": 29,
+  "type": "body",
+  "section": "Disclaimer",
+  "s": "{0|Players and users are strongly advised not to attempt to apply the knowledge gained from this manual to real-world scenarios, as doing so may lead to incorrect understanding of nuclear processes and potential safety hazards. Always rely on accurate, verified information and adhere to established guidelines and regulations when dealing with real-world nuclear operations.}"
+ },
+ {
+  "id": 30,
+  "type": "body",
+  "section": "Disclaimer",
+  "s": "{0|By accessing and utilizing this manual, users acknowledge and accept the fictional nature of the content, understanding its exclusive purpose for enhancing the gaming experience. The creators of the simulation game disclaim any responsibility for the misuse or misapplication of the information presented herein in any real-world context.}{3|Index}"
+ },
+ {
+  "id": 176,
+  "type": "heading",
+  "section": "PRESSURIZED WATER REACTOR (PWR)",
+  "s": "{0|PRESSURIZED WATER REACTOR (PWR)}"
+ },
+ {
+  "id": 178,
+  "type": "body",
+  "section": "PRESSURIZED WATER REACTOR (PWR)",
+  "s": "{0|A Pressurized Water Reactor (PWR) is a complex system engineered to efficiently harness the energy produced by nuclear fission to generate electricity. Deep within the reactor vessel lies the heart of the PWR – the reactor core. Comprised of numerous fuel assemblies, typically containing uranium dioxide fuel pellets, this core facilitates controlled nuclear fission reactions. As uranium atoms split, they release tremendous amounts of heat energy in the form of radiation.}"
+ },
+ {
+  "id": 184,
+  "type": "body",
+  "section": "PRESSURIZED WATER REACTOR (PWR)",
+  "s": "{0|To manage the intense heat generated within the reactor core, a primary cooling circuit is employed. Water, acting as both a coolant and a moderator, circulates through the core, absorbing heat from the fuel assemblies. This heated water then flows through a network of pipes to transfer its thermal energy to the next stage of the system.}"
+ },
+ {
+  "id": 186,
+  "type": "body",
+  "section": "PRESSURIZED WATER REACTOR (PWR)",
+  "s": "{0|Within the primary cooling circuit, a critical component called the pressurizer plays a pivotal role. It maintains the water within the circuit at a high pressure, typically around 150 times atmospheric pressure. By doing so, the pressurizer ensures that the water remains in a liquid state, even at temperatures exceeding 300°C (572°F), preventing it from boiling within the reactor core.}"
+ },
+ {
+  "id": 188,
+  "type": "body",
+  "section": "PRESSURIZED WATER REACTOR (PWR)",
+  "s": "{0|The primary cooling circuit, now carrying heated water, directs it to the steam generator, a vital component where heat exchange occurs. Here, the hot water from the primary circuit transfers its thermal energy to a separate loop of water, typically known as the secondary circuit. As the secondary water absorbs heat, it undergoes phase change, transforming into steam. This steam is then superheated and pressurized, ready for the next stage of the process.}"
+ },
+ {
+  "id": 190,
+  "type": "body",
+  "section": "PRESSURIZED WATER REACTOR (PWR)",
+  "s": "{0|The high-pressure steam generated in the steam generator is channeled towards turbines, imposing its force on turbine blades. As the steam expands and flows over the blades, it causes the turbines to rotate at high speeds. This rotational motion is converted into mechanical energy, driving the connected shaft of the electrical generator.}"
+ },
+ {
+  "id": 192,
+  "type": "body",
+  "section": "PRESSURIZED WATER REACTOR (PWR)",
+  "s": "{0|The rotating shaft of the turbines is mechanically linked to an electrical generator. As the shaft spins, it induces electromagnetic fields within the generator's stator windings, resulting in the generation of electrical energy. This electricity, in the form of alternating current (AC), is then transmitted to the power grid for distribution to consumers.}"
+ },
+ {
+  "id": 194,
+  "type": "body",
+  "section": "PRESSURIZED WATER REACTOR (PWR)",
+  "s": "{0|After passing through the turbines, the steam, now significantly depleted of its thermal energy, enters the condenser. Here, it encounters a series of cold-water tubes, causing it to condense back into liquid form. The condensed water, known as condensate, is then collected, and pumped back to the steam generator to restart the cycle.}"
+ },
+ {
+  "id": 199,
+  "type": "body",
+  "section": "PRESSURIZED WATER REACTOR (PWR)",
+  "s": "{0|The}{1|Nucleares}{3|company's reactor is experimental, therefore, it has some design modifications that make it unique. The plant has a central building with three floors: distribution on the ground floor, the control room on the middle floor and the auxiliary power room on the top floor.}"
+ },
+ {
+  "id": 201,
+  "type": "body",
+  "section": "PRESSURIZED WATER REACTOR (PWR)",
+  "s": "{0|A containment building for the core, a radioactive waste building and an operational crane to move the fuel blocks (only when the plant is shut down). And finally, a power generation building for the generating turbines and the electric turbine.}"
+ },
+ {
+  "id": 203,
+  "type": "body",
+  "section": "PRESSURIZED WATER REACTOR (PWR)",
+  "s": "{0|In essence, the Pressurized Water Reactor (PWR) operates as a finely tuned system of controlled nuclear reactions, heat exchange mechanisms, and energy conversion processes. Each component plays a crucial role in the overall functionality of the reactor, ensuring the safe and efficient generation of electricity.}"
+ },
+ {
+  "id": 205,
+  "type": "heading",
+  "section": "COOLANT / MODERATOR",
+  "s": "{0|COOLANT / MODERATOR}"
+ },
+ {
+  "id": 207,
+  "type": "body",
+  "section": "COOLANT / MODERATOR",
+  "s": "{0|Light water is used as the primary coolant. Water enters through the bottom of the reactor's core and is heated as it flows upwards through the reactor core. The water remains liquid despite the high temperature due to the high pressure in the primary coolant loop, usually around 155 bar (15.0 MPa 153 atm, 2,250 psi). The water in a PWR cannot exceed a temperature of 647 K (374 °C; 705 °F) or a pressure of 22.064 MPa (3200 psi or 218 atm), because those are the critical point of water.}"
+ },
+ {
+  "id": 209,
+  "type": "body",
+  "section": "COOLANT / MODERATOR",
+  "s": "{0|Pressurized water reactors, like all thermal reactor designs, require the fast fission neutrons to be slowed (a process called moderation or thermalizing) to interact with the nuclear fuel and sustain the chain reaction. In PWRs the coolant water is used as a moderator by letting the neutrons undergo multiple collisions with light hydrogen atoms in the water, losing speed in the process. This \"moderating\" of neutrons will happen more often when the water is denser (more collisions will occur).}"
+ },
+ {
+  "id": 210,
+  "type": "body",
+  "section": "COOLANT / MODERATOR",
+  "s": "{0|The use of water as a moderator is an important safety feature of PWRs, as an increase in temperature may cause the water to expand, giving greater 'gaps' between the water molecules and reducing the probability of thermalization — thereby reducing the extent to which neutrons are slowed and hence reducing the reactivity in the reactor. Therefore, if reactivity increases beyond normal, the reduced moderation of neutrons will cause the chain reaction to slow down, producing less heat. This property, known as the negative temperature coefficient of reactivity, makes PWR reactors very stable.}"
+ },
+ {
+  "id": 212,
+  "type": "body",
+  "section": "COOLANT / MODERATOR",
+  "s": "{0|This process is referred to as 'Self-Regulating', i.e. the hotter the coolant becomes, the less reactive the plant becomes, shutting itself down slightly to compensate and vice versa. Thus, the plant controls itself around a given temperature set by the position of the control rods.}"
+ },
+ {
+  "id": 215,
+  "type": "heading",
+  "section": "ENRICHED URANIUM DIOXIDE FUEL",
+  "s": "{0|ENRICHED URANIUM DIOXIDE FUEL}"
+ },
+ {
+  "id": 218,
+  "type": "body",
+  "section": "ENRICHED URANIUM DIOXIDE FUEL",
+  "s": "{0|After enrichment, the uranium dioxide (UO2) powder is fired in a high-temperature, sintering furnace to create hard, ceramic pellets of enriched uranium dioxide. The cylindrical pellets are then clad in a corrosion-resistant zirconium metal alloy Zircaloy which are backfilled with helium to aid heat conduction and detect leakages.}"
+ },
+ {
+  "id": 220,
+  "type": "body",
+  "section": "ENRICHED URANIUM DIOXIDE FUEL",
+  "s": "{0|The fuel used in a pressurized water nuclear reactor, specifically enriched uranium dioxide, plays a crucial role in the nuclear fission process.}"
+ },
+ {
+  "id": 222,
+  "type": "heading",
+  "section": "ENRICHED URANIUM DIOXIDE FUEL",
+  "s": "{0|Composition}"
+ },
+ {
+  "id": 224,
+  "type": "body",
+  "section": "ENRICHED URANIUM DIOXIDE FUEL",
+  "s": "{0|Enriched uranium dioxide is the primary fuel employed in pressurized water nuclear reactors. It consists of uranium dioxide (UO2), where the uranium is intentionally enriched in the isotope uranium-235 (U-235) to increase its fissile properties. Enrichment is the process of increasing the concentration of uranium-235, the fissile isotope responsible for sustaining a chain reaction. The enrichment level in the fuel is carefully controlled to ensure efficient and sustained nuclear reactions.}"
+ },
+ {
+  "id": 225,
+  "type": "heading",
+  "section": "ENRICHED URANIUM DIOXIDE FUEL",
+  "s": "{0|Pellet Form}"
+ },
+ {
+  "id": 227,
+  "type": "body",
+  "section": "ENRICHED URANIUM DIOXIDE FUEL",
+  "s": "{0|The enriched uranium dioxide is typically processed into small ceramic pellets. These pellets are designed to withstand the harsh conditions within the reactor core while providing a stable and controlled environment for nuclear fission. The pellets are then loaded into fuel rod assemblies. Each fuel rod contains a specific arrangement of these pellets, forming a structured assembly. These assemblies are inserted into the reactor core.}"
+ },
+ {
+  "id": 229,
+  "type": "heading",
+  "section": "ENRICHED URANIUM DIOXIDE FUEL",
+  "s": "{0|Moderation and Control}"
+ },
+ {
+  "id": 231,
+  "type": "body",
+  "section": "ENRICHED URANIUM DIOXIDE FUEL",
+  "s": "{0|Within the reactor core, the uranium dioxide undergoes nuclear fission when bombarded by neutrons. The heat generated from fission reactions is moderated and controlled to maintain a steady and controlled release of energy. In a pressurized water reactor, water serves as both the coolant and the neutron moderator. The enriched uranium dioxide fuel interacts with the pressurized water to transfer heat efficiently while also moderating the speed of neutrons to sustain the fission process.}"
+ },
+ {
+  "id": 233,
+  "type": "heading",
+  "section": "ENRICHED URANIUM DIOXIDE FUEL",
+  "s": "{0|Energy Generation}"
+ },
+ {
+  "id": 235,
+  "type": "body",
+  "section": "ENRICHED URANIUM DIOXIDE FUEL",
+  "s": "{0|As fission reactions continue, a significant amount of thermal energy is produced. This heat is utilized to produce steam, which then drives turbines connected to generators, ultimately generating electricity.}"
+ },
+ {
+  "id": 237,
+  "type": "body",
+  "section": "ENRICHED URANIUM DIOXIDE FUEL",
+  "s": "{0|Over time, as the reactor operates, the fuel undergoes burnup, where fissile isotopes are consumed, and fission products accumulate. The management of fuel burnup is a key consideration in reactor operation and maintenance.}"
+ },
+ {
+  "id": 239,
+  "type": "heading",
+  "section": "ENRICHED URANIUM DIOXIDE FUEL",
+  "s": "{0|Safety Measures:}"
+ },
+ {
+  "id": 241,
+  "type": "body",
+  "section": "ENRICHED URANIUM DIOXIDE FUEL",
+  "s": "{0|The design and characteristics of enriched uranium dioxide fuel are carefully engineered to ensure the safety and stability of the nuclear reactor. Emergency shutdown systems and control mechanisms are in place to manage the fuel under various conditions.}"
+ },
+ {
+  "id": 243,
+  "type": "body",
+  "section": "ENRICHED URANIUM DIOXIDE FUEL",
+  "s": "{0|In summary, enriched uranium dioxide is a specialized fuel tailored for use in pressurized water nuclear reactors. Its composition, processing into pellets, and controlled use within the reactor core contribute to the efficient generation of nuclear power while prioritizing safety and stability.}"
+ },
+ {
+  "id": 245,
+  "type": "heading",
+  "section": "DETERMINING THE FUEL LEVEL",
+  "s": "{0|DETERMINING THE FUEL LEVEL}"
+ },
+ {
+  "id": 247,
+  "type": "body",
+  "section": "DETERMINING THE FUEL LEVEL",
+  "s": "{0|Determining the remaining amount of fuel in a nuclear reactor based on the position of control rods involves monitoring the insertion or withdrawal of these rods within the reactor core.}"
+ },
+ {
+  "id": 249,
+  "type": "heading",
+  "section": "DETERMINING THE FUEL LEVEL",
+  "s": "{0|Control Rods and Fuel Monitoring}"
+ },
+ {
+  "id": 252,
+  "type": "body",
+  "section": "DETERMINING THE FUEL LEVEL",
+  "s": "{0|Control rods are crucial components within a nuclear reactor responsible for regulating the rate of nuclear fission reactions. By adjusting the position of these rods, operators can control the neutron flux and, subsequently, the reactor's power output. Each control rod is equipped with position indicators that provide information about its location within the reactor core. These indicators are monitored by the reactor control system.}"
+ },
+ {
+  "id": 254,
+  "type": "heading",
+  "section": "DETERMINING THE FUEL LEVEL",
+  "s": "{0|Fuel Burnup}"
+ },
+ {
+  "id": 256,
+  "type": "body",
+  "section": "DETERMINING THE FUEL LEVEL",
+  "s": "{0|As the reactor operates and nuclear reactions occur, the fuel undergoes burnup, meaning fissile isotopes are consumed. The position of control rods influences the distribution of neutron flux, affecting the burnup rate. When control rods are partially or fully withdrawn, more neutrons are available to initiate fission reactions, leading to an increase in reactor power. The position of the control rods is correlated with the power level of the reactor.}"
+ },
+ {
+  "id": 258,
+  "type": "body",
+  "section": "DETERMINING THE FUEL LEVEL",
+  "s": "{0|Control rod positioning is a key aspect of fuel management strategies. By strategically adjusting the position of control rods, operators can optimize fuel utilization, extending the overall lifespan of the fuel and maximizing energy output.}"
+ },
+ {
+  "id": 259,
+  "type": "heading",
+  "section": "MEASURING THE CORE TEMPERATURE",
+  "s": "{0|MEASURING THE CORE TEMPERATURE}"
+ },
+ {
+  "id": 261,
+  "type": "body",
+  "section": "MEASURING THE CORE TEMPERATURE",
+  "s": "{0|In a nuclear reactor, the core is where nuclear fission takes place and generates heat. Due to the high radiation and temperature, it is not possible to directly measure the temperature of the nuclear fuel in the core accurately. Therefore, an indirect technique is used to measure the core temperature by measuring the temperature of the coolant that surrounds the core.}"
+ },
+ {
+  "id": 264,
+  "type": "body",
+  "section": "MEASURING THE CORE TEMPERATURE",
+  "s": "{0|The coolant in a nuclear reactor circulates through the core, absorbs the heat generated by nuclear fission, and transports it through the cooling system. Since the coolant is in direct contact with the core, its temperature provides a good indication of the core temperature.}"
+ },
+ {
+  "id": 266,
+  "type": "body",
+  "section": "MEASURING THE CORE TEMPERATURE",
+  "s": "{0|Moreover, the temperature of the fuel may vary in different parts of the core. By measuring the temperature of the coolant that surrounds the core, temperature differences in various parts of the core can be detected. This can be useful in detecting problems in the distribution of heat in the core and in preventing damage to the fuel.}"
+ },
+ {
+  "id": 268,
+  "type": "body",
+  "section": "MEASURING THE CORE TEMPERATURE",
+  "s": "{0|Attention, if in game the fuel is exposed to high temperatures, it could be damaged and could even cause the core to explode.}"
+ },
+ {
+  "id": 270,
+  "type": "body",
+  "section": "MEASURING THE CORE TEMPERATURE",
+  "s": "{0|In summary, it is impossible to directly measure the core temperature in a}{1|nuclear reactor due to the high radiation and temperature. Instead, an indirect technique of measuring the coolant temperature that surrounds the core is used to determine the core temperature and to detect problems in the heat distribution in different parts of the core.}"
+ },
+ {
+  "id": 272,
+  "type": "heading",
+  "section": "MEASURING THE TEMPERATURE OF A CONTAINER",
+  "s": "{0|MEASURING THE TEMPERATURE OF A CONTAINER}"
+ },
+ {
+  "id": 274,
+  "type": "body",
+  "section": "MEASURING THE TEMPERATURE OF A CONTAINER",
+  "s": "{0|The correct temperature reading of a container cannot be obtained if it does not have sufficient liquid volume. This is because the temperature of the liquid in the container and its surroundings can be different.}"
+ },
+ {
+  "id": 277,
+  "type": "body",
+  "section": "MEASURING THE TEMPERATURE OF A CONTAINER",
+  "s": "{0|If there is too little liquid, the temperature may increase significantly, as heat will not be distributed evenly in the container. Likewise, if there is too little liquid in a cooled container, the temperature may decrease significantly. If the container does not have the proper volume, or is empty, the temperature reading on the gauges will be incorrect or it will read 0°C. This can lead to significant issues, especially in processes where temperature is critical.}"
+ },
+ {
+  "id": 279,
+  "type": "body",
+  "section": "MEASURING THE TEMPERATURE OF A CONTAINER",
+  "s": "{0|Inaccurate temperature readings can also result in safety hazards. For instance, in a process where overheating of a vessel can cause a rupture or explosion, an inaccurate temperature reading could cause operators to fail to take appropriate corrective action in time, leading to a potential safety incident.}"
+ },
+ {
+  "id": 280,
+  "type": "body",
+  "section": "MEASURING THE TEMPERATURE OF A CONTAINER",
+  "s": "{0|In summary, it is important to have sufficient liquid volume in a container to obtain an accurate temperature reading. Otherwise, temperature measurement may be incorrect, which can lead to problems in the operation and control of processes where temperature is critical.}"
+ }
+]
